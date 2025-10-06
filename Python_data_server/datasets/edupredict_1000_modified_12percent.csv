@@ -1,0 +1,1001 @@
+date,student_id,Name,preferred_course,course_demand,predicted_performance,timestamp,course_id,attendance_status,gpa,attendance_rate,hours_studied_per_week,previous_failures,attendance_percentage,quizzes_completed,assignments_completed,lms_engagement_score,dropout_risk
+10/20/2024,S556,Fatima,Business Analytics,High,Above Average,22:32.9,C105,Absent,0.72,0.54,1.51,3,54,37,6,35.06,Low
+10/24/2024,S3492,Noor,AI,Medium,Excellent,10:14.2,C104,Absent,3.14,0.81,8.71,1,81,43,16,72.84,Medium
+10/10/2024,S528,Zara,AI,High,Above Average,23:51.3,C104,Present,0.74,0.59,1.17,4,59,37,6,36.8,Low
+10/17/2024,S3926,Zara,Web Development,Low,Below Average,01:00.4,C103,Present,3.27,0.9,9.23,0,90,49,13,66.04,High
+10/22/2024,S2990,Mehwish,AI,Medium,Average,03:22.3,C105,Late,3.83,0.94,11.81,0,94,47,18,89.81,Medium
+10/21/2024,S071,Bilal,AI,Medium,Average,15:08.4,C104,Present,0.54,0.46,1.85,2,46,32,9,27.67,Low
+10/12/2024,S1757,Ahmed,Data Science,High,Excellent,18:46.6,C104,Present,2.64,0.68,5.74,1,68,37,11,54.49,Low
+10/4/2024,S212,Fatima,Data Science,Medium,Average,16:55.5,C101,Present,1.82,0.47,2.13,3,47,35,8,20.92,Medium
+10/18/2024,S197,Bilal,AI,Medium,Above Average,22:09.3,C103,Late,1.88,0.48,2.26,3,48,32,6,33.99,Medium
+10/11/2024,S804,Laiba,Data Science,High,Excellent,17:45.2,C101,Late,1.81,0.56,3.64,2,56,35,9,35.9,Low
+10/22/2024,S3410,Iqra,Cybersecurity,Medium,Below Average,23:03.7,C103,Present,3.04,0.84,9.67,0,84,44,12,67.25,Medium
+10/7/2024,S3837,Laiba,Cybersecurity,Medium,Average,09:18.4,C102,Present,2.82,0.84,8.04,1,84,47,15,68.06,High
+10/18/2024,S1147,Usman,Web Development,High,Average,00:57.4,C104,Present,1.84,0.59,2.99,2,59,38,7,20.89,Medium
+10/3/2024,S1499,Noor,Business Analytics,Low,Above Average,15:21.4,C104,Present,2.08,0.73,4.66,1,73,44,11,41.34,Low
+10/12/2024,S3859,Hassan,Cybersecurity,Low,Average,12:50.1,C103,Present,3.0,0.83,7.66,0,83,43,16,63.77,High
+10/21/2024,S3483,Imran,Business Analytics,Medium,Average,09:07.1,C101,Present,3.12,0.77,9.28,0,77,44,15,68.83,Medium
+10/24/2024,S1186,Laiba,AI,High,Excellent,04:32.9,C103,Present,0.89,0.6,3.25,2,60,30,9,37.45,Low
+10/15/2024,S472,Hamza,Web Development,High,Excellent,21:21.2,C101,Late,0.87,0.41,3.88,4,41,30,6,26.24,Medium
+10/17/2024,S595,Saad,Data Science,Medium,Average,15:05.2,C105,Present,0.65,0.47,3.2,4,47,35,8,27.91,Medium
+10/13/2024,S322,Danish,Data Science,Medium,Excellent,23:42.5,C102,Present,1.07,0.47,2.86,4,47,36,7,25.3,Low
+10/24/2024,S1418,Danish,Data Science,High,Above Average,00:29.6,C103,Present,2.69,0.63,5.98,2,63,39,10,58.82,High
+10/20/2024,S1675,Fatima,Cybersecurity,Low,Excellent,03:14.3,C104,Late,2.2,0.71,6.14,1,71,38,12,51.39,High
+10/18/2024,S3591,Imran,Data Science,Medium,Average,23:00.1,C102,Present,3.46,0.83,7.74,1,83,40,16,63.9,Medium
+10/12/2024,S1704,Taha,AI,Low,Excellent,17:17.5,C104,Present,2.09,0.62,4.97,2,62,39,14,58.68,High
+10/10/2024,S2541,Aleena,Business Analytics,Low,Above Average,09:12.3,C105,Present,3.73,0.95,15.71,0,95,47,17,89.66,Medium
+10/3/2024,S206,Taha,Cybersecurity,Medium,Average,09:45.3,C102,Present,1.25,0.52,2.3,2,52,32,5,35.47,Medium
+10/18/2024,S3888,Imran,Cybersecurity,Low,Below Average,04:39.6,C105,Absent,3.43,0.86,7.94,0,86,44,12,79.26,Medium
+10/21/2024,S3249,Hassan,AI,Medium,Excellent,13:31.4,C104,Present,3.47,0.86,8.36,0,86,42,13,62.49,Medium
+10/17/2024,S2132,Noor,Business Analytics,Low,Average,12:36.5,C102,Present,3.73,0.96,14.73,0,96,48,19,88.79,Medium
+10/21/2024,S1256,Fatima,Business Analytics,High,Excellent,19:07.3,C101,Present,2.03,0.66,5.44,1,66,44,14,41.05,Low
+10/12/2024,S2300,Hamza,Web Development,Low,Average,07:59.2,C102,Present,3.98,0.93,14.92,0,93,50,20,89.82,High
+10/3/2024,S1227,Bilal,Business Analytics,High,Below Average,00:58.3,C104,Absent,2.68,0.73,4.98,2,73,37,13,44.24,Low
+10/21/2024,S3919,Noor,AI,Medium,Excellent,23:47.2,C102,Present,3.42,0.89,6.76,1,89,46,14,77.65,High
+10/7/2024,S2465,Hassan,Data Science,Low,Average,06:56.2,C101,Present,3.65,0.93,17.67,0,93,48,16,97.91,Medium
+10/10/2024,S2384,Mehwish,Cybersecurity,Low,Below Average,06:39.4,C103,Late,3.91,0.96,17.2,0,96,50,20,83.62,High
+10/9/2024,S150,Danish,Business Analytics,Medium,Above Average,10:01.4,C103,Present,0.62,0.48,2.66,4,48,32,5,34.6,Medium
+10/8/2024,S870,Taha,Web Development,High,Average,19:16.5,C103,Late,1.82,0.44,1.21,2,44,31,7,31.23,Low
+10/1/2024,S1979,Ayaan,Cybersecurity,Medium,Above Average,06:11.4,C103,Late,3.8,0.92,14.3,0,92,50,20,92.05,High
+10/10/2024,S2457,Danish,Data Science,Medium,Below Average,16:18.2,C105,Present,3.72,0.92,17.75,0,92,49,18,98.37,Medium
+10/12/2024,S3866,Mariam,Business Analytics,Low,Average,06:36.2,C105,Present,3.09,0.88,9.5,0,88,41,15,63.6,High
+10/9/2024,S2213,Mehwish,AI,Low,Below Average,21:52.2,C103,Late,3.96,0.96,10.29,0,96,50,15,93.93,Medium
+10/1/2024,S1007,Laiba,Web Development,Medium,Excellent,17:21.5,C102,Present,1.14,0.59,3.3,4,59,34,7,21.38,Medium
+10/23/2024,S3048,Hassan,Data Science,Low,Below Average,05:42.3,C105,Present,3.92,0.95,17.38,0,95,50,17,80.25,Medium
+10/4/2024,S706,Imran,Data Science,Medium,Excellent,02:24.4,C105,Present,0.53,0.5,1.45,3,50,35,5,22.91,Low
+10/15/2024,S3144,Hassan,Cybersecurity,Medium,Above Average,19:14.4,C104,Present,3.57,0.9,16.54,0,90,47,20,92.16,Medium
+10/11/2024,S3597,Saad,AI,Medium,Below Average,21:41.3,C102,Present,3.01,0.79,9.58,0,79,42,16,77.61,Medium
+10/22/2024,S1988,Bilal,Business Analytics,Low,Average,21:54.4,C103,Present,3.95,0.96,19.09,0,96,50,18,85.86,High
+10/2/2024,S180,Mehwish,AI,High,Excellent,10:04.2,C103,Late,1.54,0.54,1.42,4,54,36,10,29.79,Medium
+10/11/2024,S110,Mariam,Data Science,Medium,Excellent,05:09.5,C103,Present,1.9,0.45,2.18,3,45,36,8,29.36,Low
+10/18/2024,S3079,Laiba,Web Development,Low,Average,11:35.4,C105,Late,3.71,0.97,10.66,0,97,45,17,92.04,High
+10/11/2024,S1056,Fatima,AI,Medium,Excellent,16:22.2,C102,Present,1.98,0.48,3.47,2,48,31,10,31.14,Low
+10/11/2024,S3953,Saad,Data Science,Low,Average,15:37.1,C102,Present,2.91,0.83,6.74,1,83,46,13,78.24,Medium
+10/10/2024,S315,Imran,AI,High,Above Average,01:23.5,C101,Late,0.72,0.41,2.39,4,41,30,6,28.69,Low
+10/11/2024,S1823,Hira,Business Analytics,Low,Above Average,04:46.1,C103,Present,3.99,0.99,16.06,0,99,46,19,81.99,Medium
+10/9/2024,S568,Danish,Business Analytics,High,Excellent,10:01.4,C103,Present,1.69,0.41,2.77,2,41,33,9,30.84,Medium
+10/9/2024,S880,Hira,Web Development,Medium,Above Average,09:02.6,C104,Present,1.37,0.48,1.39,2,48,39,10,33.99,Medium
+10/19/2024,S2231,Hassan,Business Analytics,Low,Above Average,08:49.4,C101,Late,3.61,0.92,15.65,0,92,48,15,92.35,Medium
+10/2/2024,S1412,Iqra,Data Science,Low,Excellent,08:05.4,C103,Present,2.56,0.7,5.58,1,70,36,12,54.22,High
+10/3/2024,S3225,Hira,Web Development,Medium,Below Average,12:50.4,C104,Present,2.88,0.86,7.01,1,86,50,12,72.99,High
+10/16/2024,S3937,Areeba,Web Development,Medium,Excellent,16:03.4,C105,Present,2.94,0.81,9.14,0,81,46,15,70.5,High
+10/22/2024,S3250,Danish,Data Science,Medium,Average,18:56.8,C101,Present,3.27,0.83,9.44,1,83,40,15,64.5,Medium
+10/21/2024,S930,Fatima,Cybersecurity,Medium,Above Average,20:24.6,C102,Present,0.66,0.45,3.18,4,45,34,6,31.73,Medium
+10/15/2024,S2579,Hira,Cybersecurity,Medium,Above Average,13:49.0,C105,Late,3.68,0.96,16.16,0,96,48,20,80.32,Medium
+10/24/2024,S3380,Hassan,Business Analytics,Medium,Average,08:28.3,C101,Present,3.24,0.9,6.42,1,90,42,13,66.98,Medium
+10/23/2024,S2293,Hamza,Business Analytics,Medium,Average,08:39.2,C101,Absent,3.52,0.94,13.04,0,94,46,16,91.94,High
+10/17/2024,S1503,Usman,Business Analytics,Low,Below Average,07:01.3,C102,Present,2.75,0.65,6.24,2,65,42,10,57.49,High
+10/11/2024,S3783,Saad,Data Science,Low,Average,15:37.1,C102,Present,3.09,0.8,8.79,0,80,43,13,61.8,High
+10/15/2024,S606,Hassan,Data Science,High,Above Average,03:35.3,C101,Present,0.81,0.53,1.28,2,53,33,8,38.76,Medium
+10/13/2024,S1989,Fatima,Business Analytics,Medium,Above Average,11:12.4,C103,Late,3.98,0.94,14.18,0,94,50,16,88.74,Medium
+10/15/2024,S015,Saad,Data Science,Medium,Average,16:35.3,C104,Present,1.86,0.53,2.28,2,53,30,5,26.47,Medium
+10/16/2024,S1262,Bilal,AI,Low,Below Average,19:53.4,C104,Present,2.43,0.65,6.94,1,65,42,10,47.94,High
+10/4/2024,S3239,Ahmed,Cybersecurity,Low,Average,20:49.8,C101,Present,3.2,0.84,8.44,1,84,47,15,64.95,High
+10/4/2024,S3319,Hamza,Web Development,Low,Average,02:04.3,C101,Present,3.13,0.82,6.26,1,82,46,14,60.43,Medium
+10/16/2024,S009,Aleena,AI,Medium,Excellent,05:53.6,C105,Present,0.87,0.56,3.37,2,56,38,10,21.41,Low
+10/15/2024,S890,Imran,Cybersecurity,Medium,Above Average,13:13.4,C101,Absent,1.48,0.43,3.09,3,43,36,9,33.63,Low
+10/20/2024,S3149,Laiba,Cybersecurity,Low,Above Average,16:54.2,C105,Absent,3.64,0.98,10.68,0,98,49,16,94.75,High
+10/14/2024,S3552,Hassan,Data Science,Medium,Average,23:56.2,C103,Late,2.98,0.84,9.72,0,84,43,15,69.25,High
+10/26/2024,S1445,Mariam,Cybersecurity,High,Excellent,21:59.8,C105,Present,2.56,0.74,4.99,2,74,39,11,44.24,High
+10/22/2024,S394,Mehwish,Data Science,High,Excellent,03:54.4,C101,Present,1.18,0.55,2.55,4,55,39,6,36.08,Low
+10/12/2024,S1583,Hassan,Business Analytics,High,Below Average,18:12.3,C101,Present,2.37,0.71,4.72,1,71,42,13,48.3,Low
+10/25/2024,S2859,Iqra,Business Analytics,Medium,Below Average,14:25.4,C101,Late,3.63,0.97,12.73,0,97,50,16,93.74,High
+10/8/2024,S539,Taha,Web Development,Medium,Excellent,19:16.5,C103,Late,1.71,0.57,1.14,3,57,32,9,32.82,Medium
+10/15/2024,S1488,Usman,Web Development,Low,Above Average,15:53.5,C103,Present,2.44,0.64,4.2,1,64,43,14,50.64,Low
+10/4/2024,S808,Aleena,Business Analytics,Medium,Excellent,02:53.4,C103,Present,0.99,0.47,3.03,4,47,30,9,25.61,Medium
+10/12/2024,S3415,Taha,Data Science,Medium,Excellent,09:18.4,C101,Present,3.07,0.77,8.71,1,77,49,15,70.45,Medium
+10/19/2024,S799,Mariam,Web Development,Medium,Excellent,13:59.2,C104,Late,1.97,0.5,1.83,4,50,35,10,35.24,Medium
+10/25/2024,S3540,Hamza,Cybersecurity,Medium,Average,09:06.7,C102,Late,3.15,0.77,6.62,0,77,46,14,78.1,Medium
+10/23/2024,S1816,Hassan,Data Science,Medium,Average,05:42.3,C105,Present,3.91,0.91,16.95,0,91,50,19,86.23,High
+10/5/2024,S2330,Saad,Cybersecurity,Medium,Above Average,10:25.4,C103,Late,3.99,0.95,13.39,0,95,45,20,91.09,High
+10/7/2024,S2648,Usman,AI,Medium,Average,11:26.4,C101,Late,3.52,0.96,16.78,0,96,47,19,85.01,High
+10/20/2024,S1425,Fatima,Data Science,Low,Below Average,12:38.6,C103,Present,2.14,0.72,6.28,1,72,39,10,44.24,High
+10/5/2024,S2360,Fatima,Cybersecurity,Low,Below Average,11:35.5,C105,Present,4.0,0.95,16.66,0,95,48,15,85.31,High
+10/16/2024,S3322,Laiba,Data Science,Medium,Excellent,03:47.7,C101,Late,2.84,0.76,8.11,1,76,45,16,61.13,Medium
+10/6/2024,S788,Areeba,Web Development,High,Average,21:12.2,C105,Present,0.62,0.54,3.06,2,54,35,9,33.96,Medium
+10/18/2024,S1993,Hassan,Cybersecurity,Medium,Above Average,22:00.4,C103,Present,3.76,0.94,10.11,0,94,46,15,83.42,Medium
+10/17/2024,S1117,Imran,AI,High,Above Average,18:58.5,C104,Present,0.92,0.52,3.68,3,52,30,10,29.86,Low
+10/1/2024,S1321,Danish,Data Science,High,Above Average,19:57.3,C102,Present,2.14,0.61,6.33,2,61,36,12,46.56,High
+10/7/2024,S3657,Iqra,Web Development,Low,Below Average,09:11.5,C102,Present,3.01,0.83,9.53,0,83,46,13,64.63,Medium
+10/25/2024,S1553,Noor,Cybersecurity,Low,Excellent,17:51.3,C101,Present,2.07,0.68,4.17,1,68,42,13,44.0,Low
+10/1/2024,S033,Hassan,AI,High,Above Average,05:20.5,C103,Present,0.69,0.41,1.22,3,41,32,10,24.45,Medium
+10/24/2024,S464,Iqra,Business Analytics,Medium,Average,00:41.1,C104,Late,1.82,0.54,1.42,2,54,31,8,33.74,Medium
+10/8/2024,S2516,Mehwish,Data Science,Low,Average,12:25.5,C105,Absent,3.68,0.95,10.34,0,95,46,16,99.75,High
+10/15/2024,S2296,Danish,Cybersecurity,Low,Above Average,08:15.4,C103,Absent,3.99,0.93,19.44,0,93,47,19,90.82,Medium
+10/1/2024,S167,Hassan,AI,Medium,Above Average,05:20.5,C103,Present,1.9,0.42,1.75,4,42,36,8,37.34,Low
+10/11/2024,S2863,Noor,Web Development,Medium,Below Average,18:45.6,C105,Present,3.85,0.99,12.26,0,99,50,20,80.11,High
+10/15/2024,S415,Mariam,Business Analytics,High,Average,02:36.4,C103,Present,1.18,0.44,3.62,3,44,36,6,24.7,Medium
+10/19/2024,S034,Mariam,Web Development,High,Above Average,13:59.2,C104,Late,1.62,0.5,3.37,2,50,37,5,27.55,Low
+10/11/2024,S185,Aleena,AI,High,Average,01:54.1,C105,Absent,1.95,0.48,1.03,4,48,38,9,25.25,Medium
+10/13/2024,S3023,Areeba,Data Science,Low,Below Average,16:27.1,C101,Present,3.6,0.93,16.23,0,93,50,17,90.87,High
+10/18/2024,S3241,Aleena,Web Development,Low,Below Average,04:38.1,C103,Late,2.91,0.77,6.38,1,77,47,14,61.03,High
+10/21/2024,S3302,Noor,AI,Medium,Average,23:47.2,C102,Present,3.29,0.77,6.22,0,77,47,15,65.67,Medium
+10/16/2024,S1953,Hamza,AI,Medium,Average,00:57.3,C104,Late,3.97,0.94,19.42,0,94,47,17,87.66,Medium
+10/20/2024,S3750,Mehwish,Cybersecurity,Low,Below Average,08:08.0,C102,Present,3.48,0.79,7.6,0,79,40,13,69.37,Medium
+10/12/2024,S1622,Taha,AI,High,Below Average,17:17.5,C104,Present,2.13,0.73,5.47,1,73,44,11,54.49,High
+10/21/2024,S1243,Imran,AI,High,Above Average,22:43.5,C104,Present,2.12,0.72,4.73,2,72,39,13,47.31,Low
+10/20/2024,S3550,Areeba,Web Development,Low,Average,18:13.9,C105,Present,3.4,0.78,8.13,1,78,40,13,72.85,Medium
+10/13/2024,S722,Hamza,AI,High,Excellent,23:38.6,C103,Present,0.74,0.51,1.54,2,51,37,7,22.34,Low
+10/13/2024,S1175,Noor,Cybersecurity,Medium,Above Average,02:05.1,C103,Present,0.53,0.42,1.45,3,42,33,10,26.58,Low
+10/16/2024,S671,Aleena,AI,Medium,Average,18:03.4,C103,Late,1.57,0.54,3.48,3,54,38,6,31.53,Low
+10/6/2024,S3332,Laiba,Data Science,Low,Below Average,08:52.2,C104,Present,3.2,0.89,8.35,0,89,43,12,78.06,Medium
+10/15/2024,S1747,Mariam,Cybersecurity,Medium,Average,13:51.5,C105,Present,2.45,0.63,6.38,1,63,39,11,52.66,Medium
+10/16/2024,S2425,Mariam,Data Science,High,Excellent,09:31.3,C101,Late,3.9,0.98,13.63,0,98,46,15,96.58,Low
+10/11/2024,S1557,Taha,AI,Medium,Average,13:59.3,C105,Present,2.76,0.64,5.09,1,64,40,13,58.02,Medium
+10/24/2024,S2867,Saad,Cybersecurity,High,Excellent,09:35.0,C101,Present,3.86,0.99,11.34,0,99,49,19,97.92,Low
+10/12/2024,S3537,Iqra,Web Development,High,Above Average,17:29.2,C104,Absent,3.37,0.89,6.5,1,89,43,13,74.94,Low
+10/19/2024,S2585,Areeba,Cybersecurity,High,Excellent,10:59.3,C104,Present,3.85,0.9,16.16,0,90,45,16,92.93,Low
+10/24/2024,S1745,Fatima,Data Science,Medium,Average,16:30.4,C103,Present,2.09,0.61,5.51,2,61,39,10,51.67,Medium
+10/19/2024,S3868,Areeba,Business Analytics,High,Above Average,17:20.4,C101,Present,3.21,0.82,7.2,1,82,46,15,78.0,Low
+10/5/2024,S719,Aleena,Web Development,Low,Below Average,16:49.4,C101,Present,1.1,0.42,2.55,3,42,34,6,25.61,High
+10/8/2024,S1371,Hira,Web Development,Medium,Average,00:30.3,C105,Late,2.05,0.71,6.15,2,71,43,10,56.55,Medium
+10/1/2024,S2980,Hassan,Business Analytics,High,Excellent,00:19.3,C104,Present,3.54,0.92,17.37,0,92,46,18,81.11,Low
+10/18/2024,S3931,Zara,AI,High,Above Average,02:20.6,C104,Absent,3.36,0.84,6.03,0,84,45,15,68.14,Low
+10/10/2024,S2021,Areeba,Cybersecurity,High,Excellent,19:50.4,C104,Present,3.57,0.97,18.48,0,97,49,20,97.74,Low
+10/21/2024,S2611,Mariam,Data Science,High,Excellent,08:34.3,C103,Present,3.92,0.98,11.59,0,98,47,18,86.75,Low
+10/1/2024,S1627,Noor,Business Analytics,Medium,Average,06:50.8,C103,Present,2.15,0.72,6.96,1,72,40,10,52.36,Medium
+10/18/2024,S2426,Bilal,Data Science,High,Excellent,06:07.4,C105,Late,3.83,0.99,19.07,0,99,47,20,90.91,Low
+10/15/2024,S3054,Zara,Cybersecurity,High,Excellent,22:57.5,C105,Present,3.92,0.93,12.8,0,93,45,20,82.32,Low
+10/23/2024,S3008,Areeba,Web Development,High,Excellent,16:54.1,C105,Late,3.93,0.92,17.3,0,92,48,18,98.91,Low
+10/23/2024,S600,Usman,Cybersecurity,Low,Below Average,19:27.3,C105,Present,0.82,0.6,3.28,2,60,35,9,21.31,High
+10/8/2024,S1748,Mariam,Cybersecurity,Medium,Average,06:52.4,C101,Present,2.2,0.62,5.03,1,62,43,12,59.46,Medium
+10/2/2024,S2352,Mehwish,Web Development,High,Excellent,00:47.4,C104,Present,3.61,0.96,17.54,0,96,45,20,98.25,Low
+10/15/2024,S1430,Noor,Cybersecurity,Medium,Average,09:42.6,C101,Present,2.78,0.72,6.63,1,72,36,12,43.76,Medium
+10/21/2024,S1115,Danish,Web Development,Low,Below Average,18:11.4,C102,Present,1.34,0.59,3.76,4,59,34,9,33.1,High
+10/23/2024,S643,Ahmed,Business Analytics,Low,Below Average,01:55.4,C103,Present,1.31,0.46,2.33,2,46,35,7,28.88,High
+10/19/2024,S403,Mariam,Web Development,Low,Below Average,13:59.2,C104,Late,0.78,0.41,3.0,3,41,38,6,25.86,High
+10/10/2024,S491,Areeba,Cybersecurity,Low,Below Average,14:10.5,C104,Late,1.46,0.42,1.7,2,42,38,8,27.29,High
+10/20/2024,S2500,Laiba,Cybersecurity,High,Excellent,16:54.2,C105,Absent,3.94,0.97,13.76,0,97,45,19,82.63,Low
+10/8/2024,S1004,Saad,Cybersecurity,Low,Below Average,07:31.6,C103,Present,1.41,0.48,2.92,4,48,38,10,29.95,High
+10/9/2024,S2115,Imran,Data Science,High,Excellent,08:44.4,C101,Late,3.73,0.9,17.58,0,90,48,20,98.66,Low
+10/11/2024,S3485,Aleena,Cybersecurity,High,Above Average,15:30.2,C104,Present,3.32,0.76,7.0,0,76,49,13,70.16,Low
+10/2/2024,S1879,Hira,Data Science,High,Excellent,06:51.4,C105,Absent,3.55,1.0,15.05,0,100,49,17,89.83,Low
+10/14/2024,S2474,Mariam,Data Science,High,Excellent,12:13.9,C102,Present,3.89,0.98,10.46,0,98,46,17,84.22,Low
+10/11/2024,S271,Danish,AI,Low,Below Average,20:40.0,C105,Present,1.95,0.53,3.62,2,53,36,7,35.24,High
+10/14/2024,S2342,Mariam,AI,High,Excellent,23:23.5,C105,Present,3.93,1.0,16.05,0,100,49,18,81.65,Low
+10/4/2024,S3059,Fatima,AI,High,Excellent,13:31.8,C105,Present,3.79,0.97,13.67,0,97,50,15,80.84,Low
+10/25/2024,S3199,Fatima,Business Analytics,High,Excellent,22:22.3,C101,Present,3.96,0.93,10.6,0,93,45,16,86.5,Low
+10/17/2024,S1045,Iqra,AI,Low,Below Average,17:57.3,C102,Late,1.31,0.49,2.8,4,49,33,9,32.08,High
+10/13/2024,S3498,Usman,Cybersecurity,High,Above Average,12:37.1,C103,Present,3.47,0.84,8.37,0,84,41,13,79.01,Low
+10/16/2024,S2794,Saad,Cybersecurity,High,Excellent,22:28.6,C104,Late,3.86,0.99,16.2,0,99,49,19,85.68,Low
+10/15/2024,S2393,Taha,Web Development,High,Excellent,06:10.1,C103,Present,3.59,0.96,16.69,0,96,50,20,97.47,Low
+10/15/2024,S3471,Laiba,Data Science,High,Above Average,18:35.3,C104,Present,3.38,0.81,6.91,1,81,50,13,64.27,Low
+10/26/2024,S3838,Aleena,Business Analytics,High,Above Average,13:37.2,C103,Late,3.26,0.84,8.52,1,84,47,12,61.55,Low
+10/11/2024,S2359,Ayaan,Cybersecurity,High,Excellent,00:00.4,C102,Late,3.71,0.94,14.99,0,94,46,15,88.87,Low
+10/25/2024,S2335,Areeba,Business Analytics,High,Excellent,08:10.5,C103,Present,3.59,0.96,11.38,0,96,45,17,88.62,Low
+10/16/2024,S018,Aleena,Web Development,Low,Below Average,19:46.5,C105,Late,1.68,0.55,1.8,2,55,31,10,34.95,High
+10/16/2024,S3655,Laiba,Data Science,High,Above Average,03:47.7,C101,Late,2.94,0.82,9.59,1,82,40,14,69.94,Low
+10/11/2024,S1211,Aleena,Cybersecurity,Medium,Average,05:23.2,C102,Present,2.28,0.75,5.76,2,75,41,10,54.5,Medium
+10/18/2024,S2118,Areeba,Business Analytics,High,Excellent,17:13.4,C101,Present,3.68,0.96,13.52,0,96,50,17,86.28,Low
+10/15/2024,S230,Hamza,Web Development,Low,Below Average,21:21.2,C101,Late,1.04,0.4,1.64,2,40,34,8,39.08,High
+10/7/2024,S1118,Hira,AI,Low,Below Average,03:29.4,C105,Late,0.59,0.51,1.1,4,51,40,7,30.8,High
+10/9/2024,S1293,Taha,Web Development,Medium,Average,22:20.3,C103,Present,2.12,0.69,5.64,1,69,40,14,45.14,Medium
+10/2/2024,S496,Usman,Cybersecurity,Low,Below Average,19:49.4,C103,Present,0.65,0.52,1.08,3,52,35,10,36.51,High
+10/26/2024,S3545,Mehwish,Cybersecurity,High,Above Average,21:02.3,C101,Present,3.17,0.82,9.23,1,82,45,12,74.32,Low
+10/22/2024,S462,Mehwish,Data Science,Low,Below Average,03:54.4,C101,Present,1.88,0.5,3.75,4,50,30,10,28.85,High
+10/21/2024,S2904,Bilal,Cybersecurity,High,Excellent,09:31.5,C103,Present,3.87,0.92,15.49,0,92,50,20,89.47,Low
+10/17/2024,S1564,Areeba,Data Science,Medium,Average,20:23.4,C105,Late,2.38,0.74,5.2,1,74,35,11,55.45,Medium
+10/9/2024,S2554,Usman,Cybersecurity,High,Excellent,00:27.4,C103,Present,3.7,0.95,14.8,0,95,49,17,84.87,Low
+10/22/2024,S319,Mariam,Web Development,Low,Below Average,02:18.5,C102,Present,0.62,0.5,2.99,2,50,32,9,32.55,High
+10/2/2024,S2454,Hamza,Web Development,High,Excellent,09:43.5,C105,Present,3.69,0.96,16.59,0,96,48,17,80.76,Low
+10/15/2024,S3266,Hamza,AI,High,Above Average,13:05.3,C105,Present,3.2,0.77,9.31,0,77,42,15,77.47,Low
+10/22/2024,S2453,Areeba,Cybersecurity,High,Excellent,21:33.4,C105,Present,3.53,0.96,16.47,0,96,45,19,87.21,Low
+10/26/2024,S1492,Fatima,Business Analytics,Medium,Average,10:01.3,C103,Late,2.25,0.6,5.76,2,60,44,12,42.83,Medium
+10/12/2024,S3573,Mariam,Business Analytics,High,Above Average,06:36.2,C105,Present,2.87,0.88,7.01,0,88,48,14,73.95,Low
+10/14/2024,S1290,Saad,AI,Medium,Average,04:15.3,C102,Present,2.7,0.73,6.54,2,73,35,13,51.36,Medium
+10/6/2024,S3323,Mariam,AI,High,Above Average,15:22.2,C104,Present,3.12,0.86,6.59,1,86,41,13,71.68,Low
+10/26/2024,S3519,Imran,Data Science,High,Above Average,08:52.3,C101,Present,3.47,0.76,9.28,0,76,42,14,69.27,Low
+10/5/2024,S3394,Ahmed,Business Analytics,High,Above Average,23:44.4,C102,Present,3.43,0.87,6.67,1,87,49,12,73.43,Low
+10/9/2024,S2234,Iqra,Business Analytics,High,Excellent,05:45.8,C105,Absent,3.88,0.98,14.47,0,98,50,20,82.37,Low
+10/20/2024,S658,Zara,Cybersecurity,Low,Below Average,03:06.4,C102,Present,0.64,0.45,3.68,2,45,32,10,34.58,High
+10/1/2024,S1057,Taha,Cybersecurity,Low,Below Average,13:56.2,C104,Present,1.04,0.49,2.32,4,49,34,8,33.23,High
+10/9/2024,S2120,Iqra,Business Analytics,High,Excellent,05:45.8,C105,Absent,3.96,0.94,19.38,0,94,50,15,88.4,Low
+10/11/2024,S3195,Hira,Business Analytics,High,Excellent,04:46.1,C103,Present,3.77,0.98,16.15,0,98,48,16,84.23,Low
+10/10/2024,S3895,Danish,Business Analytics,High,Above Average,07:13.5,C105,Present,3.06,0.77,7.39,0,77,42,12,70.54,Low
+10/7/2024,S1663,Ahmed,AI,Medium,Average,15:43.1,C105,Present,2.45,0.68,6.46,1,68,36,11,42.21,Medium
+10/23/2024,S1331,Laiba,Cybersecurity,Medium,Average,22:23.5,C104,Present,2.4,0.71,6.08,1,71,44,14,41.53,Medium
+10/11/2024,S1179,Danish,Web Development,Low,Below Average,21:19.6,C101,Present,1.58,0.5,1.05,2,50,38,6,37.25,High
+10/20/2024,S3721,Areeba,Web Development,High,Above Average,09:14.3,C101,Late,3.07,0.8,6.3,0,80,42,16,77.19,Low
+10/9/2024,S2158,Hira,AI,High,Excellent,20:10.3,C104,Present,3.8,0.95,13.93,0,95,48,20,89.96,Low
+10/13/2024,S299,Danish,Data Science,Low,Below Average,23:42.5,C102,Present,0.69,0.59,1.53,4,59,30,7,28.02,High
+10/16/2024,S094,Mariam,Cybersecurity,Low,Below Average,16:25.3,C102,Present,1.93,0.58,2.89,3,58,33,10,35.9,High
+10/23/2024,S2405,Areeba,AI,High,Excellent,20:32.4,C103,Present,3.57,0.95,16.6,0,95,49,15,84.12,Low
+10/7/2024,S3549,Mariam,AI,High,Above Average,04:49.0,C104,Present,2.96,0.83,9.55,1,83,48,13,76.07,Low
+10/7/2024,S1576,Ahmed,AI,Medium,Average,15:43.1,C105,Present,2.76,0.75,6.35,1,75,37,11,47.15,Medium
+10/7/2024,S3746,Laiba,AI,High,Above Average,13:07.4,C102,Present,2.97,0.86,9.49,0,86,49,12,75.54,Low
+10/2/2024,S2887,Hassan,Web Development,High,Excellent,22:13.3,C102,Present,3.51,0.93,15.18,0,93,47,15,92.85,Low
+10/16/2024,S1794,Hassan,Cybersecurity,Medium,Average,23:39.2,C102,Late,2.07,0.73,6.91,2,73,38,11,48.09,Medium
+10/11/2024,S024,Aleena,Web Development,Low,Below Average,08:29.4,C105,Present,1.73,0.47,1.87,3,47,40,10,36.49,High
+10/19/2024,S3351,Ahmed,Data Science,High,Above Average,06:47.4,C103,Present,3.09,0.8,9.82,1,80,46,12,76.18,Low
+10/22/2024,S3624,Danish,AI,High,Above Average,19:35.4,C102,Present,3.45,0.84,6.38,0,84,49,13,79.73,Low
+10/18/2024,S1732,Usman,Cybersecurity,Medium,Average,13:02.3,C102,Present,2.56,0.64,5.25,1,64,39,14,43.22,Medium
+10/6/2024,S1085,Hamza,Web Development,Low,Below Average,13:29.5,C101,Present,1.36,0.44,1.72,4,44,33,6,22.83,High
+10/13/2024,S3992,Hassan,Data Science,High,Above Average,23:19.0,C104,Present,3.39,0.79,6.93,0,79,48,15,72.52,Low
+10/1/2024,S2666,Ahmed,Data Science,High,Excellent,05:20.6,C105,Late,3.95,0.92,17.95,0,92,45,18,81.34,Low
+10/14/2024,S2379,Danish,AI,High,Excellent,06:53.1,C102,Present,3.88,0.96,17.57,0,96,47,18,95.04,Low
+10/1/2024,S1273,Mehwish,AI,Medium,Average,10:30.2,C102,Present,2.64,0.67,5.82,1,67,44,14,44.19,Medium
+10/3/2024,S306,Laiba,Data Science,Low,Below Average,02:22.1,C101,Late,1.23,0.55,2.92,4,55,39,8,31.57,High
+10/18/2024,S2903,Aleena,Business Analytics,High,Excellent,14:49.3,C105,Present,3.76,0.99,15.59,0,99,50,16,87.58,Low
+10/4/2024,S2762,Laiba,Cybersecurity,High,Excellent,21:59.5,C101,Present,3.97,0.97,11.84,0,97,47,20,80.6,Low
+10/7/2024,S599,Laiba,Business Analytics,Low,Below Average,13:49.5,C104,Absent,1.44,0.59,1.78,3,59,31,6,39.61,High
+10/25/2024,S3880,Mariam,Cybersecurity,High,Above Average,14:38.7,C105,Present,3.02,0.83,6.25,0,83,40,14,63.2,Low
+10/26/2024,S872,Mehwish,AI,Low,Below Average,21:38.5,C104,Present,0.6,0.47,3.46,2,47,35,7,23.94,High
+10/14/2024,S2546,Ayaan,AI,High,Excellent,20:34.6,C104,Late,3.67,0.96,10.31,0,96,48,17,93.66,Low
+10/8/2024,S2122,Ayaan,Web Development,High,Excellent,04:20.1,C103,Late,3.79,0.96,13.29,0,96,45,18,89.02,Low
+10/23/2024,S1361,Usman,AI,Medium,Average,04:42.3,C102,Present,2.25,0.66,6.24,1,66,44,10,43.57,Medium
+10/2/2024,S1937,Hira,Data Science,High,Excellent,06:51.4,C105,Absent,3.9,0.99,17.8,0,99,45,15,89.29,Low
+10/23/2024,S2759,Hassan,Data Science,High,Excellent,05:42.3,C105,Present,3.96,0.92,19.56,0,92,48,17,82.96,Low
+10/7/2024,S3645,Aleena,Web Development,High,Above Average,22:27.5,C103,Absent,2.91,0.86,9.15,0,86,46,13,63.73,Low
+10/8/2024,S1540,Mehwish,Web Development,Medium,Average,10:09.2,C103,Present,2.65,0.67,4.69,1,67,39,10,41.94,Medium
+10/6/2024,S2211,Taha,Business Analytics,High,Excellent,05:53.2,C101,Present,3.8,0.95,14.93,0,95,50,17,97.83,Low
+10/9/2024,S1053,Hamza,Business Analytics,Low,Below Average,19:33.6,C105,Present,1.5,0.42,1.73,4,42,33,9,34.12,High
+10/26/2024,S1567,Mariam,Cybersecurity,Medium,Average,21:59.8,C105,Present,2.46,0.63,5.11,1,63,35,13,47.36,Medium
+10/8/2024,S3247,Ahmed,Web Development,High,Above Average,11:52.2,C103,Absent,3.09,0.79,8.58,1,79,43,16,76.25,Low
+10/18/2024,S1927,Aleena,Business Analytics,High,Excellent,14:49.3,C105,Present,3.57,0.91,19.7,0,91,47,17,96.08,Low
+10/15/2024,S2024,Danish,Cybersecurity,High,Excellent,08:15.4,C103,Absent,3.75,0.94,19.1,0,94,47,16,83.75,Low
+10/1/2024,S409,Taha,Cybersecurity,Low,Below Average,13:56.2,C104,Present,0.54,0.47,2.0,4,47,31,10,23.84,High
+10/9/2024,S100,Danish,Business Analytics,Low,Below Average,10:01.4,C103,Present,0.79,0.56,1.27,3,56,31,5,39.48,High
+10/25/2024,S1212,Hassan,Cybersecurity,Medium,Average,07:08.2,C102,Absent,2.25,0.7,5.43,2,70,36,11,42.7,Medium
+10/17/2024,S1433,Saad,Data Science,Medium,Average,16:19.9,C105,Present,2.21,0.69,6.85,2,69,37,10,53.28,Medium
+10/16/2024,S316,Aleena,AI,Low,Below Average,18:03.4,C103,Late,1.61,0.41,3.17,4,41,39,5,32.93,High
+10/23/2024,S1174,Imran,Web Development,Low,Below Average,05:58.6,C102,Present,0.82,0.56,3.61,4,56,40,8,38.55,High
+10/1/2024,S1236,Areeba,Cybersecurity,Medium,Average,21:40.2,C102,Absent,2.54,0.61,5.76,2,61,44,11,41.79,Medium
+10/1/2024,S3160,Bilal,AI,High,Excellent,01:08.4,C103,Present,3.61,0.95,17.61,0,95,47,20,91.19,Low
+10/10/2024,S2733,Zara,Cybersecurity,High,Excellent,22:21.1,C105,Present,3.98,0.99,18.76,0,99,46,17,92.41,Low
+10/24/2024,S3973,Hira,Business Analytics,High,Above Average,05:42.1,C105,Present,3.43,0.82,9.16,1,82,47,16,74.59,Low
+10/10/2024,S3641,Laiba,Data Science,High,Above Average,22:14.2,C104,Absent,3.12,0.76,7.66,0,76,40,15,79.92,Low
+10/1/2024,S752,Aleena,AI,Low,Below Average,01:18.2,C103,Present,1.97,0.48,2.82,3,48,33,6,38.89,High
+10/1/2024,S3116,Areeba,Business Analytics,High,Excellent,07:52.3,C102,Late,3.95,0.93,16.72,0,93,50,19,85.36,Low
+10/6/2024,S157,Hamza,Web Development,Low,Below Average,13:29.5,C101,Present,1.62,0.53,1.37,3,53,38,9,28.49,High
+10/1/2024,S2562,Laiba,AI,High,Excellent,22:40.3,C104,Absent,3.6,1.0,18.7,0,100,46,18,86.23,Low
+10/11/2024,S121,Laiba,Business Analytics,Low,Below Average,01:35.4,C103,Late,0.69,0.5,1.8,4,50,31,7,26.69,High
+10/1/2024,S1455,Mehwish,AI,Medium,Average,10:30.2,C102,Present,2.38,0.62,4.6,2,62,40,14,40.5,Medium
+10/5/2024,S512,Hira,Data Science,Low,Below Average,03:02.3,C105,Present,1.66,0.5,3.39,3,50,37,5,33.71,High
+10/18/2024,S1518,Zara,Data Science,Medium,Average,03:19.5,C103,Present,2.38,0.71,4.14,1,71,38,13,56.8,Medium
+10/6/2024,S3505,Imran,Business Analytics,High,Above Average,12:39.5,C102,Late,3.16,0.81,6.52,1,81,41,12,62.24,Low
+10/7/2024,S2017,Zara,Data Science,High,Excellent,19:19.2,C102,Late,3.61,0.98,19.03,0,98,45,17,97.6,Low
+10/15/2024,S3441,Hamza,AI,High,Above Average,13:05.3,C105,Present,3.31,0.84,8.08,1,84,47,13,78.12,Low
+10/14/2024,S2847,Ayaan,AI,High,Excellent,20:34.6,C104,Late,3.62,0.95,17.44,0,95,48,16,80.29,Low
+10/14/2024,S1603,Usman,Business Analytics,Medium,Average,02:23.3,C105,Present,2.15,0.67,6.79,2,67,36,10,46.91,Medium
+10/1/2024,S3779,Hassan,Data Science,High,Above Average,04:08.2,C105,Present,3.04,0.83,6.96,0,83,50,15,63.68,Low
+10/12/2024,S3804,Mariam,Business Analytics,High,Above Average,06:36.2,C105,Present,3.45,0.78,9.13,0,78,46,13,63.32,Low
+10/12/2024,S677,Danish,Business Analytics,Low,Below Average,22:34.7,C103,Absent,0.61,0.47,2.8,2,47,39,7,39.83,High
+10/1/2024,S241,Aleena,AI,Low,Below Average,01:18.2,C103,Present,1.21,0.52,2.27,3,52,37,10,30.29,High
+10/8/2024,S1024,Taha,Web Development,Low,Below Average,19:16.5,C103,Late,1.04,0.6,2.54,4,60,30,10,30.8,High
+10/22/2024,S2217,Danish,Data Science,High,Excellent,11:37.3,C104,Absent,3.94,1.0,11.78,0,100,48,16,87.41,Low
+10/17/2024,S1512,Noor,AI,Medium,Average,08:39.4,C101,Present,2.03,0.74,4.8,2,74,45,13,58.12,Medium
+10/8/2024,S2814,Danish,Data Science,High,Excellent,22:04.7,C102,Present,3.89,0.95,11.23,0,95,46,20,80.35,Low
+10/17/2024,S3226,Ayaan,Cybersecurity,High,Above Average,17:35.3,C103,Present,3.41,0.79,9.86,0,79,46,15,68.13,Low
+10/10/2024,S3800,Laiba,Data Science,High,Above Average,22:14.2,C104,Absent,2.84,0.82,8.76,0,82,44,16,60.56,Low
+10/16/2024,S3764,Taha,Data Science,High,Above Average,20:30.3,C103,Present,3.24,0.76,9.76,0,76,50,16,69.49,Low
+10/1/2024,S2883,Hassan,Business Analytics,High,Excellent,00:19.3,C104,Present,3.87,0.93,19.27,0,93,49,18,81.45,Low
+10/2/2024,S487,Fatima,AI,Low,Below Average,12:23.6,C102,Present,1.52,0.57,3.84,3,57,34,5,36.42,High
+10/18/2024,S3362,Iqra,Business Analytics,High,Above Average,13:16.2,C102,Present,2.86,0.86,8.84,0,86,41,15,71.21,Low
+10/24/2024,S1874,Bilal,Web Development,High,Excellent,12:51.4,C103,Present,3.98,0.93,16.34,0,93,45,18,85.59,Low
+10/9/2024,S2462,Hamza,Cybersecurity,High,Excellent,08:58.4,C103,Present,3.66,1.0,12.91,0,100,50,17,96.18,Low
+10/13/2024,S2438,Aleena,AI,High,Excellent,17:29.4,C101,Late,3.81,1.0,10.68,0,100,47,16,82.36,Low
+10/19/2024,S355,Fatima,Business Analytics,Low,Below Average,18:54.3,C101,Late,0.58,0.58,3.75,3,58,38,5,29.06,High
+10/13/2024,S1018,Hamza,AI,Low,Below Average,23:38.6,C103,Present,0.53,0.58,2.0,3,58,35,6,39.6,High
+10/4/2024,S3664,Hamza,Web Development,High,Above Average,02:04.3,C101,Present,3.03,0.86,6.74,0,86,47,16,63.8,Low
+10/26/2024,S1742,Areeba,Web Development,Medium,Average,03:29.2,C101,Present,2.42,0.69,5.09,1,69,35,14,50.88,Medium
+10/14/2024,S2331,Taha,Business Analytics,High,Excellent,00:46.0,C104,Present,3.9,0.96,16.52,0,96,48,17,96.36,Low
+10/14/2024,S2404,Imran,Data Science,High,Excellent,22:12.5,C101,Present,3.69,0.95,17.41,0,95,47,18,86.46,Low
+10/25/2024,S1221,Aleena,Web Development,Medium,Average,22:58.2,C101,Present,2.16,0.72,5.91,2,72,37,13,51.53,Medium
+10/23/2024,S052,Zara,Web Development,Low,Below Average,21:35.4,C101,Present,1.13,0.55,1.93,2,55,35,8,23.16,High
+10/23/2024,S2723,Imran,Web Development,High,Excellent,01:41.1,C103,Present,3.88,0.93,12.3,0,93,48,17,97.38,Low
+10/6/2024,S1721,Mehwish,Data Science,Medium,Average,17:15.1,C102,Present,2.33,0.65,6.92,1,65,38,11,52.26,Medium
+10/9/2024,S074,Danish,Business Analytics,Low,Below Average,10:01.4,C103,Present,0.95,0.52,2.09,4,52,39,7,35.75,High
+10/22/2024,S1689,Mehwish,AI,Medium,Average,22:00.2,C101,Present,2.76,0.73,4.14,2,73,37,14,48.89,Medium
+10/13/2024,S2586,Aleena,AI,High,Excellent,17:29.4,C101,Late,3.72,0.99,12.93,0,99,48,16,90.14,Low
+10/5/2024,S439,Saad,Business Analytics,Low,Below Average,14:33.4,C102,Present,0.88,0.45,1.67,2,45,38,6,21.85,High
+10/25/2024,S1475,Noor,Cybersecurity,Medium,Average,17:51.3,C101,Present,2.26,0.63,6.92,2,63,40,13,47.11,Medium
+10/1/2024,S2761,Fatima,AI,High,Excellent,06:48.9,C102,Absent,3.88,0.94,13.25,0,94,46,17,94.73,Low
+10/17/2024,S803,Hassan,Cybersecurity,Low,Below Average,13:16.9,C102,Present,1.55,0.47,2.5,3,47,35,6,28.27,High
+10/21/2024,S466,Fatima,AI,Low,Below Average,21:54.3,C104,Late,1.07,0.42,2.11,2,42,32,7,32.48,High
+10/8/2024,S3085,Mariam,AI,High,Excellent,07:56.1,C102,Late,3.63,0.91,14.4,0,91,50,16,96.17,Low
+10/3/2024,S1065,Zara,Data Science,Low,Below Average,01:11.2,C101,Present,1.4,0.59,3.04,2,59,31,6,26.73,High
+10/21/2024,S3911,Imran,Business Analytics,High,Above Average,09:07.1,C101,Present,2.89,0.86,8.55,1,86,44,14,75.89,Low
+10/10/2024,S158,Areeba,Cybersecurity,Low,Below Average,14:10.5,C104,Late,1.46,0.59,3.1,3,59,36,8,29.41,High
+10/25/2024,S2004,Taha,Business Analytics,High,Excellent,22:54.4,C101,Present,3.66,0.91,12.21,0,91,50,20,84.3,Low
+10/18/2024,S1654,Mehwish,AI,Medium,Average,18:44.5,C105,Late,2.55,0.72,6.57,2,72,45,14,56.58,Medium
+10/4/2024,S053,Imran,Data Science,Low,Below Average,02:24.4,C105,Present,1.48,0.52,2.96,3,52,40,7,32.75,High
+10/22/2024,S1345,Imran,Web Development,Medium,Average,08:59.2,C105,Absent,2.8,0.65,5.72,2,65,37,13,44.53,Medium
+10/11/2024,S221,Bilal,Web Development,Low,Below Average,02:36.4,C101,Present,1.99,0.47,1.14,3,47,33,7,32.13,High
+10/6/2024,S565,Iqra,Data Science,Low,Below Average,16:17.8,C103,Present,1.86,0.47,1.56,4,47,31,5,38.31,High
+10/1/2024,S027,Aleena,AI,Low,Below Average,01:18.2,C103,Present,0.94,0.57,1.55,4,57,31,8,25.28,High
+10/24/2024,S1584,Hira,Cybersecurity,Medium,Average,18:21.4,C105,Present,2.33,0.75,4.95,2,75,35,12,50.0,Medium
+10/1/2024,S2015,Hamza,Web Development,High,Excellent,07:51.5,C102,Present,3.83,0.91,10.83,0,91,49,19,98.78,Low
+10/8/2024,S215,Bilal,Cybersecurity,Low,Below Average,16:50.6,C103,Present,1.96,0.4,2.67,3,40,31,6,25.22,High
+10/19/2024,S2058,Fatima,AI,High,Excellent,11:35.4,C105,Present,3.51,0.99,16.55,0,99,48,17,96.0,Low
+10/20/2024,S938,Fatima,Business Analytics,Low,Below Average,22:32.9,C105,Absent,0.5,0.53,3.81,2,53,38,6,22.38,High
+10/2/2024,S552,Fatima,AI,Low,Below Average,12:23.6,C102,Present,0.96,0.59,3.22,2,59,39,10,25.39,High
+10/22/2024,S3027,Laiba,Business Analytics,High,Excellent,04:36.5,C104,Present,3.65,0.91,10.14,0,91,46,18,84.19,Low
+10/25/2024,S2587,Areeba,Business Analytics,High,Excellent,08:10.5,C103,Present,3.66,0.94,12.8,0,94,46,18,88.65,Low
+10/1/2024,S326,Aleena,Data Science,Low,Below Average,19:08.4,C103,Present,0.56,0.43,2.65,2,43,37,5,30.06,High
+10/6/2024,S3271,Laiba,Data Science,High,Above Average,08:52.2,C104,Present,3.1,0.84,8.48,1,84,42,12,75.03,Low
+10/26/2024,S3976,Danish,Data Science,High,Above Average,20:45.4,C105,Present,3.49,0.75,7.91,1,75,40,15,66.26,Low
+10/12/2024,S1671,Saad,Web Development,Medium,Average,21:19.6,C105,Present,2.7,0.61,5.51,1,61,45,13,51.27,Medium
+10/25/2024,S830,Noor,Cybersecurity,Low,Below Average,08:43.1,C101,Present,1.44,0.56,2.07,2,56,33,9,21.2,High
+10/24/2024,S3117,Hira,AI,High,Excellent,10:06.4,C102,Late,3.55,0.98,10.65,0,98,47,19,92.61,Low
+10/23/2024,S753,Imran,Web Development,Low,Below Average,05:58.6,C102,Present,1.48,0.59,3.1,4,59,37,5,39.14,High
+10/19/2024,S3703,Areeba,Data Science,High,Above Average,21:46.5,C101,Present,3.12,0.83,7.81,1,83,42,15,67.85,Low
+10/19/2024,S3238,Aleena,Web Development,High,Above Average,10:11.7,C103,Present,3.21,0.87,9.6,1,87,43,13,79.28,Low
+10/16/2024,S2477,Mariam,Data Science,High,Excellent,09:31.3,C101,Late,3.87,0.97,14.73,0,97,50,18,96.77,Low
+10/21/2024,S045,Imran,Web Development,Low,Below Average,05:55.2,C105,Late,1.88,0.6,2.14,4,60,30,5,33.32,High
+10/6/2024,S3988,Saad,Cybersecurity,High,Above Average,01:50.4,C101,Present,3.19,0.82,7.6,1,82,44,16,68.1,Low
+10/17/2024,S1554,Saad,Data Science,Medium,Average,16:19.9,C105,Present,2.78,0.74,5.42,2,74,38,10,48.24,Medium
+10/15/2024,S502,Mariam,Business Analytics,Low,Below Average,02:36.4,C103,Present,1.35,0.43,1.22,4,43,33,8,20.69,High
+10/18/2024,S2399,Aleena,Business Analytics,High,Excellent,14:49.3,C105,Present,3.74,0.94,13.39,0,94,49,20,95.93,Low
+10/5/2024,S977,Aleena,Web Development,Low,Below Average,16:49.4,C101,Present,1.33,0.46,3.99,4,46,36,6,39.59,High
+10/9/2024,S2528,Imran,Data Science,High,Excellent,08:44.4,C101,Late,3.81,0.99,11.87,0,99,50,15,98.78,Low
+10/15/2024,S1193,Saad,Cybersecurity,Low,Below Average,06:24.2,C102,Absent,1.06,0.44,3.22,2,44,38,8,34.63,High
+10/3/2024,S811,Hassan,Cybersecurity,Low,Below Average,09:43.2,C102,Late,1.73,0.57,3.27,2,57,39,6,39.18,High
+10/8/2024,S1000,Saad,Cybersecurity,Low,Below Average,07:31.6,C103,Present,1.68,0.56,1.7,2,56,35,7,24.7,High
+10/11/2024,S569,Zara,Cybersecurity,Low,Below Average,07:37.3,C103,Present,1.92,0.44,2.7,4,44,37,9,27.75,High
+10/2/2024,S2793,Zara,Cybersecurity,High,Excellent,04:00.5,C103,Present,3.84,0.95,19.8,0,95,46,18,89.38,Low
+10/20/2024,S3809,Fatima,AI,High,Above Average,02:13.6,C103,Absent,3.01,0.86,8.37,0,86,50,12,67.06,Low
+10/14/2024,S2032,Imran,Data Science,High,Excellent,22:12.5,C101,Present,3.55,1.0,19.69,0,100,45,19,94.24,Low
+10/20/2024,S367,Iqra,AI,Low,Below Average,05:52.5,C104,Late,0.73,0.5,2.33,2,50,34,8,31.95,High
+10/11/2024,S458,Ayaan,Cybersecurity,Low,Below Average,04:01.2,C102,Present,1.52,0.5,3.56,4,50,37,10,32.69,High
+10/24/2024,S257,Hassan,AI,Low,Below Average,07:15.2,C103,Present,1.84,0.55,3.88,4,55,35,6,23.16,High
+10/5/2024,S2187,Saad,Cybersecurity,High,Excellent,10:25.4,C103,Late,3.55,0.97,17.2,0,97,48,16,99.78,Low
+10/15/2024,S2271,Hamza,Data Science,High,Excellent,15:49.4,C102,Late,3.78,0.93,19.18,0,93,48,19,97.3,Low
+10/24/2024,S1477,Ahmed,Cybersecurity,Medium,Average,06:53.2,C103,Present,2.08,0.72,5.11,1,72,44,13,48.96,Medium
+10/13/2024,S577,Aleena,Web Development,Low,Below Average,06:46.2,C103,Absent,1.79,0.53,2.32,4,53,31,6,24.13,High
+10/17/2024,S2340,Laiba,AI,High,Excellent,22:53.5,C105,Present,3.58,0.93,17.7,0,93,47,19,87.39,Low
+10/2/2024,S2141,Hamza,AI,High,Excellent,10:12.3,C104,Present,3.69,0.95,12.44,0,95,49,20,86.11,Low
+10/21/2024,S2283,Taha,Data Science,High,Excellent,01:55.2,C101,Present,3.75,0.93,11.26,0,93,46,20,96.73,Low
+10/9/2024,S3737,Aleena,Web Development,High,Above Average,03:08.2,C103,Present,2.81,0.77,7.99,0,77,48,16,71.5,Low
+10/8/2024,S1765,Ahmed,Data Science,Medium,Average,08:06.4,C103,Absent,2.16,0.69,6.4,2,69,45,12,57.62,Medium
+10/26/2024,S2305,Fatima,Data Science,High,Excellent,10:04.5,C105,Late,3.51,0.94,11.72,0,94,45,16,92.33,Low
+10/11/2024,S2894,Hira,Business Analytics,High,Excellent,04:46.1,C103,Present,3.97,0.94,18.14,0,94,49,20,84.81,Low
+10/26/2024,S292,Zara,Web Development,Low,Below Average,05:15.4,C101,Present,1.67,0.48,2.77,2,48,35,5,22.0,High
+10/5/2024,S730,Mariam,AI,Low,Below Average,16:54.4,C101,Late,0.65,0.48,3.67,3,48,35,7,23.19,High
+10/18/2024,S1614,Zara,Data Science,Medium,Average,03:19.5,C103,Present,2.0,0.64,6.76,1,64,45,14,48.53,Medium
+10/17/2024,S135,Hassan,Cybersecurity,Low,Below Average,13:16.9,C102,Present,1.53,0.51,3.29,2,51,39,5,29.9,High
+10/17/2024,S1511,Ahmed,AI,Medium,Average,12:00.2,C103,Present,2.74,0.7,4.63,2,70,36,11,58.5,Medium
+10/17/2024,S3222,Hassan,Web Development,High,Above Average,02:11.2,C102,Present,3.16,0.81,9.7,1,81,50,14,67.98,Low
+10/6/2024,S681,Laiba,Web Development,Low,Below Average,03:29.4,C101,Present,1.82,0.57,3.46,4,57,38,9,29.69,High
+10/7/2024,S3474,Taha,Business Analytics,High,Above Average,05:13.6,C104,Present,3.01,0.76,9.16,0,76,48,14,77.88,Low
+10/1/2024,S264,Mariam,Web Development,Low,Below Average,14:04.3,C103,Present,1.48,0.42,2.44,2,42,33,8,21.26,High
+10/15/2024,S2429,Ahmed,Web Development,High,Excellent,05:24.5,C101,Late,3.99,0.91,12.14,0,91,48,15,97.5,Low
+10/21/2024,S3350,Aleena,Cybersecurity,High,Above Average,15:29.2,C103,Present,2.87,0.81,9.48,1,81,50,16,60.7,Low
+10/10/2024,S2242,Ayaan,Data Science,High,Excellent,13:21.6,C104,Present,3.7,0.98,11.8,0,98,49,16,97.9,Low
+10/13/2024,S765,Aleena,Web Development,Low,Below Average,06:46.2,C103,Absent,1.42,0.59,2.12,2,59,33,8,35.03,High
+10/1/2024,S057,Hassan,AI,Low,Below Average,05:20.5,C103,Present,1.01,0.46,2.7,2,46,33,5,28.9,High
+10/22/2024,S2785,Mariam,Web Development,High,Excellent,04:58.1,C104,Present,3.7,0.92,17.75,0,92,48,18,83.28,Low
+10/11/2024,S683,Areeba,Web Development,Low,Below Average,11:13.2,C101,Present,1.63,0.48,3.57,3,48,38,8,26.74,High
+10/5/2024,S1294,Hamza,Business Analytics,Medium,Average,13:38.0,C104,Present,2.46,0.73,4.61,1,73,37,11,48.99,Medium
+10/7/2024,S2186,Hassan,Business Analytics,High,Excellent,09:16.2,C102,Present,3.57,0.95,19.04,0,95,50,19,80.61,Low
+10/15/2024,S1310,Danish,Data Science,Medium,Average,03:46.4,C105,Present,2.71,0.75,6.62,2,75,40,13,57.56,Medium
+10/20/2024,S3401,Fatima,AI,High,Above Average,02:13.6,C103,Absent,3.12,0.8,9.43,1,80,41,16,66.88,Low
+10/16/2024,S545,Aleena,AI,Low,Below Average,18:03.4,C103,Late,0.97,0.58,2.73,3,58,36,9,20.55,High
+10/21/2024,S1861,Aleena,Data Science,High,Excellent,05:29.3,C101,Present,3.98,0.97,13.7,0,97,45,16,89.12,Low
+10/1/2024,S2709,Laiba,AI,High,Excellent,22:40.3,C104,Absent,3.59,0.92,19.08,0,92,46,17,80.61,Low
+10/1/2024,S3932,Taha,Business Analytics,High,Above Average,05:34.2,C101,Present,3.23,0.84,7.58,1,84,46,12,66.79,Low
+10/25/2024,S1729,Areeba,Business Analytics,Medium,Average,07:35.3,C103,Present,2.75,0.63,4.3,2,63,36,11,44.65,Medium
+10/23/2024,S2346,Saad,Data Science,High,Excellent,23:34.1,C101,Absent,3.86,0.94,12.07,0,94,50,15,93.04,Low
+10/22/2024,S839,Noor,Business Analytics,Low,Below Average,20:22.6,C104,Present,1.23,0.41,1.03,2,41,39,5,38.04,High
+10/26/2024,S171,Mehwish,AI,Low,Below Average,21:38.5,C104,Present,1.84,0.46,3.82,2,46,38,9,27.16,High
+10/12/2024,S2025,Mariam,Business Analytics,High,Excellent,16:34.3,C103,Present,3.72,0.91,19.11,0,91,47,17,91.83,Low
+10/13/2024,S3847,Ahmed,Web Development,High,Above Average,16:54.5,C104,Present,3.11,0.76,9.4,1,76,48,13,76.02,Low
+10/24/2024,S3585,Noor,AI,High,Above Average,10:14.2,C104,Absent,3.26,0.77,7.38,1,77,47,12,77.58,Low
+10/12/2024,S1551,Aleena,Cybersecurity,Medium,Average,00:47.1,C103,Present,2.38,0.7,5.19,2,70,40,12,45.37,Medium
+10/13/2024,S1589,Ahmed,Cybersecurity,Medium,Average,22:54.5,C101,Present,2.4,0.74,6.47,1,74,36,10,59.88,Medium
+10/24/2024,S2764,Iqra,Business Analytics,High,Excellent,11:35.1,C102,Present,3.6,0.91,16.73,0,91,49,16,98.98,Low
+10/2/2024,S189,Usman,Cybersecurity,Low,Below Average,19:49.4,C103,Present,1.81,0.43,2.31,2,43,40,6,35.47,High
+10/24/2024,S013,Areeba,Data Science,Low,Below Average,04:48.7,C105,Present,1.36,0.46,1.96,4,46,38,7,36.68,High
+10/23/2024,S3839,Zara,Cybersecurity,High,Above Average,04:24.5,C101,Present,3.28,0.82,7.84,1,82,42,13,77.99,Low
+10/10/2024,S323,Areeba,Cybersecurity,Low,Below Average,14:10.5,C104,Late,1.7,0.52,1.28,4,52,40,8,24.05,High
+10/6/2024,S986,Areeba,Web Development,Low,Below Average,21:12.2,C105,Present,1.74,0.41,1.41,4,41,40,8,32.21,High
+10/7/2024,S3630,Mehwish,Cybersecurity,High,Above Average,16:34.2,C101,Late,3.11,0.82,7.52,0,82,40,15,74.09,Low
+10/15/2024,S433,Hamza,Web Development,Low,Below Average,21:21.2,C101,Late,1.83,0.5,3.72,4,50,37,6,32.37,High
+10/8/2024,S1092,Usman,AI,Low,Below Average,06:45.2,C105,Present,1.38,0.5,1.79,4,50,31,8,32.71,High
+10/21/2024,S2895,Mehwish,Web Development,High,Excellent,12:12.6,C101,Present,3.73,0.92,13.56,0,92,48,15,99.82,Low
+10/19/2024,S2837,Laiba,AI,High,Excellent,16:36.5,C101,Present,3.93,0.97,14.03,0,97,46,15,98.82,Low
+10/4/2024,S2892,Bilal,Business Analytics,High,Excellent,14:50.4,C105,Present,3.99,0.92,16.21,0,92,46,18,89.45,Low
+10/18/2024,S2239,Saad,Business Analytics,High,Excellent,22:16.5,C103,Late,3.78,0.9,13.35,0,90,45,16,91.13,Low
+10/24/2024,S3124,Fatima,Business Analytics,High,Excellent,12:30.4,C103,Absent,3.88,0.92,14.67,0,92,46,16,90.25,Low
+10/16/2024,S3685,Areeba,Cybersecurity,High,Above Average,23:40.5,C101,Present,2.92,0.77,9.1,1,77,41,16,78.48,Low
+10/14/2024,S1806,Aleena,Web Development,High,Excellent,15:07.2,C101,Present,3.84,0.96,16.04,0,96,50,20,88.1,Low
+10/23/2024,S1316,Ayaan,Business Analytics,Medium,Average,00:50.3,C101,Present,2.42,0.67,5.0,1,67,38,11,47.36,Medium
+10/8/2024,S2958,Ayaan,Web Development,High,Excellent,04:20.1,C103,Late,3.58,1.0,17.51,0,100,50,15,98.8,Low
+10/22/2024,S1097,Mehwish,Data Science,Low,Below Average,03:54.4,C101,Present,1.02,0.56,2.08,4,56,34,9,34.3,High
+10/11/2024,S1946,Hamza,Data Science,High,Excellent,09:52.4,C104,Present,3.86,0.93,15.45,0,93,45,16,97.23,Low
+10/5/2024,S1033,Saad,Business Analytics,Low,Below Average,14:33.4,C102,Present,0.85,0.49,3.44,2,49,31,9,20.83,High
+10/6/2024,S1019,Areeba,Web Development,Low,Below Average,21:12.2,C105,Present,0.74,0.55,2.53,2,55,33,9,34.58,High
+10/4/2024,S239,Danish,AI,Low,Below Average,07:00.6,C101,Present,1.65,0.48,3.99,3,48,36,10,22.56,High
+10/11/2024,S175,Hamza,Business Analytics,Low,Below Average,05:18.2,C101,Present,1.61,0.59,3.23,4,59,40,10,36.71,High
+10/26/2024,S2241,Hamza,Data Science,High,Excellent,04:50.6,C105,Late,3.7,0.92,15.47,0,92,48,19,85.81,Low
+10/4/2024,S2568,Noor,Cybersecurity,High,Excellent,15:13.2,C101,Late,3.53,0.9,13.78,0,90,47,20,96.86,Low
+10/13/2024,S819,Hassan,Business Analytics,Low,Below Average,17:56.2,C103,Late,0.59,0.59,3.08,2,59,40,5,32.77,High
+10/17/2024,S991,Imran,AI,Low,Below Average,18:58.5,C104,Present,0.88,0.43,3.25,4,43,37,9,37.94,High
+10/18/2024,S1917,Saad,Business Analytics,High,Excellent,22:16.5,C103,Late,3.65,0.95,14.75,0,95,45,17,92.76,Low
+10/9/2024,S1114,Iqra,AI,Low,Below Average,20:47.4,C101,Late,1.39,0.58,2.73,4,58,36,9,34.37,High
+10/23/2024,S1379,Saad,AI,Medium,Average,02:43.6,C101,Present,2.28,0.72,6.83,1,72,43,10,41.08,Medium
+10/3/2024,S1427,Bilal,Business Analytics,Medium,Average,00:58.3,C104,Absent,2.14,0.64,4.19,2,64,45,11,45.56,Medium
+10/17/2024,S411,Zara,Cybersecurity,Low,Below Average,18:29.5,C104,Present,0.94,0.59,2.45,4,59,40,7,23.11,High
+10/26/2024,S1139,Laiba,AI,Low,Below Average,14:53.2,C101,Absent,1.86,0.46,2.51,2,46,34,6,22.39,High
+10/1/2024,S818,Aleena,AI,Low,Below Average,01:18.2,C103,Present,0.54,0.5,2.36,3,50,39,8,27.78,High
+10/10/2024,S2963,Zara,Cybersecurity,High,Excellent,22:21.1,C105,Present,3.51,0.91,19.57,0,91,47,18,81.59,Low
+10/20/2024,S1733,Hassan,Data Science,Medium,Average,11:38.7,C103,Late,2.69,0.65,4.24,1,65,41,13,57.21,Medium
+10/9/2024,S2349,Imran,Data Science,High,Excellent,08:44.4,C101,Late,3.65,0.97,16.96,0,97,48,20,82.56,Low
+10/24/2024,S1451,Aleena,Data Science,Medium,Average,17:54.6,C102,Present,2.09,0.74,5.05,1,74,39,14,46.56,Medium
+10/13/2024,S228,Imran,Business Analytics,Low,Below Average,21:35.5,C104,Present,1.48,0.53,3.54,4,53,36,8,38.04,High
+10/25/2024,S2701,Taha,Business Analytics,High,Excellent,22:54.4,C101,Present,3.75,0.98,13.92,0,98,45,20,82.81,Low
+10/14/2024,S1581,Usman,Business Analytics,Medium,Average,07:36.2,C101,Late,2.4,0.69,6.03,1,69,45,13,56.8,Medium
+10/2/2024,S1162,Danish,Business Analytics,Low,Below Average,18:54.6,C105,Present,0.72,0.57,2.36,3,57,31,7,24.71,High
+10/5/2024,S352,Saad,Business Analytics,Low,Below Average,14:33.4,C102,Present,1.71,0.53,1.38,2,53,33,6,31.68,High
+10/11/2024,S1394,Laiba,Cybersecurity,Medium,Average,08:12.5,C105,Present,2.46,0.61,6.36,1,61,41,10,43.87,Medium
+10/12/2024,S1264,Areeba,Web Development,Medium,Average,04:43.3,C104,Late,2.08,0.67,4.95,2,67,37,10,41.56,Medium
+10/3/2024,S1238,Imran,Web Development,Medium,Average,15:55.9,C104,Present,2.02,0.73,5.56,1,73,45,12,52.58,Medium
+10/5/2024,S1201,Hamza,AI,Medium,Average,11:22.1,C102,Present,2.22,0.73,4.01,1,73,42,12,50.63,Medium
+10/19/2024,S2179,Zara,Data Science,High,Excellent,17:30.1,C104,Absent,3.56,0.92,15.85,0,92,50,15,83.92,Low
+10/12/2024,S2467,Hassan,Web Development,High,Excellent,20:21.2,C103,Late,3.73,0.97,15.42,0,97,48,16,99.01,Low
+10/11/2024,S2011,Noor,AI,High,Excellent,20:25.7,C104,Present,3.62,0.92,11.02,0,92,47,19,92.71,Low
+10/13/2024,S1378,Imran,Web Development,Medium,Average,05:57.5,C102,Late,2.77,0.73,5.34,2,73,36,14,50.59,Medium
+10/10/2024,S070,Saad,Web Development,Low,Below Average,10:21.6,C104,Late,1.12,0.43,1.62,4,43,35,10,31.65,High
+10/17/2024,S3598,Areeba,Cybersecurity,High,Above Average,19:24.2,C104,Present,3.15,0.81,6.08,1,81,49,16,75.02,Low
+10/1/2024,S046,Bilal,AI,Low,Below Average,01:06.2,C102,Present,1.4,0.46,3.79,2,46,33,6,20.89,High
+10/8/2024,S1069,Saad,Cybersecurity,Low,Below Average,07:31.6,C103,Present,0.91,0.49,2.72,2,49,37,8,30.73,High
+10/24/2024,S3494,Ahmed,Business Analytics,High,Above Average,16:48.4,C101,Present,2.98,0.77,9.32,0,77,45,16,60.47,Low
+10/11/2024,S184,Laiba,Business Analytics,Low,Below Average,01:35.4,C103,Late,1.29,0.43,2.68,3,43,38,10,37.55,High
+10/18/2024,S2251,Taha,Data Science,High,Excellent,21:23.3,C104,Present,3.83,0.92,10.09,0,92,46,16,89.47,Low
+10/21/2024,S1414,Taha,Cybersecurity,Medium,Average,10:58.5,C101,Late,2.16,0.73,4.11,2,73,39,11,46.77,Medium
+10/21/2024,S1587,Laiba,Business Analytics,Medium,Average,09:08.6,C102,Present,2.15,0.64,4.88,2,64,36,14,57.65,Medium
+10/11/2024,S1271,Laiba,Cybersecurity,Medium,Average,08:12.5,C105,Present,2.3,0.61,4.71,2,61,44,14,47.1,Medium
+10/4/2024,S1415,Taha,Cybersecurity,Medium,Average,04:18.6,C103,Present,2.61,0.63,6.91,2,63,42,11,43.17,Medium
+10/5/2024,S140,Saad,Business Analytics,Low,Below Average,14:33.4,C102,Present,1.98,0.42,2.0,2,42,39,6,39.34,High
+10/20/2024,S3354,Saad,AI,High,Above Average,23:32.1,C101,Present,3.37,0.85,9.21,1,85,45,12,79.94,Low
+10/22/2024,S3212,Danish,Data Science,High,Above Average,20:33.5,C105,Present,3.08,0.88,8.0,1,88,49,13,71.82,Low
+10/18/2024,S310,Bilal,AI,Low,Below Average,22:09.3,C103,Late,1.02,0.52,3.31,3,52,38,6,38.23,High
+10/8/2024,S267,Aleena,AI,Low,Below Average,07:08.5,C104,Late,1.9,0.48,3.27,3,48,38,9,36.92,High
+10/14/2024,S3151,Hassan,Cybersecurity,High,Excellent,07:00.2,C102,Late,3.77,0.94,13.7,0,94,48,20,93.0,Low
+10/2/2024,S2169,Hamza,Web Development,High,Excellent,06:37.8,C104,Present,3.91,0.98,13.3,0,98,48,17,82.3,Low
+10/10/2024,S3208,Noor,Data Science,High,Above Average,00:08.6,C101,Late,3.38,0.78,9.12,0,78,41,16,79.43,Low
+10/4/2024,S064,Areeba,AI,Low,Below Average,22:15.2,C102,Present,0.8,0.45,1.84,4,45,40,7,36.64,High
+10/11/2024,S2572,Iqra,AI,High,Excellent,14:00.3,C105,Present,3.84,0.91,18.62,0,91,45,18,83.56,Low
+10/3/2024,S1992,Zara,Business Analytics,High,Excellent,04:33.5,C103,Absent,3.81,0.92,19.96,0,92,46,16,93.45,Low
+10/16/2024,S1579,Mariam,Business Analytics,Medium,Average,06:38.8,C102,Present,2.59,0.66,6.2,1,66,35,10,47.12,Medium
+10/2/2024,S2683,Hira,Data Science,High,Excellent,06:51.4,C105,Absent,3.5,0.94,11.49,0,94,46,18,80.35,Low
+10/19/2024,S145,Aleena,Web Development,Low,Below Average,03:03.3,C105,Late,1.13,0.48,2.83,2,48,32,5,36.89,High
+10/12/2024,S3457,Hamza,Business Analytics,High,Above Average,01:19.3,C104,Present,3.4,0.76,6.26,1,76,45,15,75.29,Low
+10/1/2024,S3402,Danish,Business Analytics,High,Above Average,01:28.6,C105,Present,3.35,0.86,7.02,1,86,50,15,60.43,Low
+10/16/2024,S3993,Imran,Business Analytics,High,Above Average,21:08.4,C102,Present,2.92,0.9,6.75,1,90,44,15,71.72,Low
+10/12/2024,S1406,Hassan,Business Analytics,Medium,Average,18:12.3,C101,Present,2.37,0.72,6.36,2,72,44,14,49.64,Medium
+10/2/2024,S3667,Aleena,Web Development,High,Above Average,03:49.1,C105,Absent,3.0,0.83,8.67,1,83,42,16,62.85,Low
+10/2/2024,S2580,Usman,Data Science,High,Excellent,21:47.4,C104,Present,3.71,0.96,10.96,0,96,48,17,95.67,Low
+10/11/2024,S777,Danish,Web Development,Low,Below Average,21:19.6,C101,Present,1.03,0.47,1.96,2,47,32,5,25.35,High
+10/12/2024,S2172,Zara,AI,High,Excellent,07:19.1,C103,Present,3.68,0.91,10.6,0,91,45,18,90.55,Low
+10/1/2024,S3025,Areeba,Business Analytics,High,Excellent,07:52.3,C102,Late,3.72,0.91,14.36,0,91,46,18,97.39,Low
+10/12/2024,S1965,Mariam,Business Analytics,High,Excellent,16:34.3,C103,Present,3.85,0.91,14.44,0,91,49,17,89.01,Low
+10/16/2024,S970,Aleena,Web Development,Low,Below Average,19:46.5,C105,Late,0.81,0.59,2.79,2,59,36,10,37.11,High
+10/9/2024,S2282,Mariam,Web Development,High,Excellent,23:53.5,C105,Present,3.77,0.94,11.94,0,94,49,19,94.43,Low
+10/19/2024,S252,Ahmed,Cybersecurity,Low,Below Average,02:30.5,C102,Present,0.89,0.54,2.44,2,54,39,7,38.49,High
+10/15/2024,S3615,Laiba,Data Science,High,Above Average,18:35.3,C104,Present,3.47,0.8,8.06,1,80,40,16,74.54,Low
+10/4/2024,S865,Hira,Web Development,Low,Below Average,10:55.3,C105,Late,1.39,0.41,2.55,3,41,35,7,32.61,High
+10/11/2024,S810,Zara,Web Development,Low,Below Average,22:11.2,C105,Late,1.65,0.44,1.57,4,44,32,9,22.82,High
+10/10/2024,S1599,Hassan,Data Science,Medium,Average,23:19.5,C102,Present,2.58,0.62,5.46,1,62,45,13,51.22,Medium
+10/5/2024,S2593,Mehwish,Web Development,High,Excellent,05:45.4,C104,Present,3.75,0.95,18.29,0,95,49,18,89.0,Low
+10/14/2024,S3493,Fatima,Data Science,High,Above Average,16:42.1,C101,Present,2.9,0.84,7.63,1,84,45,12,78.18,Low
+10/26/2024,S1299,Usman,Web Development,Medium,Average,19:26.4,C105,Present,2.62,0.75,6.19,1,75,45,14,46.74,Medium
+10/3/2024,S3871,Danish,Business Analytics,High,Above Average,01:32.1,C104,Late,2.85,0.86,8.45,0,86,45,13,62.9,Low
+10/23/2024,S280,Danish,AI,Low,Below Average,12:38.1,C103,Late,1.82,0.42,1.64,4,42,30,8,31.16,High
+10/20/2024,S1462,Hassan,Data Science,Medium,Average,11:38.7,C103,Late,2.2,0.68,4.69,2,68,43,12,58.18,Medium
+10/4/2024,S1423,Hira,Business Analytics,Medium,Average,12:23.3,C101,Present,2.33,0.61,6.65,2,61,39,10,47.4,Medium
+10/26/2024,S3284,Hira,Data Science,High,Above Average,22:08.4,C104,Present,3.02,0.82,7.49,0,82,46,16,60.52,Low
+10/23/2024,S1573,Laiba,Cybersecurity,Medium,Average,22:23.5,C104,Present,2.4,0.74,6.11,2,74,41,12,52.51,Medium
+10/22/2024,S359,Mariam,Web Development,Low,Below Average,02:18.5,C102,Present,1.13,0.4,3.66,4,40,32,7,32.4,High
+10/24/2024,S3928,Hira,Business Analytics,High,Above Average,05:42.1,C105,Present,3.17,0.84,6.32,1,84,49,15,74.99,Low
+10/11/2024,S300,Imran,Cybersecurity,Low,Below Average,00:59.3,C101,Absent,1.28,0.42,1.45,4,42,39,7,39.88,High
+10/17/2024,S1076,Zara,Cybersecurity,Low,Below Average,18:29.5,C104,Present,0.85,0.55,3.4,4,55,40,9,27.54,High
+10/18/2024,S1030,Bilal,AI,Low,Below Average,22:09.3,C103,Late,1.18,0.56,1.12,4,56,38,8,25.16,High
+10/9/2024,S535,Areeba,Cybersecurity,Low,Below Average,15:02.6,C103,Present,1.27,0.4,1.82,4,40,39,9,37.94,High
+10/3/2024,S3318,Aleena,Business Analytics,High,Above Average,10:29.4,C102,Present,3.47,0.8,8.44,0,80,48,16,70.61,Low
+10/3/2024,S3253,Aleena,Business Analytics,High,Above Average,10:29.4,C102,Present,2.96,0.79,6.52,1,79,50,15,79.61,Low
+10/9/2024,S1771,Bilal,Cybersecurity,Medium,Average,12:36.4,C103,Present,2.05,0.62,5.39,2,62,38,13,54.79,Medium
+10/10/2024,S2919,Taha,Data Science,High,Excellent,07:46.5,C103,Present,3.55,0.9,13.12,0,90,45,16,98.68,Low
+10/19/2024,S416,Iqra,AI,Low,Below Average,08:58.2,C101,Present,1.17,0.48,1.16,2,48,33,5,36.94,High
+10/7/2024,S840,Hamza,AI,Low,Below Average,06:09.3,C101,Present,0.52,0.46,2.97,2,46,38,6,24.05,High
+10/5/2024,S2628,Laiba,Data Science,High,Excellent,00:21.4,C103,Present,3.76,0.91,18.52,0,91,50,19,87.14,Low
+10/18/2024,S3805,Noor,Cybersecurity,High,Above Average,16:10.5,C103,Present,3.2,0.84,9.32,1,84,43,12,68.67,Low
+10/24/2024,S1043,Mehwish,Business Analytics,Low,Below Average,07:52.4,C102,Present,1.96,0.6,2.9,4,60,35,7,36.13,High
+10/3/2024,S1498,Fatima,Cybersecurity,Medium,Average,18:30.5,C105,Absent,2.23,0.67,5.14,1,67,42,13,53.43,Medium
+10/3/2024,S1399,Zara,Cybersecurity,Medium,Average,01:10.5,C103,Present,2.15,0.7,5.9,1,70,35,12,41.63,Medium
+10/4/2024,S309,Aleena,Business Analytics,Low,Below Average,02:53.4,C103,Present,1.48,0.56,1.02,4,56,34,7,33.71,High
+10/1/2024,S1533,Hassan,Data Science,Medium,Average,11:50.4,C105,Absent,2.76,0.71,5.03,1,71,44,10,43.77,Medium
+10/21/2024,S2488,Usman,Cybersecurity,High,Excellent,14:11.2,C105,Late,3.72,0.91,14.37,0,91,49,18,88.76,Low
+10/13/2024,S3285,Hassan,Web Development,High,Above Average,17:28.7,C103,Present,3.09,0.79,7.8,1,79,47,12,75.28,Low
+10/9/2024,S2619,Usman,Web Development,High,Excellent,15:25.2,C105,Late,3.51,0.94,16.97,0,94,50,17,86.18,Low
+10/13/2024,S1074,Danish,Data Science,Low,Below Average,23:42.5,C102,Present,0.88,0.43,3.67,4,43,38,7,32.75,High
+10/2/2024,S3300,Iqra,Business Analytics,High,Above Average,11:00.3,C103,Present,3.28,0.78,9.37,1,78,47,13,63.65,Low
+10/23/2024,S3053,Taha,AI,High,Excellent,13:35.3,C102,Present,3.5,0.95,19.32,0,95,50,20,98.43,Low
+10/5/2024,S3518,Imran,Cybersecurity,High,Above Average,12:00.4,C105,Late,3.36,0.83,6.66,1,83,49,16,70.6,Low
+10/11/2024,S762,Aleena,Web Development,Low,Below Average,08:29.4,C105,Present,1.61,0.47,2.42,3,47,33,9,25.45,High
+10/7/2024,S2772,Taha,Web Development,High,Excellent,11:40.4,C103,Absent,3.71,0.91,15.94,0,91,48,17,82.3,Low
+10/23/2024,S1111,Aleena,Data Science,Low,Below Average,02:36.3,C101,Present,1.86,0.43,3.35,4,43,37,7,33.56,High
+10/7/2024,S1877,Mariam,Business Analytics,High,Excellent,08:19.5,C104,Present,3.6,0.94,10.8,0,94,46,17,98.7,Low
+10/14/2024,S2054,Mariam,Data Science,High,Excellent,12:13.9,C102,Present,3.8,0.92,12.81,0,92,48,16,81.63,Low
+10/8/2024,S059,Taha,Web Development,Low,Below Average,19:16.5,C103,Late,1.04,0.57,3.24,4,57,35,9,38.73,High
+10/26/2024,S077,Mehwish,AI,Low,Below Average,21:38.5,C104,Present,1.69,0.41,2.36,4,41,39,5,33.59,High
+10/23/2024,S369,Aleena,Business Analytics,Low,Below Average,01:13.7,C102,Present,0.59,0.49,3.68,3,49,39,5,34.7,High
+10/18/2024,S2430,Mehwish,Data Science,High,Excellent,14:05.6,C104,Present,3.97,0.96,16.12,0,96,47,18,87.31,Low
+10/11/2024,S3201,Saad,Data Science,High,Above Average,15:37.1,C102,Present,3.12,0.76,9.78,0,76,50,16,77.21,Low
+10/3/2024,S734,Iqra,Business Analytics,Low,Below Average,21:24.3,C102,Present,0.87,0.58,3.2,4,58,38,10,24.76,High
+10/26/2024,S3830,Zara,Cybersecurity,High,Above Average,11:01.5,C102,Present,3.48,0.8,9.52,1,80,49,14,66.71,Low
+10/24/2024,S2320,Fatima,Web Development,High,Excellent,07:33.6,C102,Present,3.87,0.96,13.9,0,96,48,16,80.04,Low
+10/24/2024,S2385,Mehwish,AI,High,Excellent,22:37.5,C103,Absent,3.64,0.92,13.31,0,92,48,20,87.8,Low
+10/16/2024,S2731,Ahmed,Web Development,High,Excellent,06:45.3,C103,Absent,3.96,0.95,16.99,0,95,47,16,94.53,Low
+10/20/2024,S1840,Bilal,Business Analytics,High,Excellent,15:26.2,C103,Present,3.74,0.97,18.23,0,97,46,16,90.6,Low
+10/21/2024,S2665,Ayaan,Web Development,High,Excellent,10:14.6,C101,Absent,3.93,0.94,19.95,0,94,46,17,84.0,Low
+10/24/2024,S125,Iqra,Business Analytics,Low,Below Average,00:41.1,C104,Late,1.43,0.48,2.81,3,48,33,8,36.8,High
+10/19/2024,S3473,Ahmed,Data Science,High,Above Average,06:47.4,C103,Present,3.16,0.78,9.38,0,78,46,12,69.53,Low
+10/21/2024,S3732,Mariam,AI,High,Above Average,17:35.2,C105,Present,2.84,0.78,7.62,0,78,42,13,62.82,Low
+10/24/2024,S2257,Mehwish,AI,High,Excellent,22:37.5,C103,Absent,3.8,0.91,18.18,0,91,48,15,80.11,Low
+10/3/2024,S2314,Taha,Cybersecurity,High,Excellent,21:22.6,C101,Absent,3.97,0.96,19.79,0,96,49,20,83.3,Low
+10/1/2024,S430,Laiba,Data Science,Low,Below Average,02:37.4,C101,Late,1.05,0.44,1.51,2,44,40,7,32.29,High
+10/22/2024,S1974,Hira,Web Development,High,Excellent,07:18.8,C104,Present,3.58,0.91,18.5,0,91,45,20,89.77,Low
+10/1/2024,S3954,Danish,Business Analytics,High,Above Average,01:28.6,C105,Present,2.82,0.81,6.42,0,81,48,12,67.57,Low
+10/16/2024,S817,Fatima,Web Development,Low,Below Average,12:45.5,C104,Present,0.64,0.5,3.32,3,50,30,10,25.09,High
+10/13/2024,S2717,Ayaan,Web Development,High,Excellent,14:50.2,C104,Present,3.61,0.97,19.31,0,97,47,18,83.09,Low
+10/13/2024,S3056,Fatima,Business Analytics,High,Excellent,11:12.4,C103,Late,3.55,0.98,18.7,0,98,47,15,81.33,Low
+10/17/2024,S1692,Areeba,Business Analytics,Medium,Average,07:13.3,C101,Present,2.6,0.68,4.89,2,68,41,11,57.93,Medium
+10/21/2024,S388,Imran,AI,Low,Below Average,12:02.2,C101,Present,0.57,0.52,2.97,2,52,40,8,36.29,High
+10/6/2024,S031,Laiba,Web Development,Low,Below Average,03:29.4,C101,Present,1.18,0.43,3.35,3,43,30,6,21.4,High
+10/11/2024,S1176,Danish,Web Development,Low,Below Average,21:19.6,C101,Present,1.11,0.49,3.17,2,49,39,7,25.67,High
+10/1/2024,S204,Mariam,Web Development,Low,Below Average,14:04.3,C103,Present,1.32,0.54,1.53,4,54,31,7,26.85,High
+10/11/2024,S1026,Zara,Web Development,Low,Below Average,22:11.2,C105,Late,1.16,0.47,3.6,3,47,30,8,25.62,High
+10/21/2024,S3858,Hassan,AI,High,Above Average,13:31.4,C104,Present,3.42,0.8,7.04,0,80,41,15,61.51,Low
+10/12/2024,S3758,Iqra,Web Development,High,Above Average,17:29.2,C104,Absent,3.43,0.81,8.82,1,81,40,16,63.28,Low
+10/6/2024,S894,Mehwish,AI,Low,Below Average,22:23.8,C102,Present,1.68,0.5,2.8,3,50,31,8,38.98,High
+10/14/2024,S2679,Usman,AI,High,Excellent,02:52.3,C102,Late,3.95,0.98,13.27,0,98,47,15,93.18,Low
+10/23/2024,S2667,Areeba,Web Development,High,Excellent,16:54.1,C105,Late,3.98,0.95,12.76,0,95,47,18,86.79,Low
+10/15/2024,S479,Mehwish,Data Science,Low,Below Average,09:35.3,C103,Late,1.61,0.42,2.3,2,42,36,10,30.69,High
+10/11/2024,S1685,Aleena,Cybersecurity,Medium,Average,06:02.5,C105,Present,2.69,0.7,4.99,2,70,40,10,59.15,Medium
+10/8/2024,S1351,Mehwish,Web Development,Medium,Average,10:38.3,C103,Late,2.55,0.74,5.14,1,74,42,13,50.99,Medium
+10/15/2024,S444,Saad,Data Science,Low,Below Average,16:35.3,C104,Present,1.39,0.6,2.38,4,60,37,10,26.67,High
+10/2/2024,S2771,Hira,Data Science,High,Excellent,06:51.4,C105,Absent,3.82,0.92,10.7,0,92,48,15,93.24,Low
+10/18/2024,S1339,Imran,AI,Medium,Average,07:53.6,C104,Present,2.41,0.66,4.25,2,66,39,14,54.31,Medium
+10/22/2024,S193,Bilal,AI,Low,Below Average,03:08.6,C104,Absent,1.23,0.4,3.34,4,40,40,10,26.29,High
+10/23/2024,S2970,Areeba,AI,High,Excellent,20:32.4,C103,Present,3.9,0.96,17.33,0,96,47,19,92.85,Low
+10/25/2024,S1129,Ahmed,Data Science,Low,Below Average,14:56.4,C103,Late,1.33,0.59,3.71,4,59,39,5,22.71,High
+10/6/2024,S007,Areeba,Web Development,Low,Below Average,21:12.2,C105,Present,0.86,0.54,3.69,3,54,30,5,30.97,High
+10/3/2024,S440,Taha,Cybersecurity,Low,Below Average,09:45.3,C102,Present,0.83,0.56,2.33,3,56,40,8,27.34,High
+10/20/2024,S290,Ayaan,Business Analytics,Low,Below Average,01:28.5,C104,Late,0.67,0.54,2.93,3,54,38,8,34.65,High
+10/18/2024,S1107,Ayaan,Business Analytics,Low,Below Average,10:54.5,C101,Late,2.0,0.44,3.29,2,44,38,7,24.45,High
+10/3/2024,S3694,Zara,Business Analytics,High,Above Average,22:35.4,C103,Present,3.25,0.75,6.97,1,75,47,14,73.78,Low
+10/7/2024,S3417,Taha,Business Analytics,High,Above Average,05:13.6,C104,Present,3.06,0.76,6.23,0,76,49,12,76.42,Low
+10/25/2024,S3941,Hira,Cybersecurity,High,Above Average,10:52.4,C101,Late,3.03,0.87,8.77,1,87,46,15,77.12,Low
+10/24/2024,S1922,Ayaan,Web Development,High,Excellent,04:30.5,C105,Present,3.81,0.99,13.37,0,99,48,15,92.7,Low
+10/20/2024,S2478,Imran,Cybersecurity,High,Excellent,07:20.5,C101,Present,3.99,0.94,13.8,0,94,49,19,95.89,Low
+10/19/2024,S2368,Zara,Web Development,High,Excellent,20:52.2,C103,Present,3.94,0.92,15.87,0,92,45,17,90.36,Low
+10/17/2024,S1736,Noor,AI,Medium,Average,08:39.4,C101,Present,2.75,0.74,5.38,1,74,39,12,58.22,Medium
+10/1/2024,S2685,Areeba,Business Analytics,High,Excellent,07:52.3,C102,Late,3.81,0.98,17.78,0,98,49,15,81.91,Low
+10/21/2024,S3883,Aleena,Cybersecurity,High,Above Average,15:29.2,C103,Present,3.02,0.81,8.63,0,81,47,16,76.65,Low
+10/10/2024,S195,Imran,Data Science,Low,Below Average,17:16.4,C105,Present,1.39,0.58,3.29,4,58,40,5,23.57,High
+10/2/2024,S451,Iqra,Web Development,Low,Below Average,04:46.3,C101,Present,1.58,0.45,2.3,3,45,33,6,39.51,High
+10/11/2024,S1594,Bilal,Business Analytics,Medium,Average,03:59.4,C101,Present,2.43,0.6,5.65,1,60,37,12,53.3,Medium
+10/10/2024,S1106,Imran,Data Science,Low,Below Average,17:16.4,C105,Present,1.12,0.53,2.77,4,53,32,9,36.74,High
+10/14/2024,S030,Ayaan,Web Development,Low,Below Average,13:45.2,C102,Present,0.68,0.47,1.95,2,47,32,7,25.18,High
+10/11/2024,S786,Aleena,Web Development,Low,Below Average,08:29.4,C105,Present,0.87,0.51,2.12,3,51,39,10,25.71,High
+10/24/2024,S3998,Hassan,Business Analytics,High,Above Average,08:28.3,C101,Present,3.35,0.88,7.92,1,88,46,16,65.31,Low
+10/21/2024,S2623,Hira,Business Analytics,High,Excellent,08:57.2,C103,Present,3.5,0.91,11.62,0,91,47,17,81.46,Low
+10/3/2024,S2908,Danish,Business Analytics,High,Excellent,21:27.1,C105,Present,3.82,0.93,14.4,0,93,47,18,88.51,Low
+10/10/2024,S3388,Hira,AI,High,Above Average,05:45.5,C104,Present,3.23,0.76,8.38,0,76,45,12,79.8,Low
+10/22/2024,S3787,Noor,AI,High,Above Average,08:55.2,C101,Present,3.25,0.79,8.31,0,79,49,15,75.6,Low
+10/17/2024,S882,Hassan,Cybersecurity,Low,Below Average,09:12.3,C102,Late,0.5,0.56,3.55,4,56,30,9,31.69,High
+10/13/2024,S3700,Saad,Business Analytics,High,Above Average,14:01.0,C101,Present,3.04,0.85,6.7,0,85,47,14,72.45,Low
+10/10/2024,S2370,Zara,Data Science,High,Excellent,01:34.9,C105,Present,3.57,0.95,12.77,0,95,45,18,83.64,Low
+10/7/2024,S2737,Zara,Data Science,High,Excellent,19:19.2,C102,Late,3.6,0.94,18.53,0,94,50,20,97.78,Low
+10/19/2024,S3595,Ahmed,Data Science,High,Above Average,02:12.9,C104,Present,3.07,0.88,9.86,1,88,46,14,66.4,Low
+10/8/2024,S223,Aleena,AI,Low,Below Average,07:08.5,C104,Late,0.81,0.42,3.76,4,42,31,6,21.87,High
+10/5/2024,S1996,Saad,Data Science,High,Excellent,11:50.2,C101,Absent,3.93,0.93,19.56,0,93,46,17,88.81,Low
+10/18/2024,S1718,Fatima,Data Science,Medium,Average,13:12.1,C101,Present,2.79,0.62,5.64,2,62,43,10,40.17,Medium
+10/11/2024,S574,Aleena,Web Development,Low,Below Average,08:29.4,C105,Present,1.42,0.48,2.75,4,48,32,8,32.18,High
+10/1/2024,S3329,Danish,Business Analytics,High,Above Average,17:08.4,C102,Present,2.91,0.84,7.62,1,84,48,13,64.21,Low
+10/3/2024,S3378,Areeba,Business Analytics,High,Above Average,22:28.6,C104,Present,3.37,0.82,8.59,1,82,40,14,67.06,Low
+10/10/2024,S1538,Ayaan,Web Development,Medium,Average,08:51.5,C101,Present,2.75,0.68,6.97,1,68,44,13,45.94,Medium
+10/18/2024,S1259,Imran,AI,Medium,Average,07:53.6,C104,Present,2.53,0.66,6.32,2,66,45,12,44.4,Medium
+10/6/2024,S2755,Danish,AI,High,Excellent,18:57.0,C101,Absent,3.56,0.96,11.98,0,96,45,16,99.48,Low
+10/11/2024,S1346,Areeba,Web Development,Medium,Average,12:08.2,C104,Present,2.22,0.63,4.52,2,63,45,14,54.8,Medium
+10/20/2024,S081,Zara,Cybersecurity,Low,Below Average,03:06.4,C102,Present,1.67,0.54,2.06,2,54,40,5,28.38,High
+10/3/2024,S258,Iqra,Business Analytics,Low,Below Average,21:24.3,C102,Present,0.56,0.47,1.29,3,47,31,5,34.75,High
+10/16/2024,S296,Hira,AI,Low,Below Average,05:13.5,C102,Absent,0.59,0.49,1.68,3,49,33,5,31.63,High
+10/24/2024,S2093,Zara,Web Development,High,Excellent,02:03.4,C103,Present,3.58,0.93,19.76,0,93,48,17,87.31,Low
+10/26/2024,S1035,Noor,Data Science,Low,Below Average,13:20.4,C103,Present,1.01,0.51,2.15,3,51,34,9,24.19,High
+10/11/2024,S1546,Aleena,Cybersecurity,Medium,Average,06:02.5,C105,Present,2.17,0.7,5.49,2,70,44,13,53.56,Medium
+10/17/2024,S1841,Noor,Business Analytics,High,Excellent,12:36.5,C102,Present,3.61,0.96,19.12,0,96,50,17,93.63,Low
+10/14/2024,S1741,Areeba,Web Development,Medium,Average,20:50.2,C103,Present,2.53,0.74,5.81,1,74,36,14,43.89,Medium
+10/17/2024,S2376,Mariam,AI,High,Excellent,19:39.3,C102,Present,3.68,0.99,19.85,0,99,49,18,94.2,Low
+10/16/2024,S655,Aleena,AI,Low,Below Average,18:03.4,C103,Late,0.98,0.58,2.08,2,58,31,9,24.06,High
+10/25/2024,S2777,Iqra,Business Analytics,High,Excellent,14:25.4,C101,Late,3.96,0.95,19.94,0,95,48,15,80.4,Low
+10/22/2024,S2856,Areeba,Cybersecurity,High,Excellent,21:33.4,C105,Present,3.96,0.96,16.26,0,96,48,16,98.84,Low
+10/23/2024,S2326,Hamza,Business Analytics,High,Excellent,08:39.2,C101,Absent,3.73,0.94,10.55,0,94,50,19,98.2,Low
+10/21/2024,S3183,Mariam,Cybersecurity,High,Excellent,05:51.2,C105,Present,3.92,0.95,16.36,0,95,50,17,90.14,Low
+10/1/2024,S3568,Hassan,Data Science,High,Above Average,04:08.2,C105,Present,3.26,0.9,7.09,1,90,43,15,70.75,Low
+10/25/2024,S3571,Iqra,Web Development,High,Above Average,01:18.9,C101,Late,2.84,0.77,8.73,0,77,48,14,65.51,Low
+10/15/2024,S2813,Hassan,Cybersecurity,High,Excellent,19:14.4,C104,Present,3.83,0.99,12.84,0,99,47,18,81.9,Low
+10/25/2024,S2531,Aleena,Data Science,High,Excellent,00:09.4,C103,Present,3.65,0.92,12.11,0,92,45,18,83.04,Low
+10/16/2024,S656,Danish,AI,Low,Below Average,12:49.3,C102,Late,1.4,0.43,2.91,2,43,34,5,20.3,High
+10/2/2024,S1910,Danish,Cybersecurity,High,Excellent,17:05.4,C101,Present,3.66,0.98,14.66,0,98,48,15,87.85,Low
+10/18/2024,S1746,Fatima,Business Analytics,Medium,Average,00:45.3,C104,Late,2.44,0.62,5.65,1,62,40,12,42.08,Medium
+10/10/2024,S2416,Laiba,Web Development,High,Excellent,20:18.1,C102,Present,3.65,0.9,11.83,0,90,48,15,86.76,Low
+10/25/2024,S2214,Imran,Web Development,High,Excellent,18:01.2,C104,Present,3.63,0.91,15.37,0,91,49,19,92.6,Low
+10/11/2024,S412,Danish,Web Development,Low,Below Average,21:19.6,C101,Present,0.56,0.57,1.54,3,57,32,10,36.85,High
+10/26/2024,S979,Laiba,AI,Low,Below Average,14:49.3,C104,Present,1.9,0.46,2.28,3,46,30,8,31.85,High
+10/11/2024,S1172,Danish,Web Development,Low,Below Average,21:19.6,C101,Present,1.56,0.57,1.71,3,57,36,9,34.93,High
+10/1/2024,S1432,Imran,AI,Medium,Average,22:31.2,C104,Present,2.18,0.68,5.52,2,68,40,13,57.01,Medium
+10/16/2024,S1075,Aleena,AI,Low,Below Average,05:53.6,C105,Present,0.74,0.49,3.55,4,49,31,7,36.48,High
+10/17/2024,S1023,Zara,Cybersecurity,Low,Below Average,18:29.5,C104,Present,0.81,0.49,1.14,2,49,35,5,22.28,High
+10/20/2024,S3227,Zara,Cybersecurity,High,Above Average,03:18.2,C101,Present,3.24,0.84,6.93,1,84,40,15,72.67,Low
+10/11/2024,S721,Saad,Web Development,Low,Below Average,18:13.4,C101,Present,1.72,0.6,2.76,3,60,37,9,34.62,High
+10/10/2024,S153,Saad,Web Development,Low,Below Average,10:21.6,C104,Late,0.99,0.42,3.02,3,42,30,9,39.04,High
+10/24/2024,S949,Taha,Cybersecurity,Low,Below Average,03:53.8,C102,Present,1.42,0.52,1.79,3,52,33,10,33.59,High
+10/1/2024,S2358,Hamza,Web Development,High,Excellent,07:51.5,C102,Present,3.89,0.98,12.85,0,98,45,19,83.22,Low
+10/23/2024,S1831,Areeba,AI,High,Excellent,20:32.4,C103,Present,3.75,0.91,12.5,0,91,48,19,89.92,Low
+10/11/2024,S103,Aleena,Web Development,Low,Below Average,08:29.4,C105,Present,1.91,0.47,3.64,3,47,35,8,36.68,High
+10/23/2024,S3456,Zara,Cybersecurity,High,Above Average,04:24.5,C101,Present,3.45,0.82,9.56,1,82,44,16,62.19,Low
+10/19/2024,S732,Bilal,AI,Low,Below Average,10:58.3,C101,Late,1.77,0.57,2.42,4,57,39,6,37.5,High
+10/12/2024,S240,Ayaan,Web Development,Low,Below Average,08:01.5,C101,Present,1.93,0.59,2.45,3,59,38,5,36.52,High
+10/19/2024,S3352,Ahmed,Business Analytics,High,Above Average,14:07.3,C104,Present,3.41,0.82,6.01,0,82,45,16,69.19,Low
+10/7/2024,S2974,Danish,Data Science,High,Excellent,02:29.1,C102,Present,3.54,0.91,11.97,0,91,45,17,91.73,Low
+10/25/2024,S1728,Aleena,Web Development,Medium,Average,22:58.2,C101,Present,2.71,0.63,5.26,1,63,39,12,52.17,Medium
+10/2/2024,S2094,Hamza,AI,High,Excellent,10:12.3,C104,Present,3.8,0.91,14.82,0,91,47,18,94.09,Low
+10/12/2024,S2841,Mehwish,Cybersecurity,High,Excellent,16:03.5,C104,Present,3.56,0.99,18.23,0,99,50,15,98.45,Low
+10/16/2024,S858,Hira,AI,Low,Below Average,05:13.5,C102,Absent,1.68,0.44,2.06,3,44,36,5,33.73,High
+10/21/2024,S1158,Bilal,AI,Low,Below Average,15:08.4,C104,Present,1.25,0.44,3.21,4,44,30,9,38.17,High
+10/16/2024,S863,Aleena,AI,Low,Below Average,05:53.6,C105,Present,1.98,0.41,2.02,3,41,31,7,23.05,High
+10/15/2024,S2520,Ahmed,Web Development,High,Excellent,05:24.5,C101,Late,3.79,0.91,16.05,0,91,47,19,91.42,Low
+10/9/2024,S2848,Fatima,AI,High,Excellent,01:27.3,C103,Present,3.61,0.91,19.05,0,91,50,20,82.48,Low
+10/9/2024,S2726,Iqra,Business Analytics,High,Excellent,18:52.1,C103,Present,3.57,0.99,14.52,0,99,46,16,95.75,Low
+10/13/2024,S3793,Hamza,Web Development,High,Above Average,07:16.1,C102,Present,3.36,0.88,8.62,0,88,43,13,62.32,Low
+10/23/2024,S756,Aleena,Business Analytics,Low,Below Average,01:13.7,C102,Present,1.36,0.47,1.02,3,47,39,5,29.79,High
+10/2/2024,S333,Mariam,Web Development,Low,Below Average,18:53.5,C105,Present,0.55,0.42,2.06,2,42,40,6,29.31,High
+10/5/2024,S745,Hassan,AI,Low,Below Average,20:01.8,C102,Absent,1.84,0.41,1.86,4,41,35,5,28.61,High
+10/25/2024,S3289,Ahmed,Cybersecurity,High,Above Average,07:38.6,C105,Present,3.3,0.86,9.99,1,86,45,13,61.49,Low
+10/15/2024,S2644,Bilal,Business Analytics,High,Excellent,02:26.4,C102,Present,3.83,0.93,10.45,0,93,49,15,96.91,Low
+10/7/2024,S2275,Zara,Data Science,High,Excellent,19:19.2,C102,Late,3.99,0.97,17.58,0,97,46,17,94.49,Low
+10/14/2024,S3632,Noor,AI,High,Above Average,02:04.5,C104,Late,3.08,0.81,7.13,0,81,47,12,76.14,Low
+10/17/2024,S3803,Mariam,Data Science,High,Above Average,01:15.3,C101,Late,2.94,0.88,7.59,0,88,50,16,78.24,Low
+10/4/2024,S3780,Hira,Web Development,High,Above Average,18:37.2,C103,Present,3.33,0.78,9.66,0,78,47,15,78.89,Low
+10/26/2024,S3129,Mehwish,Cybersecurity,High,Excellent,03:28.6,C104,Absent,3.72,0.94,19.94,0,94,46,17,88.37,Low
+10/22/2024,S2084,Bilal,Business Analytics,High,Excellent,21:54.4,C103,Present,3.64,0.94,10.86,0,94,47,15,99.08,Low
+10/12/2024,S2703,Mehwish,Cybersecurity,High,Excellent,16:03.5,C104,Present,3.65,0.98,18.79,0,98,50,16,89.42,Low
+10/18/2024,S3963,Usman,Data Science,High,Above Average,22:28.3,C104,Present,3.08,0.75,7.61,1,75,42,12,60.52,Low
+10/15/2024,S908,Hassan,Cybersecurity,Low,Below Average,11:03.5,C103,Present,0.68,0.53,2.74,2,53,33,6,29.08,High
+10/6/2024,S2284,Taha,Web Development,High,Excellent,05:37.3,C103,Present,3.56,0.91,14.23,0,91,47,17,89.32,Low
+10/1/2024,S1164,Hassan,AI,Low,Below Average,05:20.5,C103,Present,1.19,0.57,2.63,4,57,36,7,39.22,High
+10/23/2024,S2184,Saad,Data Science,High,Excellent,23:34.1,C101,Absent,3.92,0.98,17.5,0,98,47,20,98.12,Low
+10/22/2024,S3723,Hassan,Cybersecurity,High,Above Average,14:37.2,C102,Present,2.96,0.86,7.93,0,86,42,14,73.86,Low
+10/25/2024,S2212,Areeba,Business Analytics,High,Excellent,08:10.5,C103,Present,3.74,0.91,18.22,0,91,46,17,91.1,Low
+10/7/2024,S2068,Iqra,Web Development,High,Excellent,19:11.3,C103,Present,3.85,0.91,11.93,0,91,47,18,98.37,Low
+10/1/2024,S555,Mariam,Web Development,Low,Below Average,14:04.3,C103,Present,1.21,0.48,3.55,4,48,33,10,27.64,High
+10/25/2024,S3026,Hira,Cybersecurity,High,Excellent,10:34.6,C102,Present,3.8,0.97,19.83,0,97,48,17,93.84,Low
+10/5/2024,S3610,Ayaan,AI,High,Above Average,02:24.4,C105,Late,3.39,0.87,6.01,1,87,40,15,68.67,Low
+10/11/2024,S832,Mehwish,Cybersecurity,Low,Below Average,22:21.5,C105,Late,1.37,0.55,1.59,2,55,39,7,24.13,High
+10/6/2024,S3432,Saad,Cybersecurity,High,Above Average,01:50.4,C101,Present,3.16,0.76,7.51,1,76,43,16,66.8,Low
+10/4/2024,S3202,Aleena,AI,High,Above Average,18:38.3,C103,Present,3.47,0.87,6.37,0,87,49,12,75.53,Low
+10/8/2024,S2091,Laiba,Data Science,High,Excellent,02:35.4,C104,Present,3.55,0.91,18.03,0,91,45,19,99.19,Low
+10/22/2024,S1755,Bilal,AI,Medium,Average,12:28.3,C104,Absent,2.56,0.74,6.38,2,74,39,14,47.97,Medium
+10/15/2024,S812,Saad,AI,Low,Below Average,13:00.4,C102,Late,1.23,0.51,3.53,2,51,39,10,29.93,High
+10/2/2024,S889,Mehwish,AI,Low,Below Average,10:04.2,C103,Late,0.89,0.58,2.76,4,58,37,9,22.11,High
+10/22/2024,S2464,Zara,AI,High,Excellent,13:36.4,C104,Present,3.54,0.91,11.47,0,91,49,16,82.95,Low
+10/16/2024,S2989,Mariam,Cybersecurity,High,Excellent,07:00.0,C102,Present,3.68,0.98,19.52,0,98,49,20,85.97,Low
+10/16/2024,S1660,Ahmed,Web Development,Medium,Average,10:53.1,C101,Absent,2.24,0.64,5.78,1,64,43,13,47.34,Medium
+10/7/2024,S2510,Taha,Web Development,High,Excellent,11:40.4,C103,Absent,3.8,0.92,17.9,0,92,45,19,81.74,Low
+10/1/2024,S1234,Usman,Web Development,Medium,Average,08:41.5,C102,Present,2.49,0.73,5.95,1,73,41,14,51.02,Medium
+10/13/2024,S3874,Hassan,Web Development,High,Above Average,17:28.7,C103,Present,3.43,0.78,7.01,1,78,48,12,73.42,Low
+10/7/2024,S1449,Usman,Cybersecurity,Medium,Average,00:03.5,C104,Present,2.47,0.62,5.43,2,62,38,10,41.7,Medium
+10/10/2024,S2874,Noor,Cybersecurity,High,Excellent,16:56.5,C103,Present,3.54,0.95,10.26,0,95,45,20,97.91,Low
+10/8/2024,S1966,Mariam,AI,High,Excellent,07:56.1,C102,Late,3.72,0.93,10.78,0,93,46,20,87.94,Low
+10/22/2024,S694,Danish,Business Analytics,Low,Below Average,17:39.3,C104,Late,0.59,0.54,3.2,4,54,36,6,20.62,High
+10/17/2024,S1058,Hassan,Cybersecurity,Low,Below Average,04:01.5,C103,Present,1.44,0.44,3.68,4,44,32,10,36.95,High
+10/21/2024,S1799,Saad,Cybersecurity,Medium,Average,19:18.1,C104,Present,2.69,0.62,4.86,2,62,36,11,51.61,Medium
+10/22/2024,S1028,Laiba,Cybersecurity,Low,Below Average,23:02.3,C102,Present,1.14,0.6,2.63,4,60,37,6,26.73,High
+10/17/2024,S1537,Areeba,Business Analytics,Medium,Average,07:13.3,C101,Present,2.31,0.65,4.77,2,65,41,11,54.66,Medium
+10/4/2024,S3433,Hamza,AI,High,Above Average,05:11.1,C102,Late,3.04,0.82,8.05,0,82,50,13,74.96,Low
+10/5/2024,S1703,Noor,Business Analytics,Medium,Average,15:25.4,C103,Present,2.45,0.74,4.67,2,74,41,14,48.37,Medium
+10/13/2024,S2336,Fatima,Business Analytics,High,Excellent,11:12.4,C103,Late,3.81,0.93,16.62,0,93,46,15,80.3,Low
+10/8/2024,S347,Taha,Business Analytics,Low,Below Average,22:26.1,C101,Present,1.98,0.6,1.9,2,60,37,10,25.92,High
+10/21/2024,S924,Bilal,AI,Low,Below Average,15:08.4,C104,Present,1.29,0.59,2.88,3,59,31,5,38.07,High
+10/1/2024,S3260,Danish,Business Analytics,High,Above Average,17:08.4,C102,Present,2.82,0.8,9.03,0,80,46,14,61.82,Low
+10/13/2024,S1188,Mariam,Data Science,Low,Below Average,06:42.3,C105,Present,1.46,0.49,2.05,2,49,33,7,34.68,High
+10/17/2024,S843,Hassan,Data Science,Low,Below Average,19:36.4,C104,Present,0.82,0.45,3.55,4,45,38,9,39.72,High
+10/8/2024,S3279,Imran,Data Science,High,Above Average,16:21.5,C101,Present,2.98,0.76,9.13,1,76,49,16,66.32,Low
+10/4/2024,S3777,Hamza,Web Development,High,Above Average,02:04.3,C101,Present,3.25,0.85,7.16,0,85,42,12,76.48,Low
+10/2/2024,S2728,Usman,Data Science,High,Excellent,21:47.4,C104,Present,3.9,0.99,16.01,0,99,45,18,83.49,Low
+10/2/2024,S2828,Bilal,Web Development,High,Excellent,16:04.2,C102,Present,3.57,0.91,18.21,0,91,47,20,89.61,Low
+10/26/2024,S1421,Fatima,Business Analytics,Medium,Average,10:01.3,C103,Late,2.55,0.64,6.22,2,64,39,13,50.5,Medium
+10/3/2024,S1925,Zara,Business Analytics,High,Excellent,04:33.5,C103,Absent,3.69,0.97,18.72,0,97,48,18,95.1,Low
+10/9/2024,S179,Hira,Web Development,Low,Below Average,09:02.6,C104,Present,1.36,0.46,2.53,2,46,30,8,39.2,High
+10/3/2024,S2277,Laiba,Web Development,High,Excellent,21:37.6,C105,Present,3.54,0.96,13.32,0,96,48,18,93.19,Low
+10/1/2024,S3186,Danish,Web Development,High,Excellent,17:29.4,C101,Present,3.76,0.96,19.85,0,96,47,17,82.17,Low
+10/16/2024,S813,Aleena,Web Development,Low,Below Average,19:46.5,C105,Late,0.9,0.53,1.39,2,53,31,10,23.12,High
+10/7/2024,S1878,Iqra,Business Analytics,High,Excellent,13:53.6,C102,Present,3.88,0.9,14.7,0,90,48,19,95.22,Low
+10/1/2024,S1337,Usman,Web Development,Medium,Average,08:41.5,C102,Present,2.54,0.63,5.84,2,63,35,14,47.35,Medium
+10/19/2024,S3159,Bilal,Data Science,High,Excellent,10:14.3,C101,Present,3.88,0.99,16.0,0,99,47,17,95.95,Low
+10/20/2024,S3108,Laiba,Business Analytics,High,Excellent,16:33.2,C101,Late,3.67,0.93,12.62,0,93,47,18,97.58,Low
+10/16/2024,S1558,Ahmed,Web Development,Medium,Average,10:53.1,C101,Absent,2.66,0.65,4.92,1,65,36,11,42.42,Medium
+10/14/2024,S2802,Aleena,Web Development,High,Excellent,15:07.2,C101,Present,3.87,0.95,18.27,0,95,49,17,96.92,Low
+10/23/2024,S2177,Usman,Cybersecurity,High,Excellent,10:35.2,C104,Late,3.98,0.93,14.27,0,93,49,18,83.17,Low
+10/6/2024,S1813,Zara,Data Science,High,Excellent,12:42.4,C102,Present,3.57,0.96,19.96,0,96,47,17,91.31,Low
+10/13/2024,S174,Mariam,Data Science,Low,Below Average,06:42.3,C105,Present,1.91,0.48,2.67,2,48,33,6,28.97,High
+10/9/2024,S2355,Iqra,Business Analytics,High,Excellent,05:45.8,C105,Absent,3.96,0.95,11.8,0,95,45,15,83.06,Low
+10/15/2024,S3058,Ahmed,Web Development,High,Excellent,05:24.5,C101,Late,3.84,0.96,19.72,0,96,48,15,86.22,Low
+10/16/2024,S332,Mehwish,Business Analytics,Low,Below Average,06:05.2,C103,Present,0.95,0.43,2.11,4,43,38,9,24.72,High
+10/14/2024,S1362,Usman,Cybersecurity,Medium,Average,01:31.2,C102,Absent,2.37,0.71,5.45,2,71,40,12,53.46,Medium
+10/26/2024,S431,Mariam,Business Analytics,Low,Below Average,10:43.6,C103,Late,1.89,0.55,2.83,2,55,32,5,20.34,High
+10/4/2024,S3653,Hira,Web Development,High,Above Average,18:37.2,C103,Present,2.91,0.88,9.58,0,88,43,14,60.8,Low
+10/1/2024,S2010,Areeba,Web Development,High,Excellent,19:29.5,C102,Late,3.82,0.94,10.31,0,94,50,16,85.76,Low
+10/2/2024,S1105,Iqra,Web Development,Low,Below Average,04:46.3,C101,Present,1.6,0.59,1.81,2,59,37,7,35.6,High
+10/14/2024,S2563,Ahmed,Data Science,High,Excellent,10:40.5,C105,Present,3.67,0.96,11.47,0,96,49,18,97.92,Low
+10/4/2024,S480,Hira,Web Development,Low,Below Average,10:55.3,C105,Late,1.29,0.52,3.21,4,52,34,10,23.6,High
+10/19/2024,S1279,Mariam,Data Science,Medium,Average,06:17.4,C105,Present,2.11,0.66,4.56,2,66,38,10,57.72,Medium
+10/10/2024,S2604,Zara,Cybersecurity,High,Excellent,22:21.1,C105,Present,3.52,0.97,12.98,0,97,49,16,99.81,Low
+10/13/2024,S747,Noor,Cybersecurity,Low,Below Average,02:05.1,C103,Present,0.81,0.57,1.82,4,57,39,7,37.66,High
+10/15/2024,S1770,Fatima,Business Analytics,Medium,Average,23:11.9,C103,Late,2.23,0.73,5.56,2,73,42,11,55.87,Medium
+10/20/2024,S3555,Ahmed,Web Development,High,Above Average,15:26.3,C105,Late,3.16,0.88,8.42,0,88,48,13,73.94,Low
+10/2/2024,S2338,Hamza,AI,High,Excellent,10:12.3,C104,Present,3.77,0.95,14.05,0,95,48,15,87.61,Low
+10/3/2024,S3752,Hira,Cybersecurity,High,Above Average,08:41.2,C105,Present,2.95,0.83,6.83,1,83,46,14,68.92,Low
+10/22/2024,S1941,Ahmed,AI,High,Excellent,21:28.1,C103,Late,3.7,0.99,11.02,0,99,48,15,95.26,Low
+10/11/2024,S1796,Saad,Cybersecurity,Medium,Average,19:35.4,C101,Present,2.41,0.74,6.62,2,74,43,13,54.87,Medium
+10/3/2024,S325,Zara,Data Science,Low,Below Average,01:11.2,C101,Present,1.99,0.52,3.66,2,52,32,9,24.48,High
+10/15/2024,S1269,Mariam,Cybersecurity,Medium,Average,13:51.5,C105,Present,2.27,0.68,5.48,1,68,41,11,55.41,Medium
+10/23/2024,S469,Laiba,AI,Low,Below Average,14:01.1,C102,Late,1.39,0.44,1.12,2,44,37,10,27.98,High
+10/20/2024,S562,Laiba,Web Development,Low,Below Average,04:54.1,C102,Absent,0.89,0.59,2.81,3,59,32,9,30.78,High
+10/26/2024,S2631,Iqra,Cybersecurity,High,Excellent,23:55.5,C105,Present,3.58,0.95,19.47,0,95,50,18,97.27,Low
+10/18/2024,S2351,Aleena,Business Analytics,High,Excellent,14:49.3,C105,Present,3.96,0.97,13.32,0,97,50,19,94.91,Low
+10/22/2024,S2079,Mehwish,AI,High,Excellent,03:22.3,C105,Late,3.92,0.91,17.99,0,91,49,18,92.05,Low
+10/25/2024,S3785,Iqra,Web Development,High,Above Average,01:18.9,C101,Late,3.5,0.86,8.35,0,86,50,13,69.06,Low
+10/14/2024,S2971,Aleena,Web Development,High,Excellent,15:07.2,C101,Present,3.6,0.99,11.38,0,99,49,17,84.96,Low
+10/7/2024,S2347,Danish,Data Science,High,Excellent,02:29.1,C102,Present,3.79,0.94,14.22,0,94,46,19,99.5,Low
+10/23/2024,S062,Laiba,AI,Low,Below Average,14:01.1,C102,Late,0.65,0.44,3.22,3,44,30,10,24.79,High
+10/18/2024,S2804,Mehwish,Web Development,High,Excellent,17:23.2,C104,Late,3.78,0.93,13.74,0,93,47,16,84.09,Low
+10/24/2024,S1898,Iqra,Data Science,High,Excellent,04:43.4,C104,Present,3.76,0.99,12.85,0,99,45,19,95.89,Low
+10/14/2024,S2877,Hassan,Cybersecurity,High,Excellent,07:00.2,C102,Late,3.63,0.9,18.23,0,90,48,19,89.36,Low
+10/12/2024,S255,Laiba,Business Analytics,Low,Below Average,11:36.3,C103,Present,0.52,0.58,3.76,3,58,34,9,28.55,High
+10/3/2024,S3782,Usman,Cybersecurity,High,Above Average,09:43.6,C103,Present,2.95,0.89,6.54,0,89,45,12,60.55,Low
+10/9/2024,S1095,Hira,Web Development,Low,Below Average,09:02.6,C104,Present,1.61,0.5,2.48,3,50,34,8,31.49,High
+10/24/2024,S1062,Areeba,Data Science,Low,Below Average,04:48.7,C105,Present,1.65,0.56,3.25,2,56,36,9,35.12,High
+10/18/2024,S916,Danish,AI,Low,Below Average,11:05.2,C104,Present,1.74,0.54,3.42,2,54,33,5,36.93,High
+10/5/2024,S1042,Hira,Data Science,Low,Below Average,03:02.3,C105,Present,1.86,0.59,3.41,4,59,32,7,37.52,High
+10/19/2024,S2567,Zara,Web Development,High,Excellent,20:52.2,C103,Present,3.78,0.97,14.7,0,97,46,16,92.32,Low
+10/24/2024,S068,Saad,Data Science,Low,Below Average,03:38.2,C104,Late,1.93,0.59,3.71,4,59,31,6,24.44,High
+10/5/2024,S1872,Hamza,Web Development,High,Excellent,05:02.4,C102,Present,3.64,0.98,15.59,0,98,45,17,98.89,Low
+10/1/2024,S2789,Areeba,Business Analytics,High,Excellent,07:52.3,C102,Late,3.61,0.97,14.75,0,97,50,18,95.68,Low
+10/10/2024,S222,Mehwish,Web Development,Low,Below Average,06:43.2,C103,Present,1.61,0.45,3.89,2,45,31,5,34.18,High
+10/18/2024,S1963,Areeba,Business Analytics,High,Excellent,17:13.4,C101,Present,3.97,0.95,12.66,0,95,47,18,88.91,Low
+10/16/2024,S2409,Areeba,Data Science,High,Excellent,11:19.5,C103,Present,3.97,0.98,17.63,0,98,45,20,86.16,Low
+10/1/2024,S2878,Ahmed,Business Analytics,High,Excellent,01:20.5,C105,Present,3.97,0.94,16.86,0,94,49,19,99.92,Low
+10/7/2024,S3174,Ahmed,Web Development,High,Excellent,20:48.6,C104,Present,3.78,0.98,15.76,0,98,46,18,95.67,Low
+10/13/2024,S089,Noor,Cybersecurity,Low,Below Average,02:05.1,C103,Present,1.04,0.43,1.7,4,43,39,8,21.36,High
+10/25/2024,S1808,Aleena,Data Science,High,Excellent,00:09.4,C103,Present,3.66,0.93,13.4,0,93,47,15,87.93,Low
+10/6/2024,S1676,Hamza,AI,Medium,Average,21:42.6,C104,Present,2.73,0.66,4.2,2,66,37,10,56.08,Medium
+10/10/2024,S2829,Taha,Data Science,High,Excellent,07:46.5,C103,Present,3.78,0.95,17.97,0,95,49,19,85.68,Low
+10/11/2024,S1489,Aleena,Web Development,Medium,Average,20:19.4,C105,Late,2.73,0.6,6.93,2,60,39,10,40.62,Medium
+10/22/2024,S3033,Hamza,Business Analytics,High,Excellent,17:50.6,C103,Present,3.99,0.94,11.28,0,94,50,15,98.44,Low
+10/6/2024,S1722,Usman,Data Science,Medium,Average,08:48.4,C102,Late,2.02,0.69,4.09,1,69,44,13,47.99,Medium
+10/22/2024,S3807,Aleena,Business Analytics,High,Above Average,22:47.1,C104,Present,3.04,0.84,7.59,1,84,43,12,78.58,Low
+10/23/2024,S437,Aleena,Data Science,Low,Below Average,02:36.3,C101,Present,1.17,0.42,1.67,2,42,39,7,35.69,High
+10/11/2024,S3580,Hira,AI,High,Above Average,07:03.4,C105,Present,3.47,0.79,9.22,1,79,48,14,75.48,Low
+10/4/2024,S3601,Hamza,Cybersecurity,High,Above Average,10:27.1,C102,Present,3.34,0.86,6.02,0,86,49,16,75.68,Low
+10/12/2024,S3190,Bilal,Data Science,High,Excellent,19:31.2,C101,Present,3.78,0.99,10.97,0,99,47,18,99.52,Low
+10/18/2024,S3403,Imran,Data Science,High,Above Average,23:00.1,C102,Present,2.92,0.89,7.06,1,89,40,16,79.37,Low
+10/13/2024,S2348,Fatima,Business Analytics,High,Excellent,11:12.4,C103,Late,3.98,0.95,16.71,0,95,50,19,94.82,Low
+10/21/2024,S3442,Bilal,AI,High,Above Average,13:54.5,C104,Present,2.97,0.76,6.17,1,76,45,15,79.61,Low
+10/19/2024,S3570,Taha,Data Science,High,Above Average,01:50.2,C105,Present,3.11,0.77,7.9,1,77,47,16,73.28,Low
+10/15/2024,S1514,Noor,Cybersecurity,Medium,Average,09:42.6,C101,Present,2.32,0.74,5.08,1,74,37,12,55.38,Medium
+10/6/2024,S2649,Fatima,Cybersecurity,High,Excellent,04:55.4,C103,Present,3.66,0.98,16.05,0,98,49,18,86.71,Low
+10/6/2024,S3275,Saad,Cybersecurity,High,Above Average,01:50.4,C101,Present,3.06,0.78,7.1,1,78,42,13,62.83,Low
+10/3/2024,S1737,Fatima,Data Science,Medium,Average,14:28.5,C103,Absent,2.4,0.64,5.79,2,64,44,14,46.6,Medium
+10/3/2024,S1403,Zara,Data Science,Medium,Average,09:10.2,C102,Late,2.72,0.73,5.91,1,73,36,13,51.05,Medium
+10/24/2024,S284,Hassan,Web Development,Low,Below Average,23:15.3,C102,Present,1.98,0.55,2.04,3,55,34,5,30.0,High
+10/6/2024,S713,Mehwish,AI,Low,Below Average,22:23.8,C102,Present,1.99,0.43,3.21,3,43,31,5,31.56,High
+10/12/2024,S275,Bilal,Web Development,Low,Below Average,01:17.4,C102,Present,0.76,0.42,2.05,3,42,40,10,27.61,High
+10/9/2024,S2273,Usman,Cybersecurity,High,Excellent,06:51.4,C105,Present,3.87,1.0,18.81,0,100,49,18,84.07,Low
+10/24/2024,S622,Taha,Business Analytics,Low,Below Average,09:06.1,C104,Present,0.83,0.46,1.45,3,46,32,7,28.7,High
+10/13/2024,S1923,Taha,Cybersecurity,High,Excellent,18:57.5,C101,Present,3.98,0.99,16.08,0,99,47,17,92.13,Low
+10/11/2024,S866,Danish,Web Development,Low,Below Average,21:19.6,C101,Present,0.56,0.57,3.79,2,57,30,9,32.83,High
+10/18/2024,S3944,Laiba,Data Science,High,Above Average,18:28.4,C102,Present,3.1,0.77,9.33,1,77,50,15,65.12,Low
+10/26/2024,S1643,Fatima,Business Analytics,Medium,Average,10:01.3,C103,Late,2.2,0.63,5.69,2,63,40,12,52.0,Medium
+10/5/2024,S2484,Hamza,Web Development,High,Excellent,05:02.4,C102,Present,3.71,0.97,12.88,0,97,45,20,87.92,Low
+10/24/2024,S3995,Hira,Business Analytics,High,Above Average,05:42.1,C105,Present,3.12,0.89,6.51,0,89,46,14,70.28,Low
+10/8/2024,S424,Saad,Cybersecurity,Low,Below Average,07:31.6,C103,Present,0.75,0.51,2.45,3,51,40,10,30.52,High
+10/18/2024,S2992,Aleena,Business Analytics,High,Excellent,14:49.3,C105,Present,3.89,0.91,11.27,0,91,47,19,93.96,Low
+10/12/2024,S1222,Hamza,Cybersecurity,Medium,Average,20:44.4,C102,Present,2.6,0.7,4.83,2,70,40,10,43.33,Medium
+10/19/2024,S507,Mariam,Web Development,Low,Below Average,13:59.2,C104,Late,0.73,0.45,2.09,2,45,32,10,32.5,High
+10/3/2024,S3861,Hira,Cybersecurity,High,Above Average,08:41.2,C105,Present,2.81,0.8,6.61,1,80,40,12,74.28,Low
+10/13/2024,S3564,Hamza,Web Development,High,Above Average,07:16.1,C102,Present,3.04,0.84,6.69,0,84,46,16,64.25,Low
+10/11/2024,S1124,Mariam,Data Science,Low,Below Average,05:09.5,C103,Present,1.45,0.42,1.07,3,42,40,5,30.63,High
+10/11/2024,S2513,Iqra,AI,High,Excellent,14:00.3,C105,Present,3.63,0.97,11.2,0,97,47,16,86.12,Low
+10/11/2024,S501,Fatima,AI,Low,Below Average,16:22.2,C102,Present,0.72,0.5,2.31,4,50,36,6,33.22,High
+10/25/2024,S1109,Noor,Cybersecurity,Low,Below Average,08:43.1,C101,Present,0.88,0.5,3.8,3,50,37,5,30.63,High
+10/11/2024,S1282,Aleena,Cybersecurity,Medium,Average,06:02.5,C105,Present,2.02,0.72,4.74,2,72,41,10,48.73,Medium
+10/24/2024,S550,Taha,Business Analytics,Low,Below Average,09:06.1,C104,Present,1.27,0.6,1.49,4,60,36,5,32.21,High
+10/17/2024,S558,Areeba,Web Development,Low,Below Average,08:27.3,C102,Present,1.91,0.5,3.26,2,50,32,9,29.57,High
+10/5/2024,S1602,Iqra,Web Development,Medium,Average,17:22.3,C102,Late,2.48,0.72,4.72,1,72,44,10,48.28,Medium
+10/13/2024,S603,Hassan,Business Analytics,Low,Below Average,17:56.2,C103,Late,1.63,0.59,1.23,3,59,32,6,38.58,High
+10/3/2024,S443,Zara,Data Science,Low,Below Average,01:11.2,C101,Present,1.61,0.47,3.06,3,47,35,9,22.31,High
+10/17/2024,S1780,Areeba,AI,Medium,Average,13:00.6,C105,Present,2.04,0.71,5.01,2,71,35,12,48.65,Medium
+10/2/2024,S219,Mehwish,AI,Low,Below Average,10:04.2,C103,Late,0.74,0.58,3.33,4,58,33,7,24.17,High
+10/23/2024,S2108,Hassan,Data Science,High,Excellent,05:42.3,C105,Present,3.59,0.93,14.44,0,93,45,17,83.56,Low
+10/10/2024,S898,Mehwish,Web Development,Low,Below Average,06:43.2,C103,Present,1.5,0.54,1.68,2,54,33,5,20.34,High
+10/5/2024,S737,Mariam,AI,Low,Below Average,16:54.4,C101,Late,1.3,0.49,3.96,2,49,39,6,27.29,High
+10/22/2024,S3324,Iqra,Cybersecurity,High,Above Average,23:03.7,C103,Present,3.43,0.84,7.5,1,84,45,16,63.92,Low
+10/17/2024,S2481,Areeba,Data Science,High,Excellent,21:57.5,C105,Present,3.84,0.98,12.64,0,98,46,19,82.25,Low
+10/19/2024,S3817,Mehwish,Data Science,High,Above Average,16:08.6,C102,Present,3.44,0.76,7.88,0,76,50,14,64.62,Low
+10/13/2024,S2060,Aleena,Data Science,High,Excellent,14:33.5,C105,Present,3.89,0.95,12.71,0,95,49,20,99.36,Low
+10/19/2024,S1905,Zara,Web Development,High,Excellent,04:37.2,C101,Absent,3.69,0.95,19.62,0,95,45,20,99.71,Low
+10/4/2024,S3383,Ahmed,Cybersecurity,High,Above Average,20:49.8,C101,Present,3.03,0.82,8.47,0,82,42,13,64.29,Low
+10/15/2024,S1667,Danish,Cybersecurity,Medium,Average,07:09.1,C103,Present,2.47,0.64,6.59,2,64,39,12,48.99,Medium
+10/18/2024,S3959,Taha,Cybersecurity,High,Above Average,04:14.2,C103,Late,2.83,0.78,6.69,0,78,48,12,67.69,Low
+10/10/2024,S2830,Laiba,Web Development,High,Excellent,20:18.1,C102,Present,3.89,0.93,15.59,0,93,45,16,85.95,Low
+10/19/2024,S3131,Zara,Web Development,High,Excellent,04:37.2,C101,Absent,3.53,0.95,12.16,0,95,46,19,81.08,Low
+10/6/2024,S3342,Saad,Cybersecurity,High,Above Average,01:50.4,C101,Present,3.48,0.89,8.47,0,89,49,12,65.02,Low
+10/13/2024,S2482,Fatima,AI,High,Excellent,18:44.6,C103,Present,3.61,0.98,19.83,0,98,46,16,93.81,Low
+10/10/2024,S1205,Imran,AI,Medium,Average,04:49.5,C102,Late,2.0,0.67,5.59,2,67,40,10,48.3,Medium
+10/22/2024,S1160,Taha,Business Analytics,Low,Below Average,01:21.4,C105,Present,1.09,0.44,3.03,2,44,34,6,21.62,High
+10/19/2024,S2291,Zara,Data Science,High,Excellent,17:30.1,C104,Absent,3.99,0.91,17.28,0,91,47,15,93.1,Low
+10/1/2024,S1534,Areeba,Data Science,Medium,Average,16:28.3,C103,Late,2.2,0.66,5.32,1,66,44,14,43.21,Medium
+10/4/2024,S806,Fatima,Data Science,Low,Below Average,16:55.5,C101,Present,0.7,0.59,2.22,4,59,33,8,34.44,High
+10/18/2024,S2707,Areeba,Business Analytics,High,Excellent,17:13.4,C101,Present,3.85,0.93,18.95,0,93,50,20,86.56,Low
+10/20/2024,S1875,Ayaan,Business Analytics,High,Excellent,07:22.6,C104,Present,3.99,0.99,10.43,0,99,47,20,98.86,Low
+10/16/2024,S3276,Usman,Web Development,High,Above Average,11:40.1,C104,Present,3.22,0.77,6.63,1,77,46,16,60.24,Low
+10/13/2024,S579,Imran,Business Analytics,Low,Below Average,21:35.5,C104,Present,0.95,0.52,2.62,2,52,38,5,32.99,High
+10/25/2024,S2280,Taha,Data Science,High,Excellent,17:56.2,C101,Late,3.87,0.91,19.61,0,91,46,20,81.67,Low
+10/22/2024,S3419,Danish,Data Science,High,Above Average,18:56.8,C101,Present,3.01,0.86,6.92,0,86,45,14,74.42,Low
+10/4/2024,S1363,Saad,Web Development,Medium,Average,18:30.5,C101,Late,2.19,0.69,6.29,2,69,43,13,53.77,Medium
+10/9/2024,S001,Hamza,Cybersecurity,Low,Below Average,12:02.2,C105,Present,1.18,0.55,2.24,3,55,34,6,29.01,High
+10/2/2024,S3427,Bilal,Web Development,High,Above Average,22:57.2,C104,Present,2.94,0.82,7.87,1,82,43,15,67.18,Low
+10/3/2024,S3729,Areeba,Business Analytics,High,Above Average,22:28.6,C104,Present,2.8,0.83,9.87,1,83,45,14,70.26,Low
+10/15/2024,S3846,Hamza,AI,High,Above Average,13:05.3,C105,Present,3.32,0.87,9.06,1,87,42,16,69.57,Low
+10/5/2024,S965,Noor,Data Science,Low,Below Average,05:03.2,C105,Present,0.92,0.46,2.19,4,46,33,6,36.3,High
+10/26/2024,S3254,Zara,Cybersecurity,High,Above Average,05:27.6,C103,Present,2.81,0.88,6.94,1,88,50,12,73.31,Low
+10/1/2024,S1012,Bilal,AI,Low,Below Average,01:06.2,C102,Present,1.2,0.58,3.54,4,58,33,9,31.53,High
+10/10/2024,S248,Danish,Cybersecurity,Low,Below Average,15:53.3,C104,Late,0.99,0.57,3.97,2,57,39,9,37.42,High
+10/26/2024,S1426,Danish,AI,Medium,Average,03:56.1,C102,Present,2.43,0.64,5.87,1,64,43,12,47.83,Medium
+10/1/2024,S2112,Areeba,Web Development,High,Excellent,19:29.5,C102,Late,4.0,0.93,16.38,0,93,46,15,90.52,Low
+10/22/2024,S3977,Danish,Data Science,High,Above Average,18:56.8,C101,Present,3.25,0.87,8.22,1,87,50,16,64.83,Low
+10/20/2024,S3408,Saad,AI,High,Above Average,23:32.1,C101,Present,2.97,0.76,8.67,1,76,46,16,79.4,Low
+10/26/2024,S3794,Mehwish,Cybersecurity,High,Above Average,21:02.3,C101,Present,3.12,0.82,9.98,0,82,41,15,65.13,Low
+10/23/2024,S1510,Mariam,Cybersecurity,Medium,Average,14:38.5,C101,Present,2.39,0.75,5.3,1,75,42,10,51.75,Medium
+10/18/2024,S3516,Zara,AI,High,Above Average,02:20.6,C104,Absent,3.03,0.85,6.05,0,85,48,12,66.94,Low
+10/12/2024,S651,Zara,Cybersecurity,Low,Below Average,12:43.5,C104,Present,0.55,0.54,1.55,2,54,36,8,28.82,High
+10/7/2024,S1968,Danish,Data Science,High,Excellent,12:49.9,C104,Present,3.96,0.98,16.42,0,98,46,19,100.0,Low
+10/24/2024,S2047,Iqra,Data Science,High,Excellent,04:43.4,C104,Present,3.55,0.92,17.89,0,92,48,16,94.55,Low
+10/12/2024,S1559,Taha,Business Analytics,Medium,Average,09:02.7,C101,Absent,2.01,0.72,5.08,1,72,40,12,57.99,Medium
+10/1/2024,S3801,Danish,Business Analytics,High,Above Average,17:08.4,C102,Present,3.32,0.82,6.84,1,82,43,14,64.35,Low
+10/20/2024,S176,Iqra,AI,Low,Below Average,05:52.5,C104,Late,0.79,0.54,2.48,2,54,40,5,37.23,High
+10/15/2024,S279,Saad,Data Science,Low,Below Average,16:35.3,C104,Present,0.83,0.44,3.03,4,44,36,5,21.24,High
+10/22/2024,S1136,Taha,Business Analytics,Low,Below Average,01:21.4,C105,Present,1.54,0.44,1.44,4,44,30,6,31.41,High
+10/2/2024,S3553,Mariam,Business Analytics,High,Above Average,16:47.6,C103,Late,3.21,0.8,8.35,0,80,40,13,71.54,Low
+10/16/2024,S2485,Ayaan,Data Science,High,Excellent,13:15.5,C101,Present,3.73,0.99,11.32,0,99,49,19,85.73,Low
+10/23/2024,S2431,Noor,AI,High,Excellent,00:34.2,C102,Present,3.74,0.99,15.76,0,99,46,15,88.22,Low
+10/6/2024,S2530,Danish,AI,High,Excellent,18:57.0,C101,Absent,3.63,0.96,14.91,0,96,45,16,94.55,Low
+10/11/2024,S3520,Saad,Data Science,High,Above Average,15:37.1,C102,Present,3.48,0.85,8.87,0,85,45,16,68.96,Low
+10/15/2024,S692,Hassan,Cybersecurity,Low,Below Average,11:03.5,C103,Present,0.54,0.42,3.28,2,42,33,6,28.68,High
+10/2/2024,S3962,Iqra,Data Science,High,Above Average,10:45.2,C102,Absent,3.14,0.84,8.0,0,84,40,14,65.58,Low
+10/19/2024,S417,Aleena,Web Development,Low,Below Average,03:03.3,C105,Late,1.87,0.47,3.4,3,47,36,10,20.54,High
+10/13/2024,S2890,Zara,Business Analytics,High,Excellent,21:22.3,C102,Absent,3.71,0.97,17.84,0,97,48,17,86.97,Low
+10/4/2024,S218,Hira,Web Development,Low,Below Average,10:55.3,C105,Late,0.62,0.44,3.46,2,44,34,10,24.53,High
+10/15/2024,S2489,Hamza,Data Science,High,Excellent,02:45.5,C102,Absent,3.73,0.93,13.05,0,93,46,17,93.91,Low
+10/15/2024,S1972,Hamza,Data Science,High,Excellent,02:45.5,C102,Absent,3.65,0.9,11.53,0,90,48,15,95.08,Low
+10/7/2024,S3406,Saad,Business Analytics,High,Above Average,22:25.3,C105,Present,2.84,0.77,9.59,0,77,41,15,60.36,Low
+10/17/2024,S3112,Areeba,Data Science,High,Excellent,21:57.5,C105,Present,4.0,0.97,16.34,0,97,50,16,85.26,Low
+10/21/2024,S904,Bilal,AI,Low,Below Average,15:08.4,C104,Present,0.79,0.44,2.93,2,44,38,5,37.74,High
+10/22/2024,S2926,Hamza,Business Analytics,High,Excellent,17:50.6,C103,Present,3.64,0.93,15.81,0,93,50,18,87.31,Low
+10/9/2024,S913,Danish,Business Analytics,Low,Below Average,10:01.4,C103,Present,0.82,0.42,3.32,2,42,33,10,28.56,High
+10/11/2024,S3470,Hira,AI,High,Above Average,07:03.4,C105,Present,3.3,0.84,6.39,0,84,47,16,67.55,Low
+10/24/2024,S728,Zara,Web Development,Low,Below Average,02:42.5,C105,Present,1.71,0.48,1.31,3,48,30,5,28.89,High
+10/26/2024,S3756,Aleena,Business Analytics,High,Above Average,13:37.2,C103,Late,3.37,0.87,6.23,1,87,40,15,74.75,Low
+10/7/2024,S3080,Danish,Data Science,High,Excellent,02:29.1,C102,Present,3.75,0.99,16.13,0,99,46,20,93.49,Low
+10/10/2024,S2826,Laiba,Business Analytics,High,Excellent,07:17.5,C103,Absent,3.54,0.91,13.16,0,91,45,16,91.31,Low
+10/14/2024,S2156,Aleena,Web Development,High,Excellent,15:07.2,C101,Present,3.78,0.98,11.13,0,98,47,20,93.9,Low
+10/13/2024,S450,Aleena,Business Analytics,Low,Below Average,23:29.5,C105,Present,1.61,0.49,3.45,2,49,30,10,37.69,High
+10/17/2024,S1396,Taha,Business Analytics,Medium,Average,19:34.3,C105,Late,2.06,0.68,5.27,1,68,42,14,49.64,Medium
+10/24/2024,S377,Laiba,Data Science,Low,Below Average,00:13.2,C105,Absent,1.57,0.45,1.52,2,45,36,8,35.58,High
+10/23/2024,S3143,Usman,Data Science,High,Excellent,10:29.2,C102,Late,3.51,0.99,16.61,0,99,48,18,97.63,Low
+10/23/2024,S1753,Ayaan,Business Analytics,Medium,Average,00:50.3,C101,Present,2.8,0.67,4.57,2,67,40,13,48.76,Medium
+10/9/2024,S3967,Ayaan,Business Analytics,High,Above Average,10:48.4,C102,Late,3.09,0.9,8.91,1,90,44,14,79.9,Low
+10/18/2024,S434,Mariam,Business Analytics,Low,Below Average,12:20.2,C103,Present,1.12,0.46,3.56,3,46,30,5,24.69,High
+10/20/2024,S953,Hamza,Data Science,Low,Below Average,09:54.5,C105,Late,1.08,0.44,3.97,3,44,40,8,38.7,High
+10/16/2024,S372,Aleena,AI,Low,Below Average,18:03.4,C103,Late,0.79,0.6,2.12,2,60,30,9,25.35,High
+10/22/2024,S3278,Danish,Data Science,High,Above Average,20:33.5,C105,Present,3.24,0.87,6.91,1,87,47,13,68.61,Low
+10/23/2024,S2397,Usman,Cybersecurity,High,Excellent,10:35.2,C104,Late,3.88,0.95,10.69,0,95,46,15,85.11,Low
+10/15/2024,S1422,Mehwish,Data Science,Medium,Average,08:38.4,C105,Late,2.62,0.61,6.19,2,61,37,13,42.53,Medium
+10/21/2024,S701,Imran,AI,Low,Below Average,12:02.2,C101,Present,1.85,0.56,3.84,4,56,38,7,20.23,High
+10/5/2024,S2868,Laiba,Business Analytics,High,Excellent,19:16.5,C103,Present,3.75,0.95,15.32,0,95,46,15,98.49,Low
+10/20/2024,S645,Hamza,Data Science,Low,Below Average,09:54.5,C105,Late,1.87,0.42,3.28,3,42,36,6,29.46,High
+10/4/2024,S1458,Bilal,Web Development,Medium,Average,07:48.3,C102,Present,2.05,0.75,6.26,1,75,44,10,45.71,Medium
+10/12/2024,S666,Danish,Business Analytics,Low,Below Average,22:34.7,C103,Absent,0.69,0.46,3.51,2,46,34,5,22.17,High
+10/23/2024,S1504,Bilal,Web Development,Medium,Average,12:38.4,C103,Absent,2.16,0.62,5.55,1,62,40,12,43.15,Medium
+10/14/2024,S1428,Saad,Cybersecurity,Medium,Average,22:57.4,C102,Present,2.76,0.69,6.55,2,69,39,14,54.33,Medium
+10/3/2024,S1633,Fatima,Data Science,Medium,Average,14:28.5,C103,Absent,2.43,0.73,6.74,2,73,45,12,45.06,Medium
+10/5/2024,S2421,Mehwish,Business Analytics,High,Excellent,11:39.5,C103,Late,3.8,0.91,17.92,0,91,50,20,85.4,Low
+10/23/2024,S1481,Mariam,Cybersecurity,Medium,Average,14:38.5,C101,Present,2.21,0.7,5.75,1,70,44,13,56.51,Medium
+10/23/2024,S1165,Aleena,AI,Low,Below Average,14:58.5,C104,Late,1.85,0.47,2.24,4,47,35,6,33.07,High
+10/8/2024,S795,Aleena,AI,Low,Below Average,07:08.5,C104,Late,1.17,0.47,2.55,2,47,32,5,25.3,High
+10/25/2024,S3592,Laiba,AI,High,Above Average,09:09.3,C104,Present,3.14,0.85,7.38,1,85,41,12,66.32,Low
+10/13/2024,S247,Danish,Business Analytics,Low,Below Average,14:26.5,C103,Present,1.97,0.5,3.6,2,50,32,9,22.48,High
+10/7/2024,S3816,Danish,Cybersecurity,High,Above Average,18:21.2,C104,Present,3.45,0.87,7.77,1,87,41,13,60.06,Low
+10/15/2024,S735,Mehwish,Data Science,Low,Below Average,09:35.3,C103,Late,1.58,0.51,1.09,2,51,33,6,38.94,High
+10/23/2024,S506,Iqra,AI,Low,Below Average,05:57.2,C101,Absent,0.65,0.44,3.95,3,44,39,5,22.73,High
+10/16/2024,S2441,Mariam,Cybersecurity,High,Excellent,07:00.0,C102,Present,3.61,0.98,14.41,0,98,47,17,94.5,Low
+10/17/2024,S1190,Saad,Data Science,Low,Below Average,15:05.2,C105,Present,0.73,0.59,2.99,2,59,36,10,28.23,High
+10/1/2024,S3373,Hamza,Web Development,High,Above Average,01:26.2,C105,Late,3.17,0.77,8.0,0,77,42,13,76.28,Low
+10/8/2024,S3444,Mariam,Data Science,High,Above Average,03:38.5,C102,Present,2.82,0.81,7.7,1,81,43,14,78.81,Low
+10/26/2024,S1615,Mariam,Cybersecurity,Medium,Average,21:59.8,C105,Present,2.47,0.72,4.26,2,72,35,10,47.66,Medium
+10/15/2024,S533,Mariam,Business Analytics,Low,Below Average,02:36.4,C103,Present,1.42,0.47,1.25,4,47,34,10,37.0,High
+10/24/2024,S933,Mehwish,Business Analytics,Low,Below Average,07:52.4,C102,Present,1.77,0.56,1.57,4,56,34,5,21.04,High
+10/23/2024,S109,Imran,Business Analytics,Low,Below Average,04:12.4,C104,Present,1.71,0.53,3.35,2,53,38,10,23.4,High
+10/5/2024,S1868,Mehwish,Web Development,High,Excellent,05:45.4,C104,Present,3.68,0.97,17.95,0,97,47,19,86.05,Low
+10/24/2024,S950,Mehwish,Business Analytics,Low,Below Average,07:52.4,C102,Present,1.87,0.58,3.81,3,58,39,8,30.67,High
+10/26/2024,S2414,Zara,Data Science,High,Excellent,07:20.4,C104,Late,3.61,0.95,18.13,0,95,45,19,84.11,Low
+10/6/2024,S2949,Usman,Web Development,High,Excellent,08:23.2,C102,Present,4.0,0.92,17.87,0,92,49,20,96.66,Low
+10/21/2024,S3206,Imran,Data Science,High,Above Average,11:22.3,C105,Present,3.06,0.8,7.36,0,80,46,14,69.06,Low
+10/2/2024,S2224,Danish,Cybersecurity,High,Excellent,17:05.4,C101,Present,3.83,0.94,15.62,0,94,45,16,96.84,Low
+10/26/2024,S2975,Hamza,Data Science,High,Excellent,04:50.6,C105,Late,3.54,1.0,15.1,0,100,50,15,85.93,Low
+10/9/2024,S3958,Zara,Web Development,High,Above Average,22:13.5,C104,Present,2.87,0.78,6.99,1,78,46,12,69.94,Low
+10/8/2024,S544,Noor,Data Science,Low,Below Average,00:11.5,C104,Present,1.72,0.48,2.71,4,48,33,9,31.14,High
+10/12/2024,S1766,Hassan,Web Development,Medium,Average,13:50.7,C101,Present,2.1,0.74,4.75,2,74,43,13,58.54,Medium
+10/13/2024,S2495,Aleena,Data Science,High,Excellent,14:33.5,C105,Present,3.68,0.97,10.36,0,97,47,18,86.46,Low
+10/6/2024,S2935,Zara,Data Science,High,Excellent,12:42.4,C102,Present,3.92,0.98,16.26,0,98,47,17,99.83,Low
+10/25/2024,S260,Fatima,Web Development,Low,Below Average,19:43.1,C101,Absent,1.45,0.47,1.31,2,47,38,6,23.55,High
+10/25/2024,S1515,Hassan,Cybersecurity,Medium,Average,07:08.2,C102,Absent,2.78,0.71,6.34,1,71,44,10,50.09,Medium
+10/1/2024,S1779,Usman,Web Development,Medium,Average,08:41.5,C102,Present,2.37,0.69,6.37,1,69,36,13,44.38,Medium
+10/14/2024,S1863,Iqra,Web Development,High,Excellent,22:15.5,C104,Late,3.55,0.91,11.02,0,91,49,20,85.33,Low
+10/26/2024,S1296,Fatima,Business Analytics,Medium,Average,10:01.3,C103,Late,2.75,0.74,4.42,2,74,45,12,48.1,Medium
+10/7/2024,S928,Laiba,Business Analytics,Low,Below Average,13:49.5,C104,Absent,1.93,0.54,1.9,3,54,34,5,20.88,High
+10/24/2024,S613,Areeba,Data Science,Low,Below Average,04:48.7,C105,Present,0.91,0.59,2.78,3,59,39,7,35.47,High
+10/6/2024,S2632,Fatima,Cybersecurity,High,Excellent,04:55.4,C103,Present,3.61,0.92,14.76,0,92,49,15,94.69,Low
+10/10/2024,S1232,Imran,AI,Medium,Average,04:49.5,C102,Late,2.76,0.69,5.76,1,69,39,11,53.66,Medium
+10/8/2024,S220,Taha,Business Analytics,Low,Below Average,22:26.1,C101,Present,1.44,0.49,2.8,2,49,31,5,28.64,High
+10/13/2024,S3130,Fatima,Business Analytics,High,Excellent,11:12.4,C103,Late,3.65,0.9,13.43,0,90,46,17,83.02,Low
+10/15/2024,S486,Mariam,Business Analytics,Low,Below Average,02:36.4,C103,Present,1.72,0.44,3.38,3,44,38,6,24.2,High
+10/3/2024,S2317,Usman,AI,High,Excellent,00:45.5,C105,Present,3.95,0.9,11.02,0,90,48,17,90.99,Low
+10/5/2024,S2165,Mariam,Business Analytics,High,Excellent,22:15.3,C105,Late,3.72,0.95,16.66,0,95,46,19,93.77,Low
+10/25/2024,S3522,Hamza,Cybersecurity,High,Above Average,09:06.7,C102,Late,2.98,0.88,7.41,1,88,42,12,74.09,Low
+10/26/2024,S2993,Hassan,Data Science,High,Excellent,07:57.1,C103,Present,3.54,0.92,10.13,0,92,45,15,85.37,Low
+10/23/2024,S259,Imran,Data Science,Low,Below Average,11:39.1,C104,Present,0.81,0.55,1.63,2,55,38,10,22.11,High
+10/4/2024,S3843,Zara,Business Analytics,High,Above Average,02:24.4,C102,Present,2.89,0.84,7.0,1,84,41,13,63.53,Low
+10/21/2024,S387,Imran,AI,Low,Below Average,12:02.2,C101,Present,1.39,0.43,3.1,4,43,31,9,20.46,High
+10/12/2024,S848,Danish,Business Analytics,Low,Below Average,22:34.7,C103,Absent,1.74,0.55,1.55,4,55,38,5,21.15,High
+10/25/2024,S2574,Areeba,Business Analytics,High,Excellent,08:10.5,C103,Present,3.52,0.95,19.24,0,95,46,19,92.54,Low
+10/24/2024,S3234,Noor,AI,High,Above Average,10:14.2,C104,Absent,3.34,0.81,6.8,0,81,48,13,66.12,Low
+10/16/2024,S3613,Danish,AI,High,Above Average,23:06.2,C105,Absent,3.06,0.89,6.53,1,89,50,15,78.39,Low
+10/13/2024,S3102,Danish,Cybersecurity,High,Excellent,05:23.4,C101,Absent,3.93,0.91,19.53,0,91,50,16,95.31,Low
+10/8/2024,S2862,Mariam,AI,High,Excellent,07:56.1,C102,Late,3.52,0.98,19.37,0,98,45,18,89.9,Low
+10/4/2024,S1624,Laiba,AI,Medium,Average,09:16.3,C102,Present,2.76,0.7,6.0,2,70,42,11,55.02,Medium
+10/13/2024,S1002,Hamza,AI,Low,Below Average,23:38.6,C103,Present,1.3,0.51,1.74,3,51,37,5,25.37,High
+10/11/2024,S210,Fatima,AI,Low,Below Average,16:22.2,C102,Present,0.53,0.46,2.98,4,46,40,9,27.42,High
+10/16/2024,S3621,Ayaan,AI,High,Above Average,17:09.5,C102,Late,3.32,0.79,7.32,1,79,48,14,63.49,Low
+10/2/2024,S2092,Hira,Data Science,High,Excellent,06:51.4,C105,Absent,3.55,0.92,17.85,0,92,45,18,93.59,Low
+10/9/2024,S1949,Iqra,Business Analytics,High,Excellent,04:55.5,C104,Present,3.55,0.91,17.64,0,91,48,17,80.14,Low
+10/7/2024,S911,Laiba,Business Analytics,Low,Below Average,13:49.5,C104,Absent,1.26,0.48,3.02,2,48,32,9,24.29,High
+10/14/2024,S1719,Aleena,Data Science,Medium,Average,06:01.0,C104,Present,2.5,0.69,6.65,2,69,43,14,50.98,Medium
+10/13/2024,S2553,Aleena,Data Science,High,Excellent,14:33.5,C105,Present,3.93,0.93,17.41,0,93,46,15,96.35,Low
+10/17/2024,S2985,Danish,Business Analytics,High,Excellent,10:47.4,C105,Present,3.61,0.96,13.11,0,96,50,17,85.04,Low
+10/9/2024,S2164,Ayaan,Cybersecurity,High,Excellent,05:53.3,C105,Present,3.83,0.99,14.57,0,99,45,19,91.78,Low
+10/6/2024,S597,Areeba,Web Development,Low,Below Average,21:12.2,C105,Present,1.75,0.45,2.88,2,45,32,10,35.72,High
+10/14/2024,S1951,Hassan,Cybersecurity,High,Excellent,07:00.2,C102,Late,3.79,0.92,10.22,0,92,46,16,93.65,Low
+10/3/2024,S3765,Zara,Business Analytics,High,Above Average,22:35.4,C103,Present,2.86,0.87,6.86,0,87,48,16,78.15,Low
+10/10/2024,S297,Danish,Cybersecurity,Low,Below Average,15:53.3,C104,Late,0.9,0.47,1.21,2,47,34,6,21.97,High
+10/6/2024,S3717,Saad,Cybersecurity,High,Above Average,01:50.4,C101,Present,3.03,0.76,9.79,1,76,47,13,73.15,Low
+10/23/2024,S508,Imran,Web Development,Low,Below Average,06:05.5,C105,Late,1.27,0.54,2.06,2,54,39,5,38.94,High
+10/7/2024,S2865,Taha,Web Development,High,Excellent,11:40.4,C103,Absent,3.5,1.0,14.02,0,100,48,18,80.11,Low
+10/19/2024,S008,Ahmed,Cybersecurity,Low,Below Average,02:30.5,C102,Present,1.71,0.4,1.2,4,40,38,5,32.13,High
+10/21/2024,S2253,Areeba,AI,High,Excellent,17:58.7,C102,Present,3.67,0.94,19.2,0,94,47,20,99.67,Low
+10/25/2024,S3055,Mariam,Data Science,High,Excellent,17:30.4,C101,Late,3.81,0.95,10.98,0,95,48,19,86.81,Low
+10/18/2024,S2030,Mehwish,Data Science,High,Excellent,14:05.6,C104,Present,3.8,0.99,17.53,0,99,50,20,96.78,Low
+10/2/2024,S2149,Mehwish,Web Development,High,Excellent,00:47.4,C104,Present,3.51,0.97,11.92,0,97,46,16,87.1,Low
+10/12/2024,S2087,Ahmed,Business Analytics,High,Excellent,21:30.2,C103,Present,3.54,0.9,14.16,0,90,48,18,83.9,Low
+10/21/2024,S3118,Saad,Data Science,High,Excellent,15:31.3,C103,Present,3.6,0.9,16.62,0,90,45,20,86.52,Low
+10/18/2024,S2551,Areeba,Business Analytics,High,Excellent,17:13.4,C101,Present,3.83,0.92,10.61,0,92,50,17,81.5,Low
+10/10/2024,S3359,Danish,Business Analytics,High,Above Average,05:29.3,C104,Present,2.92,0.76,6.32,0,76,49,13,76.88,Low
+10/10/2024,S178,Danish,Cybersecurity,Low,Below Average,15:53.3,C104,Late,1.49,0.54,1.52,2,54,32,8,32.39,High
+10/12/2024,S3854,Mariam,Business Analytics,High,Above Average,06:36.2,C105,Present,3.49,0.78,7.49,1,78,45,16,72.0,Low
+10/21/2024,S2779,Bilal,Cybersecurity,High,Excellent,09:31.5,C103,Present,4.0,0.92,12.64,0,92,49,18,85.94,Low
+10/12/2024,S791,Bilal,Web Development,Low,Below Average,01:17.4,C102,Present,1.1,0.6,2.45,4,60,32,10,37.71,High
+10/1/2024,S1335,Areeba,Data Science,Medium,Average,16:28.3,C103,Late,2.02,0.61,4.21,1,61,38,11,43.45,Medium
+10/13/2024,S679,Noor,Cybersecurity,Low,Below Average,02:05.1,C103,Present,0.69,0.46,3.88,2,46,35,8,37.28,High
+10/20/2024,S3454,Saad,AI,High,Above Average,23:32.1,C101,Present,3.3,0.76,7.79,0,76,41,15,76.86,Low

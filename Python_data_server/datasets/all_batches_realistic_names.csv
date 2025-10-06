@@ -1,0 +1,991 @@
+student_id,Name,batch_id,teacher_name,month,attendance_status,attendance_rate,hours_studied_per_week,previous_failures,attendance_percentage,quizzes_completed,assignments_completed,lms_engagement_score,dropout_risk,course_demand,gpa,predicted_performance,timestamp,course
+S1001,Furqan Malik,B001,Taha,January,Absent,0.54,1.51,3,54,37,6,35.06,Low,High,0.72,Above Average,22:32.9,Business Analytics
+S1002,Farhan Sheikh,B001,Taha,January,Absent,0.81,8.71,1,81,43,16,72.84,Medium,Medium,3.14,Excellent,10:14.2,Business Analytics
+S1003,Shazia Malik,B001,Taha,January,Present,0.59,1.17,4,59,37,6,36.8,Low,High,0.74,Above Average,23:51.3,Business Analytics
+S1004,Hassan Raza,B001,Taha,January,Present,0.9,9.23,0,90,49,13,66.04,High,Low,3.27,Below Average,01:00.4,Business Analytics
+S1005,Anum Shahid,B001,Taha,January,Late,0.94,11.81,0,94,47,18,89.81,Medium,Medium,3.83,Average,03:22.3,Business Analytics
+S1006,Sara Malik,B001,Taha,January,Present,0.46,1.85,2,46,32,9,27.67,Low,Medium,0.54,Average,15:08.4,Business Analytics
+S1007,Huma Yousaf,B001,Taha,January,Present,0.68,5.74,1,68,37,11,54.49,Low,High,2.64,Excellent,18:46.6,Business Analytics
+S1008,Imran Akhtar,B001,Taha,January,Present,0.47,2.13,3,47,35,8,20.92,Medium,Medium,1.82,Average,16:55.5,Business Analytics
+S1009,Lubna Iqbal,B001,Taha,January,Late,0.48,2.26,3,48,32,6,33.99,Medium,Medium,1.88,Above Average,22:09.3,Business Analytics
+S1010,Salman Ahmed,B001,Taha,January,Late,0.56,3.64,2,56,35,9,35.9,Low,High,1.81,Excellent,17:45.2,Business Analytics
+S1011,Aqsa Siddiqui,B001,Taha,January,Present,0.84,9.67,0,84,44,12,67.25,Medium,Medium,3.04,Below Average,23:03.7,Business Analytics
+S1012,Omar Farooq,B001,Taha,January,Present,0.84,8.04,1,84,47,15,68.06,High,Medium,2.82,Average,09:18.4,Business Analytics
+S1013,Nouman Haider,B001,Taha,January,Present,0.59,2.99,2,59,38,7,20.89,Medium,High,1.84,Average,00:57.4,Business Analytics
+S1014,Mariam Javed,B001,Taha,January,Present,0.73,4.66,1,73,44,11,41.34,Low,Low,2.08,Above Average,15:21.4,Business Analytics
+S1015,Waleed Arif,B001,Taha,January,Present,0.83,7.66,0,83,43,16,63.77,High,Low,3,Average,12:50.1,Business Analytics
+S1016,Beenish Khalid,B001,Taha,January,Present,0.77,9.28,0,77,44,15,68.83,Medium,Medium,3.12,Average,09:07.1,Business Analytics
+S1017,Shahbaz Khan,B001,Taha,January,Present,0.6,3.25,2,60,30,9,37.45,Low,High,0.89,Excellent,04:32.9,Business Analytics
+S1018,Rafia Noor,B001,Taha,January,Late,0.41,3.88,4,41,30,6,26.24,Medium,High,0.87,Excellent,21:21.2,Business Analytics
+S1019,Amna Khan,B001,Taha,January,Present,0.47,3.2,4,47,35,8,27.91,Medium,Medium,0.65,Average,15:05.2,Business Analytics
+S1020,Shahbaz Hussain,B001,Taha,January,Present,0.47,2.86,4,47,36,7,25.3,Low,Medium,1.07,Excellent,23:42.5,Business Analytics
+S1021,Nadia Saleem,B001,Taha,January,Present,0.63,5.98,2,63,39,10,58.82,High,High,2.69,Above Average,00:29.6,Business Analytics
+S1022,Taimoor Khalid,B001,Taha,January,Late,0.71,6.14,1,71,38,12,51.39,High,Low,2.2,Excellent,03:14.3,Business Analytics
+S1023,Mahnoor Anwar,B001,Taha,January,Present,0.83,7.74,1,83,40,16,63.9,Medium,Medium,3.46,Average,23:00.1,Business Analytics
+S1024,Zainab Tariq,B001,Taha,January,Present,0.62,4.97,2,62,39,14,58.68,High,Low,2.09,Excellent,17:17.5,Business Analytics
+S1025,Nadia Shah,B001,Taha,January,Present,0.95,15.71,0,95,47,17,89.66,Medium,Low,3.73,Above Average,09:12.3,Business Analytics
+S1026,Sehrish Khan,B001,Taha,January,Present,0.52,2.3,2,52,32,5,35.47,Medium,Medium,1.25,Average,09:45.3,Business Analytics
+S1027,Fatima Noor,B001,Taha,January,Absent,0.86,7.94,0,86,44,12,79.26,Medium,Low,3.43,Below Average,04:39.6,Business Analytics
+S1028,Hira Khan,B001,Taha,January,Present,0.86,8.36,0,86,42,13,62.49,Medium,Medium,3.47,Excellent,13:31.4,Business Analytics
+S1029,Sana Qureshi,B001,Taha,January,Present,0.96,14.73,0,96,48,19,88.79,Medium,Low,3.73,Average,12:36.5,Business Analytics
+S1030,Junaid Khan,B001,Taha,January,Present,0.66,5.44,1,66,44,14,41.05,Low,High,2.03,Excellent,19:07.3,Business Analytics
+S1001,Furqan Malik,B001,Taha,February,Present,0.93,14.92,0,93,50,20,89.82,High,Low,3.98,Average,07:59.2,Business Analytics
+S1002,Farhan Sheikh,B001,Taha,February,Absent,0.73,4.98,2,73,37,13,44.24,Low,High,2.68,Below Average,00:58.3,Business Analytics
+S1003,Shazia Malik,B001,Taha,February,Present,0.89,6.76,1,89,46,14,77.65,High,Medium,3.42,Excellent,23:47.2,Business Analytics
+S1004,Hassan Raza,B001,Taha,February,Present,0.93,17.67,0,93,48,16,97.91,Medium,Low,3.65,Average,06:56.2,Business Analytics
+S1005,Anum Shahid,B001,Taha,February,Late,0.96,17.2,0,96,50,20,83.62,High,Low,3.91,Below Average,06:39.4,Business Analytics
+S1006,Sara Malik,B001,Taha,February,Present,0.48,2.66,4,48,32,5,34.6,Medium,Medium,0.62,Above Average,10:01.4,Business Analytics
+S1007,Huma Yousaf,B001,Taha,February,Late,0.44,1.21,2,44,31,7,31.23,Low,High,1.82,Average,19:16.5,Business Analytics
+S1008,Imran Akhtar,B001,Taha,February,Late,0.92,14.3,0,92,50,20,92.05,High,Medium,3.8,Above Average,06:11.4,Business Analytics
+S1009,Lubna Iqbal,B001,Taha,February,Present,0.92,17.75,0,92,49,18,98.37,Medium,Medium,3.72,Below Average,16:18.2,Business Analytics
+S1010,Salman Ahmed,B001,Taha,February,Present,0.88,9.5,0,88,41,15,63.6,High,Low,3.09,Average,06:36.2,Business Analytics
+S1011,Aqsa Siddiqui,B001,Taha,February,Late,0.96,10.29,0,96,50,15,93.93,Medium,Low,3.96,Below Average,21:52.2,Business Analytics
+S1012,Omar Farooq,B001,Taha,February,Present,0.59,3.3,4,59,34,7,21.38,Medium,Medium,1.14,Excellent,17:21.5,Business Analytics
+S1013,Nouman Haider,B001,Taha,February,Present,0.95,17.38,0,95,50,17,80.25,Medium,Low,3.92,Below Average,05:42.3,Business Analytics
+S1014,Mariam Javed,B001,Taha,February,Present,0.5,1.45,3,50,35,5,22.91,Low,Medium,0.53,Excellent,02:24.4,Business Analytics
+S1015,Waleed Arif,B001,Taha,February,Present,0.9,16.54,0,90,47,20,92.16,Medium,Medium,3.57,Above Average,19:14.4,Business Analytics
+S1016,Beenish Khalid,B001,Taha,February,Present,0.79,9.58,0,79,42,16,77.61,Medium,Medium,3.01,Below Average,21:41.3,Business Analytics
+S1017,Shahbaz Khan,B001,Taha,February,Present,0.96,19.09,0,96,50,18,85.86,High,Low,3.95,Average,21:54.4,Business Analytics
+S1018,Rafia Noor,B001,Taha,February,Late,0.54,1.42,4,54,36,10,29.79,Medium,High,1.54,Excellent,10:04.2,Business Analytics
+S1019,Amna Khan,B001,Taha,February,Present,0.45,2.18,3,45,36,8,29.36,Low,Medium,1.9,Excellent,05:09.5,Business Analytics
+S1020,Shahbaz Hussain,B001,Taha,February,Late,0.97,10.66,0,97,45,17,92.04,High,Low,3.71,Average,11:35.4,Business Analytics
+S1021,Nadia Saleem,B001,Taha,February,Present,0.48,3.47,2,48,31,10,31.14,Low,Medium,1.98,Excellent,16:22.2,Business Analytics
+S1022,Taimoor Khalid,B001,Taha,February,Present,0.83,6.74,1,83,46,13,78.24,Medium,Low,2.91,Average,15:37.1,Business Analytics
+S1023,Mahnoor Anwar,B001,Taha,February,Late,0.41,2.39,4,41,30,6,28.69,Low,High,0.72,Above Average,01:23.5,Business Analytics
+S1024,Zainab Tariq,B001,Taha,February,Present,0.99,16.06,0,99,46,19,81.99,Medium,Low,3.99,Above Average,04:46.1,Business Analytics
+S1025,Nadia Shah,B001,Taha,February,Present,0.41,2.77,2,41,33,9,30.84,Medium,High,1.69,Excellent,10:01.4,Business Analytics
+S1026,Sehrish Khan,B001,Taha,February,Present,0.48,1.39,2,48,39,10,33.99,Medium,Medium,1.37,Above Average,09:02.6,Business Analytics
+S1027,Fatima Noor,B001,Taha,February,Late,0.92,15.65,0,92,48,15,92.35,Medium,Low,3.61,Above Average,08:49.4,Business Analytics
+S1028,Hira Khan,B001,Taha,February,Present,0.7,5.58,1,70,36,12,54.22,High,Low,2.56,Excellent,08:05.4,Business Analytics
+S1029,Sana Qureshi,B001,Taha,February,Present,0.86,7.01,1,86,50,12,72.99,High,Medium,2.88,Below Average,12:50.4,Business Analytics
+S1030,Junaid Khan,B001,Taha,February,Present,0.81,9.14,0,81,46,15,70.5,High,Medium,2.94,Excellent,16:03.4,Business Analytics
+S1001,Furqan Malik,B001,Taha,March,Present,0.83,9.44,1,83,40,15,64.5,Medium,Medium,3.27,Average,18:56.8,Business Analytics
+S1002,Farhan Sheikh,B001,Taha,March,Present,0.45,3.18,4,45,34,6,31.73,Medium,Medium,0.66,Above Average,20:24.6,Business Analytics
+S1003,Shazia Malik,B001,Taha,March,Late,0.96,16.16,0,96,48,20,80.32,Medium,Medium,3.68,Above Average,13:49.0,Business Analytics
+S1004,Hassan Raza,B001,Taha,March,Present,0.9,6.42,1,90,42,13,66.98,Medium,Medium,3.24,Average,08:28.3,Business Analytics
+S1005,Anum Shahid,B001,Taha,March,Absent,0.94,13.04,0,94,46,16,91.94,High,Medium,3.52,Average,08:39.2,Business Analytics
+S1006,Sara Malik,B001,Taha,March,Present,0.65,6.24,2,65,42,10,57.49,High,Low,2.75,Below Average,07:01.3,Business Analytics
+S1007,Huma Yousaf,B001,Taha,March,Present,0.8,8.79,0,80,43,13,61.8,High,Low,3.09,Average,15:37.1,Business Analytics
+S1008,Imran Akhtar,B001,Taha,March,Present,0.53,1.28,2,53,33,8,38.76,Medium,High,0.81,Above Average,03:35.3,Business Analytics
+S1009,Lubna Iqbal,B001,Taha,March,Late,0.94,14.18,0,94,50,16,88.74,Medium,Medium,3.98,Above Average,11:12.4,Business Analytics
+S1010,Salman Ahmed,B001,Taha,March,Present,0.53,2.28,2,53,30,5,26.47,Medium,Medium,1.86,Average,16:35.3,Business Analytics
+S1011,Aqsa Siddiqui,B001,Taha,March,Present,0.65,6.94,1,65,42,10,47.94,High,Low,2.43,Below Average,19:53.4,Business Analytics
+S1012,Omar Farooq,B001,Taha,March,Present,0.84,8.44,1,84,47,15,64.95,High,Low,3.2,Average,20:49.8,Business Analytics
+S1013,Nouman Haider,B001,Taha,March,Present,0.82,6.26,1,82,46,14,60.43,Medium,Low,3.13,Average,02:04.3,Business Analytics
+S1014,Mariam Javed,B001,Taha,March,Present,0.56,3.37,2,56,38,10,21.41,Low,Medium,0.87,Excellent,05:53.6,Business Analytics
+S1015,Waleed Arif,B001,Taha,March,Absent,0.43,3.09,3,43,36,9,33.63,Low,Medium,1.48,Above Average,13:13.4,Business Analytics
+S1016,Beenish Khalid,B001,Taha,March,Absent,0.98,10.68,0,98,49,16,94.75,High,Low,3.64,Above Average,16:54.2,Business Analytics
+S1017,Shahbaz Khan,B001,Taha,March,Late,0.84,9.72,0,84,43,15,69.25,High,Medium,2.98,Average,23:56.2,Business Analytics
+S1018,Rafia Noor,B001,Taha,March,Present,0.74,4.99,2,74,39,11,44.24,High,High,2.56,Excellent,21:59.8,Business Analytics
+S1019,Amna Khan,B001,Taha,March,Present,0.55,2.55,4,55,39,6,36.08,Low,High,1.18,Excellent,03:54.4,Business Analytics
+S1020,Shahbaz Hussain,B001,Taha,March,Present,0.71,4.72,1,71,42,13,48.3,Low,High,2.37,Below Average,18:12.3,Business Analytics
+S1021,Nadia Saleem,B001,Taha,March,Late,0.97,12.73,0,97,50,16,93.74,High,Medium,3.63,Below Average,14:25.4,Business Analytics
+S1022,Taimoor Khalid,B001,Taha,March,Late,0.57,1.14,3,57,32,9,32.82,Medium,Medium,1.71,Excellent,19:16.5,Business Analytics
+S1023,Mahnoor Anwar,B001,Taha,March,Present,0.64,4.2,1,64,43,14,50.64,Low,Low,2.44,Above Average,15:53.5,Business Analytics
+S1024,Zainab Tariq,B001,Taha,March,Present,0.47,3.03,4,47,30,9,25.61,Medium,Medium,0.99,Excellent,02:53.4,Business Analytics
+S1025,Nadia Shah,B001,Taha,March,Present,0.77,8.71,1,77,49,15,70.45,Medium,Medium,3.07,Excellent,09:18.4,Business Analytics
+S1026,Sehrish Khan,B001,Taha,March,Late,0.5,1.83,4,50,35,10,35.24,Medium,Medium,1.97,Excellent,13:59.2,Business Analytics
+S1027,Fatima Noor,B001,Taha,March,Late,0.77,6.62,0,77,46,14,78.1,Medium,Medium,3.15,Average,09:06.7,Business Analytics
+S1028,Hira Khan,B001,Taha,March,Present,0.91,16.95,0,91,50,19,86.23,High,Medium,3.91,Average,05:42.3,Business Analytics
+S1029,Sana Qureshi,B001,Taha,March,Late,0.95,13.39,0,95,45,20,91.09,High,Medium,3.99,Above Average,10:25.4,Business Analytics
+S1030,Junaid Khan,B001,Taha,March,Late,0.96,16.78,0,96,47,19,85.01,High,Medium,3.52,Average,11:26.4,Business Analytics
+S2001,Noman Yousaf,B002,Ahsan,January,Present,0.72,6.28,1,72,39,10,44.24,High,Low,2.14,Below Average,12:38.6,Data Science
+S2002,Nadia Shah,B002,Ahsan,January,Present,0.95,16.66,0,95,48,15,85.31,High,Low,4,Below Average,11:35.5,Data Science
+S2003,Hamza Tariq,B002,Ahsan,January,Late,0.76,8.11,1,76,45,16,61.13,Medium,Medium,2.84,Excellent,03:47.7,Data Science
+S2004,Zainab Tariq,B002,Ahsan,January,Present,0.54,3.06,2,54,35,9,33.96,Medium,High,0.62,Average,21:12.2,Data Science
+S2005,Aliya Shah,B002,Ahsan,January,Present,0.94,10.11,0,94,46,15,83.42,Medium,Medium,3.76,Above Average,22:00.4,Data Science
+S2006,Imran Khan,B002,Ahsan,January,Present,0.52,3.68,3,52,30,10,29.86,Low,High,0.92,Above Average,18:58.5,Data Science
+S2007,Taimoor Khalid,B002,Ahsan,January,Present,0.61,6.33,2,61,36,12,46.56,High,High,2.14,Above Average,19:57.3,Data Science
+S2008,Sana Qureshi,B002,Ahsan,January,Present,0.83,9.53,0,83,46,13,64.63,Medium,Low,3.01,Below Average,09:11.5,Data Science
+S2009,Kamran Abbas,B002,Ahsan,January,Present,0.68,4.17,1,68,42,13,44,Low,Low,2.07,Excellent,17:51.3,Data Science
+S2010,Shehzad Aslam,B002,Ahsan,January,Present,0.41,1.22,3,41,32,10,24.45,Medium,High,0.69,Above Average,05:20.5,Data Science
+S2011,Laiba Aslam,B002,Ahsan,January,Late,0.54,1.42,2,54,31,8,33.74,Medium,Medium,1.82,Average,00:41.1,Data Science
+S2012,Anum Shahid,B002,Ahsan,January,Absent,0.95,10.34,0,95,46,16,99.75,High,Low,3.68,Average,12:25.5,Data Science
+S2013,Mariam Javed,B002,Ahsan,January,Absent,0.93,19.44,0,93,47,19,90.82,Medium,Low,3.99,Above Average,08:15.4,Data Science
+S2014,Iqra Javed,B002,Ahsan,January,Present,0.42,1.75,4,42,36,8,37.34,Low,Medium,1.9,Above Average,05:20.5,Data Science
+S2015,Rizwan Zafar,B002,Ahsan,January,Present,0.99,12.26,0,99,50,20,80.11,High,Medium,3.85,Below Average,18:45.6,Data Science
+S2016,Bilal Hussain,B002,Ahsan,January,Present,0.44,3.62,3,44,36,6,24.7,Medium,High,1.18,Average,02:36.4,Data Science
+S2017,Nouman Haider,B002,Ahsan,January,Late,0.5,3.37,2,50,37,5,27.55,Low,High,1.62,Above Average,13:59.2,Data Science
+S2018,Rizwan Ali,B002,Ahsan,January,Absent,0.48,1.03,4,48,38,9,25.25,Medium,High,1.95,Average,01:54.1,Data Science
+S2019,Madiha Saeed,B002,Ahsan,January,Present,0.93,16.23,0,93,50,17,90.87,High,Low,3.6,Below Average,16:27.1,Data Science
+S2020,Junaid Khan,B002,Ahsan,January,Late,0.77,6.38,1,77,47,14,61.03,High,Low,2.91,Below Average,04:38.1,Data Science
+S2021,Nadia Saleem,B002,Ahsan,January,Present,0.77,6.22,0,77,47,15,65.67,Medium,Medium,3.29,Average,23:47.2,Data Science
+S2022,Hassan Raza,B002,Ahsan,January,Late,0.94,19.42,0,94,47,17,87.66,Medium,Medium,3.97,Average,00:57.3,Data Science
+S2023,Mehwish Anwar,B002,Ahsan,January,Present,0.79,7.6,0,79,40,13,69.37,Medium,Low,3.48,Below Average,08:08.0,Data Science
+S2024,Farhan Sheikh,B002,Ahsan,January,Present,0.73,5.47,1,73,44,11,54.49,High,High,2.13,Below Average,17:17.5,Data Science
+S2025,Tanveer Abbas,B002,Ahsan,January,Present,0.72,4.73,2,72,39,13,47.31,Low,High,2.12,Above Average,22:43.5,Data Science
+S2026,Amna Khan,B002,Ahsan,January,Present,0.78,8.13,1,78,40,13,72.85,Medium,Low,3.4,Average,18:13.9,Data Science
+S2027,Rabia Tariq,B002,Ahsan,January,Present,0.51,1.54,2,51,37,7,22.34,Low,High,0.74,Excellent,23:38.6,Data Science
+S2028,Hira Khan,B002,Ahsan,January,Present,0.42,1.45,3,42,33,10,26.58,Low,Medium,0.53,Above Average,02:05.1,Data Science
+S2029,Furqan Iqbal,B002,Ahsan,January,Late,0.54,3.48,3,54,38,6,31.53,Low,Medium,1.57,Average,18:03.4,Data Science
+S2030,Usama Khalid,B002,Ahsan,January,Present,0.89,8.35,0,89,43,12,78.06,Medium,Low,3.2,Below Average,08:52.2,Data Science
+S2001,Noman Yousaf,B002,Ahsan,February,Present,0.63,6.38,1,63,39,11,52.66,Medium,Medium,2.45,Average,13:51.5,Data Science
+S2002,Nadia Shah,B002,Ahsan,February,Late,0.98,13.63,0,98,46,15,96.58,Low,High,3.9,Excellent,09:31.3,Data Science
+S2003,Hamza Tariq,B002,Ahsan,February,Present,0.64,5.09,1,64,40,13,58.02,Medium,Medium,2.76,Average,13:59.3,Data Science
+S2004,Zainab Tariq,B002,Ahsan,February,Present,0.99,11.34,0,99,49,19,97.92,Low,High,3.86,Excellent,09:35.0,Data Science
+S2005,Aliya Shah,B002,Ahsan,February,Absent,0.89,6.5,1,89,43,13,74.94,Low,High,3.37,Above Average,17:29.2,Data Science
+S2006,Imran Khan,B002,Ahsan,February,Present,0.9,16.16,0,90,45,16,92.93,Low,High,3.85,Excellent,10:59.3,Data Science
+S2007,Taimoor Khalid,B002,Ahsan,February,Present,0.61,5.51,2,61,39,10,51.67,Medium,Medium,2.09,Average,16:30.4,Data Science
+S2008,Sana Qureshi,B002,Ahsan,February,Present,0.82,7.2,1,82,46,15,78,Low,High,3.21,Above Average,17:20.4,Data Science
+S2009,Kamran Abbas,B002,Ahsan,February,Present,0.42,2.55,3,42,34,6,25.61,High,Low,1.1,Below Average,16:49.4,Data Science
+S2010,Shehzad Aslam,B002,Ahsan,February,Late,0.71,6.15,2,71,43,10,56.55,Medium,Medium,2.05,Average,00:30.3,Data Science
+S2011,Laiba Aslam,B002,Ahsan,February,Present,0.92,17.37,0,92,46,18,81.11,Low,High,3.54,Excellent,00:19.3,Data Science
+S2012,Anum Shahid,B002,Ahsan,February,Absent,0.84,6.03,0,84,45,15,68.14,Low,High,3.36,Above Average,02:20.6,Data Science
+S2013,Mariam Javed,B002,Ahsan,February,Present,0.97,18.48,0,97,49,20,97.74,Low,High,3.57,Excellent,19:50.4,Data Science
+S2014,Iqra Javed,B002,Ahsan,February,Present,0.98,11.59,0,98,47,18,86.75,Low,High,3.92,Excellent,08:34.3,Data Science
+S2015,Rizwan Zafar,B002,Ahsan,February,Present,0.72,6.96,1,72,40,10,52.36,Medium,Medium,2.15,Average,06:50.8,Data Science
+S2016,Bilal Hussain,B002,Ahsan,February,Late,0.99,19.07,0,99,47,20,90.91,Low,High,3.83,Excellent,06:07.4,Data Science
+S2017,Nouman Haider,B002,Ahsan,February,Present,0.93,12.8,0,93,45,20,82.32,Low,High,3.92,Excellent,22:57.5,Data Science
+S2018,Rizwan Ali,B002,Ahsan,February,Late,0.92,17.3,0,92,48,18,98.91,Low,High,3.93,Excellent,16:54.1,Data Science
+S2019,Madiha Saeed,B002,Ahsan,February,Present,0.6,3.28,2,60,35,9,21.31,High,Low,0.82,Below Average,19:27.3,Data Science
+S2020,Junaid Khan,B002,Ahsan,February,Present,0.62,5.03,1,62,43,12,59.46,Medium,Medium,2.2,Average,06:52.4,Data Science
+S2021,Nadia Saleem,B002,Ahsan,February,Present,0.96,17.54,0,96,45,20,98.25,Low,High,3.61,Excellent,00:47.4,Data Science
+S2022,Hassan Raza,B002,Ahsan,February,Present,0.72,6.63,1,72,36,12,43.76,Medium,Medium,2.78,Average,09:42.6,Data Science
+S2023,Mehwish Anwar,B002,Ahsan,February,Present,0.59,3.76,4,59,34,9,33.1,High,Low,1.34,Below Average,18:11.4,Data Science
+S2024,Farhan Sheikh,B002,Ahsan,February,Present,0.46,2.33,2,46,35,7,28.88,High,Low,1.31,Below Average,01:55.4,Data Science
+S2025,Tanveer Abbas,B002,Ahsan,February,Late,0.41,3,3,41,38,6,25.86,High,Low,0.78,Below Average,13:59.2,Data Science
+S2026,Amna Khan,B002,Ahsan,February,Late,0.42,1.7,2,42,38,8,27.29,High,Low,1.46,Below Average,14:10.5,Data Science
+S2027,Rabia Tariq,B002,Ahsan,February,Absent,0.97,13.76,0,97,45,19,82.63,Low,High,3.94,Excellent,16:54.2,Data Science
+S2028,Hira Khan,B002,Ahsan,February,Present,0.48,2.92,4,48,38,10,29.95,High,Low,1.41,Below Average,07:31.6,Data Science
+S2029,Furqan Iqbal,B002,Ahsan,February,Late,0.9,17.58,0,90,48,20,98.66,Low,High,3.73,Excellent,08:44.4,Data Science
+S2030,Usama Khalid,B002,Ahsan,February,Present,0.76,7,0,76,49,13,70.16,Low,High,3.32,Above Average,15:30.2,Data Science
+S2001,Noman Yousaf,B002,Ahsan,March,Absent,1,15.05,0,100,49,17,89.83,Low,High,3.55,Excellent,06:51.4,Data Science
+S2002,Nadia Shah,B002,Ahsan,March,Present,0.98,10.46,0,98,46,17,84.22,Low,High,3.89,Excellent,12:13.9,Data Science
+S2003,Hamza Tariq,B002,Ahsan,March,Present,0.53,3.62,2,53,36,7,35.24,High,Low,1.95,Below Average,20:40.0,Data Science
+S2004,Zainab Tariq,B002,Ahsan,March,Present,1,16.05,0,100,49,18,81.65,Low,High,3.93,Excellent,23:23.5,Data Science
+S2005,Aliya Shah,B002,Ahsan,March,Present,0.97,13.67,0,97,50,15,80.84,Low,High,3.79,Excellent,13:31.8,Data Science
+S2006,Imran Khan,B002,Ahsan,March,Present,0.93,10.6,0,93,45,16,86.5,Low,High,3.96,Excellent,22:22.3,Data Science
+S2007,Taimoor Khalid,B002,Ahsan,March,Late,0.49,2.8,4,49,33,9,32.08,High,Low,1.31,Below Average,17:57.3,Data Science
+S2008,Sana Qureshi,B002,Ahsan,March,Present,0.84,8.37,0,84,41,13,79.01,Low,High,3.47,Above Average,12:37.1,Data Science
+S2009,Kamran Abbas,B002,Ahsan,March,Late,0.99,16.2,0,99,49,19,85.68,Low,High,3.86,Excellent,22:28.6,Data Science
+S2010,Shehzad Aslam,B002,Ahsan,March,Present,0.96,16.69,0,96,50,20,97.47,Low,High,3.59,Excellent,06:10.1,Data Science
+S2011,Laiba Aslam,B002,Ahsan,March,Present,0.81,6.91,1,81,50,13,64.27,Low,High,3.38,Above Average,18:35.3,Data Science
+S2012,Anum Shahid,B002,Ahsan,March,Late,0.84,8.52,1,84,47,12,61.55,Low,High,3.26,Above Average,13:37.2,Data Science
+S2013,Mariam Javed,B002,Ahsan,March,Late,0.94,14.99,0,94,46,15,88.87,Low,High,3.71,Excellent,00:00.4,Data Science
+S2014,Iqra Javed,B002,Ahsan,March,Present,0.96,11.38,0,96,45,17,88.62,Low,High,3.59,Excellent,08:10.5,Data Science
+S2015,Rizwan Zafar,B002,Ahsan,March,Late,0.55,1.8,2,55,31,10,34.95,High,Low,1.68,Below Average,19:46.5,Data Science
+S2016,Bilal Hussain,B002,Ahsan,March,Late,0.82,9.59,1,82,40,14,69.94,Low,High,2.94,Above Average,03:47.7,Data Science
+S2017,Nouman Haider,B002,Ahsan,March,Present,0.75,5.76,2,75,41,10,54.5,Medium,Medium,2.28,Average,05:23.2,Data Science
+S2018,Rizwan Ali,B002,Ahsan,March,Present,0.96,13.52,0,96,50,17,86.28,Low,High,3.68,Excellent,17:13.4,Data Science
+S2019,Madiha Saeed,B002,Ahsan,March,Late,0.4,1.64,2,40,34,8,39.08,High,Low,1.04,Below Average,21:21.2,Data Science
+S2020,Junaid Khan,B002,Ahsan,March,Late,0.51,1.1,4,51,40,7,30.8,High,Low,0.59,Below Average,03:29.4,Data Science
+S2021,Nadia Saleem,B002,Ahsan,March,Present,0.69,5.64,1,69,40,14,45.14,Medium,Medium,2.12,Average,22:20.3,Data Science
+S2022,Hassan Raza,B002,Ahsan,March,Present,0.52,1.08,3,52,35,10,36.51,High,Low,0.65,Below Average,19:49.4,Data Science
+S2023,Mehwish Anwar,B002,Ahsan,March,Present,0.82,9.23,1,82,45,12,74.32,Low,High,3.17,Above Average,21:02.3,Data Science
+S2024,Farhan Sheikh,B002,Ahsan,March,Present,0.5,3.75,4,50,30,10,28.85,High,Low,1.88,Below Average,03:54.4,Data Science
+S2025,Tanveer Abbas,B002,Ahsan,March,Present,0.92,15.49,0,92,50,20,89.47,Low,High,3.87,Excellent,09:31.5,Data Science
+S2026,Amna Khan,B002,Ahsan,March,Late,0.74,5.2,1,74,35,11,55.45,Medium,Medium,2.38,Average,20:23.4,Data Science
+S2027,Rabia Tariq,B002,Ahsan,March,Present,0.95,14.8,0,95,49,17,84.87,Low,High,3.7,Excellent,00:27.4,Data Science
+S2028,Hira Khan,B002,Ahsan,March,Present,0.5,2.99,2,50,32,9,32.55,High,Low,0.62,Below Average,02:18.5,Data Science
+S2029,Furqan Iqbal,B002,Ahsan,March,Present,0.96,16.59,0,96,48,17,80.76,Low,High,3.69,Excellent,09:43.5,Data Science
+S2030,Usama Khalid,B002,Ahsan,March,Present,0.77,9.31,0,77,42,15,77.47,Low,High,3.2,Above Average,13:05.3,Data Science
+S3001,Noman Yousaf,B003,Saad,January,Present,0.96,16.47,0,96,45,19,87.21,Low,High,3.53,Excellent,22:32.9,ML/DL
+S3002,Adeel Farooq,B003,Saad,January,Late,0.6,5.76,2,60,44,12,42.83,Medium,Medium,2.25,Average,10:14.2,ML/DL
+S3003,Hira Rasheed,B003,Saad,January,Present,0.88,7.01,0,88,48,14,73.95,Low,High,2.87,Above Average,23:51.3,ML/DL
+S3004,Farhan Sheikh,B003,Saad,January,Present,0.73,6.54,2,73,35,13,51.36,Medium,Medium,2.7,Average,01:00.4,ML/DL
+S3005,Nadia Shah,B003,Saad,January,Present,0.86,6.59,1,86,41,13,71.68,Low,High,3.12,Above Average,03:22.3,ML/DL
+S3006,Salman Ahmed,B003,Saad,January,Present,0.76,9.28,0,76,42,14,69.27,Low,High,3.47,Above Average,15:08.4,ML/DL
+S3007,Sara Malik,B003,Saad,January,Present,0.87,6.67,1,87,49,12,73.43,Low,High,3.43,Above Average,18:46.6,ML/DL
+S3008,Imran Akhtar,B003,Saad,January,Absent,0.98,14.47,0,98,50,20,82.37,Low,High,3.88,Excellent,16:55.5,ML/DL
+S3009,Beenish Arif,B003,Saad,January,Present,0.45,3.68,2,45,32,10,34.58,High,Low,0.64,Below Average,22:09.3,ML/DL
+S3010,Anum Shahid,B003,Saad,January,Present,0.49,2.32,4,49,34,8,33.23,High,Low,1.04,Below Average,17:45.2,ML/DL
+S3011,Sana Qureshi,B003,Saad,January,Absent,0.94,19.38,0,94,50,15,88.4,Low,High,3.96,Excellent,23:03.7,ML/DL
+S3012,Hira Khan,B003,Saad,January,Present,0.98,16.15,0,98,48,16,84.23,Low,High,3.77,Excellent,09:18.4,ML/DL
+S3013,Junaid Khan,B003,Saad,January,Present,0.77,7.39,0,77,42,12,70.54,Low,High,3.06,Above Average,00:57.4,ML/DL
+S3014,Ayesha Siddiqui,B003,Saad,January,Present,0.68,6.46,1,68,36,11,42.21,Medium,Medium,2.45,Average,15:21.4,ML/DL
+S3015,Furqan Iqbal,B003,Saad,January,Present,0.71,6.08,1,71,44,14,41.53,Medium,Medium,2.4,Average,12:50.1,ML/DL
+S3016,Aliya Shah,B003,Saad,January,Present,0.5,1.05,2,50,38,6,37.25,High,Low,1.58,Below Average,09:07.1,ML/DL
+S3017,Shazia Malik,B003,Saad,January,Late,0.8,6.3,0,80,42,16,77.19,Low,High,3.07,Above Average,04:32.9,ML/DL
+S3018,Tanveer Abbas,B003,Saad,January,Present,0.95,13.93,0,95,48,20,89.96,Low,High,3.8,Excellent,21:21.2,ML/DL
+S3019,Lubna Iqbal,B003,Saad,January,Present,0.59,1.53,4,59,30,7,28.02,High,Low,0.69,Below Average,15:05.2,ML/DL
+S3020,Imran Khan,B003,Saad,January,Present,0.58,2.89,3,58,33,10,35.9,High,Low,1.93,Below Average,23:42.5,ML/DL
+S3021,Nadia Saleem,B003,Saad,January,Present,0.95,16.6,0,95,49,15,84.12,Low,High,3.57,Excellent,00:29.6,ML/DL
+S3022,Rizwan Ali,B003,Saad,January,Present,0.83,9.55,1,83,48,13,76.07,Low,High,2.96,Above Average,03:14.3,ML/DL
+S3023,Kashif Raza,B003,Saad,January,Present,0.75,6.35,1,75,37,11,47.15,Medium,Medium,2.76,Average,23:00.1,ML/DL
+S3024,Mahnoor Anwar,B003,Saad,January,Present,0.86,9.49,0,86,49,12,75.54,Low,High,2.97,Above Average,17:17.5,ML/DL
+S3025,Salman Tariq,B003,Saad,January,Present,0.93,15.18,0,93,47,15,92.85,Low,High,3.51,Excellent,09:12.3,ML/DL
+S3026,Kamran Abbas,B003,Saad,January,Late,0.73,6.91,2,73,38,11,48.09,Medium,Medium,2.07,Average,09:45.3,ML/DL
+S3027,Shahbaz Khan,B003,Saad,January,Present,0.47,1.87,3,47,40,10,36.49,High,Low,1.73,Below Average,04:39.6,ML/DL
+S3028,Zara Sheikh,B003,Saad,January,Present,0.8,9.82,1,80,46,12,76.18,Low,High,3.09,Above Average,13:31.4,ML/DL
+S3029,Beenish Khalid,B003,Saad,January,Present,0.84,6.38,0,84,49,13,79.73,Low,High,3.45,Above Average,12:36.5,ML/DL
+S3030,Fatima Noor,B003,Saad,January,Present,0.64,5.25,1,64,39,14,43.22,Medium,Medium,2.56,Average,19:07.3,ML/DL
+S3001,Noman Yousaf,B003,Saad,February,Present,0.44,1.72,4,44,33,6,22.83,High,Low,1.36,Below Average,07:59.2,ML/DL
+S3002,Adeel Farooq,B003,Saad,February,Present,0.79,6.93,0,79,48,15,72.52,Low,High,3.39,Above Average,00:58.3,ML/DL
+S3003,Hira Rasheed,B003,Saad,February,Late,0.92,17.95,0,92,45,18,81.34,Low,High,3.95,Excellent,23:47.2,ML/DL
+S3004,Farhan Sheikh,B003,Saad,February,Present,0.96,17.57,0,96,47,18,95.04,Low,High,3.88,Excellent,06:56.2,ML/DL
+S3005,Nadia Shah,B003,Saad,February,Present,0.67,5.82,1,67,44,14,44.19,Medium,Medium,2.64,Average,06:39.4,ML/DL
+S3006,Salman Ahmed,B003,Saad,February,Late,0.55,2.92,4,55,39,8,31.57,High,Low,1.23,Below Average,10:01.4,ML/DL
+S3007,Sara Malik,B003,Saad,February,Present,0.99,15.59,0,99,50,16,87.58,Low,High,3.76,Excellent,19:16.5,ML/DL
+S3008,Imran Akhtar,B003,Saad,February,Present,0.97,11.84,0,97,47,20,80.6,Low,High,3.97,Excellent,06:11.4,ML/DL
+S3009,Beenish Arif,B003,Saad,February,Absent,0.59,1.78,3,59,31,6,39.61,High,Low,1.44,Below Average,16:18.2,ML/DL
+S3010,Anum Shahid,B003,Saad,February,Present,0.83,6.25,0,83,40,14,63.2,Low,High,3.02,Above Average,06:36.2,ML/DL
+S3011,Sana Qureshi,B003,Saad,February,Present,0.47,3.46,2,47,35,7,23.94,High,Low,0.6,Below Average,21:52.2,ML/DL
+S3012,Hira Khan,B003,Saad,February,Late,0.96,10.31,0,96,48,17,93.66,Low,High,3.67,Excellent,17:21.5,ML/DL
+S3013,Junaid Khan,B003,Saad,February,Late,0.96,13.29,0,96,45,18,89.02,Low,High,3.79,Excellent,05:42.3,ML/DL
+S3014,Ayesha Siddiqui,B003,Saad,February,Present,0.66,6.24,1,66,44,10,43.57,Medium,Medium,2.25,Average,02:24.4,ML/DL
+S3015,Furqan Iqbal,B003,Saad,February,Absent,0.99,17.8,0,99,45,15,89.29,Low,High,3.9,Excellent,19:14.4,ML/DL
+S3016,Aliya Shah,B003,Saad,February,Present,0.92,19.56,0,92,48,17,82.96,Low,High,3.96,Excellent,21:41.3,ML/DL
+S3017,Shazia Malik,B003,Saad,February,Absent,0.86,9.15,0,86,46,13,63.73,Low,High,2.91,Above Average,21:54.4,ML/DL
+S3018,Tanveer Abbas,B003,Saad,February,Present,0.67,4.69,1,67,39,10,41.94,Medium,Medium,2.65,Average,10:04.2,ML/DL
+S3019,Lubna Iqbal,B003,Saad,February,Present,0.95,14.93,0,95,50,17,97.83,Low,High,3.8,Excellent,05:09.5,ML/DL
+S3020,Imran Khan,B003,Saad,February,Present,0.42,1.73,4,42,33,9,34.12,High,Low,1.5,Below Average,11:35.4,ML/DL
+S3021,Nadia Saleem,B003,Saad,February,Present,0.63,5.11,1,63,35,13,47.36,Medium,Medium,2.46,Average,16:22.2,ML/DL
+S3022,Rizwan Ali,B003,Saad,February,Absent,0.79,8.58,1,79,43,16,76.25,Low,High,3.09,Above Average,15:37.1,ML/DL
+S3023,Kashif Raza,B003,Saad,February,Present,0.91,19.7,0,91,47,17,96.08,Low,High,3.57,Excellent,01:23.5,ML/DL
+S3024,Mahnoor Anwar,B003,Saad,February,Absent,0.94,19.1,0,94,47,16,83.75,Low,High,3.75,Excellent,04:46.1,ML/DL
+S3025,Salman Tariq,B003,Saad,February,Present,0.47,2,4,47,31,10,23.84,High,Low,0.54,Below Average,10:01.4,ML/DL
+S3026,Kamran Abbas,B003,Saad,February,Present,0.56,1.27,3,56,31,5,39.48,High,Low,0.79,Below Average,09:02.6,ML/DL
+S3027,Shahbaz Khan,B003,Saad,February,Absent,0.7,5.43,2,70,36,11,42.7,Medium,Medium,2.25,Average,08:49.4,ML/DL
+S3028,Zara Sheikh,B003,Saad,February,Present,0.69,6.85,2,69,37,10,53.28,Medium,Medium,2.21,Average,08:05.4,ML/DL
+S3029,Beenish Khalid,B003,Saad,February,Late,0.41,3.17,4,41,39,5,32.93,High,Low,1.61,Below Average,12:50.4,ML/DL
+S3030,Fatima Noor,B003,Saad,February,Present,0.56,3.61,4,56,40,8,38.55,High,Low,0.82,Below Average,16:03.4,ML/DL
+S3001,Noman Yousaf,B003,Saad,March,Absent,0.61,5.76,2,61,44,11,41.79,Medium,Medium,2.54,Average,18:56.8,ML/DL
+S3002,Adeel Farooq,B003,Saad,March,Present,0.95,17.61,0,95,47,20,91.19,Low,High,3.61,Excellent,20:24.6,ML/DL
+S3003,Hira Rasheed,B003,Saad,March,Present,0.99,18.76,0,99,46,17,92.41,Low,High,3.98,Excellent,13:49.0,ML/DL
+S3004,Farhan Sheikh,B003,Saad,March,Present,0.82,9.16,1,82,47,16,74.59,Low,High,3.43,Above Average,08:28.3,ML/DL
+S3005,Nadia Shah,B003,Saad,March,Absent,0.76,7.66,0,76,40,15,79.92,Low,High,3.12,Above Average,08:39.2,ML/DL
+S3006,Salman Ahmed,B003,Saad,March,Present,0.48,2.82,3,48,33,6,38.89,High,Low,1.97,Below Average,07:01.3,ML/DL
+S3007,Sara Malik,B003,Saad,March,Late,0.93,16.72,0,93,50,19,85.36,Low,High,3.95,Excellent,15:37.1,ML/DL
+S3008,Imran Akhtar,B003,Saad,March,Present,0.53,1.37,3,53,38,9,28.49,High,Low,1.62,Below Average,03:35.3,ML/DL
+S3009,Beenish Arif,B003,Saad,March,Absent,1,18.7,0,100,46,18,86.23,Low,High,3.6,Excellent,11:12.4,ML/DL
+S3010,Anum Shahid,B003,Saad,March,Late,0.5,1.8,4,50,31,7,26.69,High,Low,0.69,Below Average,16:35.3,ML/DL
+S3011,Sana Qureshi,B003,Saad,March,Present,0.62,4.6,2,62,40,14,40.5,Medium,Medium,2.38,Average,19:53.4,ML/DL
+S3012,Hira Khan,B003,Saad,March,Present,0.5,3.39,3,50,37,5,33.71,High,Low,1.66,Below Average,20:49.8,ML/DL
+S3013,Junaid Khan,B003,Saad,March,Present,0.71,4.14,1,71,38,13,56.8,Medium,Medium,2.38,Average,02:04.3,ML/DL
+S3014,Ayesha Siddiqui,B003,Saad,March,Late,0.81,6.52,1,81,41,12,62.24,Low,High,3.16,Above Average,05:53.6,ML/DL
+S3015,Furqan Iqbal,B003,Saad,March,Late,0.98,19.03,0,98,45,17,97.6,Low,High,3.61,Excellent,13:13.4,ML/DL
+S3016,Aliya Shah,B003,Saad,March,Present,0.84,8.08,1,84,47,13,78.12,Low,High,3.31,Above Average,16:54.2,ML/DL
+S3017,Shazia Malik,B003,Saad,March,Late,0.95,17.44,0,95,48,16,80.29,Low,High,3.62,Excellent,23:56.2,ML/DL
+S3018,Tanveer Abbas,B003,Saad,March,Present,0.67,6.79,2,67,36,10,46.91,Medium,Medium,2.15,Average,21:59.8,ML/DL
+S3019,Lubna Iqbal,B003,Saad,March,Present,0.83,6.96,0,83,50,15,63.68,Low,High,3.04,Above Average,03:54.4,ML/DL
+S3020,Imran Khan,B003,Saad,March,Present,0.78,9.13,0,78,46,13,63.32,Low,High,3.45,Above Average,18:12.3,ML/DL
+S3021,Nadia Saleem,B003,Saad,March,Absent,0.47,2.8,2,47,39,7,39.83,High,Low,0.61,Below Average,14:25.4,ML/DL
+S3022,Rizwan Ali,B003,Saad,March,Present,0.52,2.27,3,52,37,10,30.29,High,Low,1.21,Below Average,19:16.5,ML/DL
+S3023,Kashif Raza,B003,Saad,March,Late,0.6,2.54,4,60,30,10,30.8,High,Low,1.04,Below Average,15:53.5,ML/DL
+S3024,Mahnoor Anwar,B003,Saad,March,Absent,1,11.78,0,100,48,16,87.41,Low,High,3.94,Excellent,02:53.4,ML/DL
+S3025,Salman Tariq,B003,Saad,March,Present,0.74,4.8,2,74,45,13,58.12,Medium,Medium,2.03,Average,09:18.4,ML/DL
+S3026,Kamran Abbas,B003,Saad,March,Present,0.95,11.23,0,95,46,20,80.35,Low,High,3.89,Excellent,13:59.2,ML/DL
+S3027,Shahbaz Khan,B003,Saad,March,Present,0.79,9.86,0,79,46,15,68.13,Low,High,3.41,Above Average,09:06.7,ML/DL
+S3028,Zara Sheikh,B003,Saad,March,Absent,0.82,8.76,0,82,44,16,60.56,Low,High,2.84,Above Average,05:42.3,ML/DL
+S3029,Beenish Khalid,B003,Saad,March,Present,0.76,9.76,0,76,50,16,69.49,Low,High,3.24,Above Average,10:25.4,ML/DL
+S3030,Fatima Noor,B003,Saad,March,Present,0.93,19.27,0,93,49,18,81.45,Low,High,3.87,Excellent,11:26.4,ML/DL
+S4001,Zainab Tariq,B004,Usama,January,Present,0.57,3.84,3,57,34,5,36.42,High,Low,1.52,Below Average,12:38.6,Web Development
+S4002,Iqra Javed,B004,Usama,January,Present,0.86,8.84,0,86,41,15,71.21,Low,High,2.86,Above Average,11:35.5,Web Development
+S4003,Beenish Arif,B004,Usama,January,Present,0.93,16.34,0,93,45,18,85.59,Low,High,3.98,Excellent,03:47.7,Web Development
+S4004,Madiha Saeed,B004,Usama,January,Present,1,12.91,0,100,50,17,96.18,Low,High,3.66,Excellent,21:12.2,Web Development
+S4005,Zainab Khalid,B004,Usama,January,Late,1,10.68,0,100,47,16,82.36,Low,High,3.81,Excellent,22:00.4,Web Development
+S4006,Junaid Khan,B004,Usama,January,Late,0.58,3.75,3,58,38,5,29.06,High,Low,0.58,Below Average,18:58.5,Web Development
+S4007,Rizwan Zafar,B004,Usama,January,Present,0.58,2,3,58,35,6,39.6,High,Low,0.53,Below Average,19:57.3,Web Development
+S4008,Usman Iqbal,B004,Usama,January,Present,0.86,6.74,0,86,47,16,63.8,Low,High,3.03,Above Average,09:11.5,Web Development
+S4009,Taimoor Khalid,B004,Usama,January,Present,0.69,5.09,1,69,35,14,50.88,Medium,Medium,2.42,Average,17:51.3,Web Development
+S4010,Hamza Tariq,B004,Usama,January,Present,0.96,16.52,0,96,48,17,96.36,Low,High,3.9,Excellent,05:20.5,Web Development
+S4011,Laiba Aslam,B004,Usama,January,Present,0.95,17.41,0,95,47,18,86.46,Low,High,3.69,Excellent,00:41.1,Web Development
+S4012,Hira Rasheed,B004,Usama,January,Present,0.72,5.91,2,72,37,13,51.53,Medium,Medium,2.16,Average,12:25.5,Web Development
+S4013,Amna Khan,B004,Usama,January,Present,0.55,1.93,2,55,35,8,23.16,High,Low,1.13,Below Average,08:15.4,Web Development
+S4014,Hira Khan,B004,Usama,January,Present,0.93,12.3,0,93,48,17,97.38,Low,High,3.88,Excellent,05:20.5,Web Development
+S4015,Rehan Ali,B004,Usama,January,Present,0.65,6.92,1,65,38,11,52.26,Medium,Medium,2.33,Average,18:45.6,Web Development
+S4016,Sara Malik,B004,Usama,January,Present,0.52,2.09,4,52,39,7,35.75,High,Low,0.95,Below Average,02:36.4,Web Development
+S4017,Rabia Tariq,B004,Usama,January,Present,0.73,4.14,2,73,37,14,48.89,Medium,Medium,2.76,Average,13:59.2,Web Development
+S4018,Ayesha Siddiqui,B004,Usama,January,Late,0.99,12.93,0,99,48,16,90.14,Low,High,3.72,Excellent,01:54.1,Web Development
+S4019,Mehwish Anwar,B004,Usama,January,Present,0.45,1.67,2,45,38,6,21.85,High,Low,0.88,Below Average,16:27.1,Web Development
+S4020,Rafia Noor,B004,Usama,January,Present,0.63,6.92,2,63,40,13,47.11,Medium,Medium,2.26,Average,04:38.1,Web Development
+S4021,Mahnoor Anwar,B004,Usama,January,Absent,0.94,13.25,0,94,46,17,94.73,Low,High,3.88,Excellent,23:47.2,Web Development
+S4022,Furqan Iqbal,B004,Usama,January,Present,0.47,2.5,3,47,35,6,28.27,High,Low,1.55,Below Average,00:57.3,Web Development
+S4023,Imran Khan,B004,Usama,January,Late,0.42,2.11,2,42,32,7,32.48,High,Low,1.07,Below Average,08:08.0,Web Development
+S4024,Imran Akhtar,B004,Usama,January,Late,0.91,14.4,0,91,50,16,96.17,Low,High,3.63,Excellent,17:17.5,Web Development
+S4025,Rizwan Ali,B004,Usama,January,Present,0.59,3.04,2,59,31,6,26.73,High,Low,1.4,Below Average,22:43.5,Web Development
+S4026,Bilal Hussain,B004,Usama,January,Present,0.86,8.55,1,86,44,14,75.89,Low,High,2.89,Above Average,18:13.9,Web Development
+S4027,Aqsa Siddiqui,B004,Usama,January,Late,0.59,3.1,3,59,36,8,29.41,High,Low,1.46,Below Average,23:38.6,Web Development
+S4028,Shazia Malik,B004,Usama,January,Present,0.91,12.21,0,91,50,20,84.3,Low,High,3.66,Excellent,02:05.1,Web Development
+S4029,Adil Ahmed,B004,Usama,January,Late,0.72,6.57,2,72,45,14,56.58,Medium,Medium,2.55,Average,18:03.4,Web Development
+S4030,Salman Tariq,B004,Usama,January,Present,0.52,2.96,3,52,40,7,32.75,High,Low,1.48,Below Average,08:52.2,Web Development
+S4001,Zainab Tariq,B004,Usama,February,Absent,0.65,5.72,2,65,37,13,44.53,Medium,Medium,2.8,Average,13:51.5,Web Development
+S4002,Iqra Javed,B004,Usama,February,Present,0.47,1.14,3,47,33,7,32.13,High,Low,1.99,Below Average,09:31.3,Web Development
+S4003,Beenish Arif,B004,Usama,February,Present,0.47,1.56,4,47,31,5,38.31,High,Low,1.86,Below Average,13:59.3,Web Development
+S4004,Madiha Saeed,B004,Usama,February,Present,0.57,1.55,4,57,31,8,25.28,High,Low,0.94,Below Average,09:35.0,Web Development
+S4005,Zainab Khalid,B004,Usama,February,Present,0.75,4.95,2,75,35,12,50,Medium,Medium,2.33,Average,17:29.2,Web Development
+S4006,Junaid Khan,B004,Usama,February,Present,0.91,10.83,0,91,49,19,98.78,Low,High,3.83,Excellent,10:59.3,Web Development
+S4007,Rizwan Zafar,B004,Usama,February,Present,0.4,2.67,3,40,31,6,25.22,High,Low,1.96,Below Average,16:30.4,Web Development
+S4008,Usman Iqbal,B004,Usama,February,Present,0.99,16.55,0,99,48,17,96,Low,High,3.51,Excellent,17:20.4,Web Development
+S4009,Taimoor Khalid,B004,Usama,February,Absent,0.53,3.81,2,53,38,6,22.38,High,Low,0.5,Below Average,16:49.4,Web Development
+S4010,Hamza Tariq,B004,Usama,February,Present,0.59,3.22,2,59,39,10,25.39,High,Low,0.96,Below Average,00:30.3,Web Development
+S4011,Laiba Aslam,B004,Usama,February,Present,0.91,10.14,0,91,46,18,84.19,Low,High,3.65,Excellent,00:19.3,Web Development
+S4012,Hira Rasheed,B004,Usama,February,Present,0.94,12.8,0,94,46,18,88.65,Low,High,3.66,Excellent,02:20.6,Web Development
+S4013,Amna Khan,B004,Usama,February,Present,0.43,2.65,2,43,37,5,30.06,High,Low,0.56,Below Average,19:50.4,Web Development
+S4014,Hira Khan,B004,Usama,February,Present,0.84,8.48,1,84,42,12,75.03,Low,High,3.1,Above Average,08:34.3,Web Development
+S4015,Rehan Ali,B004,Usama,February,Present,0.75,7.91,1,75,40,15,66.26,Low,High,3.49,Above Average,06:50.8,Web Development
+S4016,Sara Malik,B004,Usama,February,Present,0.61,5.51,1,61,45,13,51.27,Medium,Medium,2.7,Average,06:07.4,Web Development
+S4017,Rabia Tariq,B004,Usama,February,Present,0.56,2.07,2,56,33,9,21.2,High,Low,1.44,Below Average,22:57.5,Web Development
+S4018,Ayesha Siddiqui,B004,Usama,February,Late,0.98,10.65,0,98,47,19,92.61,Low,High,3.55,Excellent,16:54.1,Web Development
+S4019,Mehwish Anwar,B004,Usama,February,Present,0.59,3.1,4,59,37,5,39.14,High,Low,1.48,Below Average,19:27.3,Web Development
+S4020,Rafia Noor,B004,Usama,February,Present,0.83,7.81,1,83,42,15,67.85,Low,High,3.12,Above Average,06:52.4,Web Development
+S4021,Mahnoor Anwar,B004,Usama,February,Present,0.87,9.6,1,87,43,13,79.28,Low,High,3.21,Above Average,00:47.4,Web Development
+S4022,Furqan Iqbal,B004,Usama,February,Late,0.97,14.73,0,97,50,18,96.77,Low,High,3.87,Excellent,09:42.6,Web Development
+S4023,Imran Khan,B004,Usama,February,Late,0.6,2.14,4,60,30,5,33.32,High,Low,1.88,Below Average,18:11.4,Web Development
+S4024,Imran Akhtar,B004,Usama,February,Present,0.82,7.6,1,82,44,16,68.1,Low,High,3.19,Above Average,01:55.4,Web Development
+S4025,Rizwan Ali,B004,Usama,February,Present,0.74,5.42,2,74,38,10,48.24,Medium,Medium,2.78,Average,13:59.2,Web Development
+S4026,Bilal Hussain,B004,Usama,February,Present,0.43,1.22,4,43,33,8,20.69,High,Low,1.35,Below Average,14:10.5,Web Development
+S4027,Aqsa Siddiqui,B004,Usama,February,Present,0.94,13.39,0,94,49,20,95.93,Low,High,3.74,Excellent,16:54.2,Web Development
+S4028,Shazia Malik,B004,Usama,February,Present,0.46,3.99,4,46,36,6,39.59,High,Low,1.33,Below Average,07:31.6,Web Development
+S4029,Adil Ahmed,B004,Usama,February,Late,0.99,11.87,0,99,50,15,98.78,Low,High,3.81,Excellent,08:44.4,Web Development
+S4030,Salman Tariq,B004,Usama,February,Absent,0.44,3.22,2,44,38,8,34.63,High,Low,1.06,Below Average,15:30.2,Web Development
+S4001,Zainab Tariq,B004,Usama,March,Late,0.57,3.27,2,57,39,6,39.18,High,Low,1.73,Below Average,06:51.4,Web Development
+S4002,Iqra Javed,B004,Usama,March,Present,0.56,1.7,2,56,35,7,24.7,High,Low,1.68,Below Average,12:13.9,Web Development
+S4003,Beenish Arif,B004,Usama,March,Present,0.44,2.7,4,44,37,9,27.75,High,Low,1.92,Below Average,20:40.0,Web Development
+S4004,Madiha Saeed,B004,Usama,March,Present,0.95,19.8,0,95,46,18,89.38,Low,High,3.84,Excellent,23:23.5,Web Development
+S4005,Zainab Khalid,B004,Usama,March,Absent,0.86,8.37,0,86,50,12,67.06,Low,High,3.01,Above Average,13:31.8,Web Development
+S4006,Junaid Khan,B004,Usama,March,Present,1,19.69,0,100,45,19,94.24,Low,High,3.55,Excellent,22:22.3,Web Development
+S4007,Rizwan Zafar,B004,Usama,March,Late,0.5,2.33,2,50,34,8,31.95,High,Low,0.73,Below Average,17:57.3,Web Development
+S4008,Usman Iqbal,B004,Usama,March,Present,0.5,3.56,4,50,37,10,32.69,High,Low,1.52,Below Average,12:37.1,Web Development
+S4009,Taimoor Khalid,B004,Usama,March,Present,0.55,3.88,4,55,35,6,23.16,High,Low,1.84,Below Average,22:28.6,Web Development
+S4010,Hamza Tariq,B004,Usama,March,Late,0.97,17.2,0,97,48,16,99.78,Low,High,3.55,Excellent,06:10.1,Web Development
+S4011,Laiba Aslam,B004,Usama,March,Late,0.93,19.18,0,93,48,19,97.3,Low,High,3.78,Excellent,18:35.3,Web Development
+S4012,Hira Rasheed,B004,Usama,March,Present,0.72,5.11,1,72,44,13,48.96,Medium,Medium,2.08,Average,13:37.2,Web Development
+S4013,Amna Khan,B004,Usama,March,Absent,0.53,2.32,4,53,31,6,24.13,High,Low,1.79,Below Average,00:00.4,Web Development
+S4014,Hira Khan,B004,Usama,March,Present,0.93,17.7,0,93,47,19,87.39,Low,High,3.58,Excellent,08:10.5,Web Development
+S4015,Rehan Ali,B004,Usama,March,Present,0.95,12.44,0,95,49,20,86.11,Low,High,3.69,Excellent,19:46.5,Web Development
+S4016,Sara Malik,B004,Usama,March,Present,0.93,11.26,0,93,46,20,96.73,Low,High,3.75,Excellent,03:47.7,Web Development
+S4017,Rabia Tariq,B004,Usama,March,Present,0.77,7.99,0,77,48,16,71.5,Low,High,2.81,Above Average,05:23.2,Web Development
+S4018,Ayesha Siddiqui,B004,Usama,March,Absent,0.69,6.4,2,69,45,12,57.62,Medium,Medium,2.16,Average,17:13.4,Web Development
+S4019,Mehwish Anwar,B004,Usama,March,Late,0.94,11.72,0,94,45,16,92.33,Low,High,3.51,Excellent,21:21.2,Web Development
+S4020,Rafia Noor,B004,Usama,March,Present,0.94,18.14,0,94,49,20,84.81,Low,High,3.97,Excellent,03:29.4,Web Development
+S4021,Mahnoor Anwar,B004,Usama,March,Present,0.48,2.77,2,48,35,5,22,High,Low,1.67,Below Average,22:20.3,Web Development
+S4022,Furqan Iqbal,B004,Usama,March,Late,0.48,3.67,3,48,35,7,23.19,High,Low,0.65,Below Average,19:49.4,Web Development
+S4023,Imran Khan,B004,Usama,March,Present,0.64,6.76,1,64,45,14,48.53,Medium,Medium,2,Average,21:02.3,Web Development
+S4024,Imran Akhtar,B004,Usama,March,Present,0.51,3.29,2,51,39,5,29.9,High,Low,1.53,Below Average,03:54.4,Web Development
+S4025,Rizwan Ali,B004,Usama,March,Present,0.7,4.63,2,70,36,11,58.5,Medium,Medium,2.74,Average,09:31.5,Web Development
+S4026,Bilal Hussain,B004,Usama,March,Present,0.81,9.7,1,81,50,14,67.98,Low,High,3.16,Above Average,20:23.4,Web Development
+S4027,Aqsa Siddiqui,B004,Usama,March,Present,0.57,3.46,4,57,38,9,29.69,High,Low,1.82,Below Average,00:27.4,Web Development
+S4028,Shazia Malik,B004,Usama,March,Present,0.76,9.16,0,76,48,14,77.88,Low,High,3.01,Above Average,02:18.5,Web Development
+S4029,Adil Ahmed,B004,Usama,March,Present,0.42,2.44,2,42,33,8,21.26,High,Low,1.48,Below Average,09:43.5,Web Development
+S4030,Salman Tariq,B004,Usama,March,Late,0.91,12.14,0,91,48,15,97.5,Low,High,3.99,Excellent,13:05.3,Web Development
+S5001,Beenish Arif,B005,Bilal,January,Present,0.81,9.48,1,81,50,16,60.7,Low,High,2.87,Above Average,22:32.9,Cyber Security
+S5002,Bilal Hussain,B005,Bilal,January,Present,0.98,11.8,0,98,49,16,97.9,Low,High,3.7,Excellent,10:14.2,Cyber Security
+S5003,Imran Akhtar,B005,Bilal,January,Absent,0.59,2.12,2,59,33,8,35.03,High,Low,1.42,Below Average,23:51.3,Cyber Security
+S5004,Hassan Raza,B005,Bilal,January,Present,0.46,2.7,2,46,33,5,28.9,High,Low,1.01,Below Average,01:00.4,Cyber Security
+S5005,Sehrish Khan,B005,Bilal,January,Present,0.92,17.75,0,92,48,18,83.28,Low,High,3.7,Excellent,03:22.3,Cyber Security
+S5006,Adeel Farooq,B005,Bilal,January,Present,0.48,3.57,3,48,38,8,26.74,High,Low,1.63,Below Average,15:08.4,Cyber Security
+S5007,Aqsa Siddiqui,B005,Bilal,January,Present,0.73,4.61,1,73,37,11,48.99,Medium,Medium,2.46,Average,18:46.6,Cyber Security
+S5008,Sana Qureshi,B005,Bilal,January,Present,0.95,19.04,0,95,50,19,80.61,Low,High,3.57,Excellent,16:55.5,Cyber Security
+S5009,Shahbaz Khan,B005,Bilal,January,Present,0.75,6.62,2,75,40,13,57.56,Medium,Medium,2.71,Average,22:09.3,Cyber Security
+S5010,Furqan Iqbal,B005,Bilal,January,Absent,0.8,9.43,1,80,41,16,66.88,Low,High,3.12,Above Average,17:45.2,Cyber Security
+S5011,Lubna Iqbal,B005,Bilal,January,Late,0.58,2.73,3,58,36,9,20.55,High,Low,0.97,Below Average,23:03.7,Cyber Security
+S5012,Huma Yousaf,B005,Bilal,January,Present,0.97,13.7,0,97,45,16,89.12,Low,High,3.98,Excellent,09:18.4,Cyber Security
+S5013,Kashif Raza,B005,Bilal,January,Absent,0.92,19.08,0,92,46,17,80.61,Low,High,3.59,Excellent,00:57.4,Cyber Security
+S5014,Sara Malik,B005,Bilal,January,Present,0.84,7.58,1,84,46,12,66.79,Low,High,3.23,Above Average,15:21.4,Cyber Security
+S5015,Usama Khalid,B005,Bilal,January,Present,0.63,4.3,2,63,36,11,44.65,Medium,Medium,2.75,Average,12:50.1,Cyber Security
+S5016,Usman Iqbal,B005,Bilal,January,Absent,0.94,12.07,0,94,50,15,93.04,Low,High,3.86,Excellent,09:07.1,Cyber Security
+S5017,Nadia Saleem,B005,Bilal,January,Present,0.41,1.03,2,41,39,5,38.04,High,Low,1.23,Below Average,04:32.9,Cyber Security
+S5018,Rafia Noor,B005,Bilal,January,Present,0.46,3.82,2,46,38,9,27.16,High,Low,1.84,Below Average,21:21.2,Cyber Security
+S5019,Aliya Shah,B005,Bilal,January,Present,0.91,19.11,0,91,47,17,91.83,Low,High,3.72,Excellent,15:05.2,Cyber Security
+S5020,Anum Raza,B005,Bilal,January,Present,0.76,9.4,1,76,48,13,76.02,Low,High,3.11,Above Average,23:42.5,Cyber Security
+S5021,Rehan Ali,B005,Bilal,January,Absent,0.77,7.38,1,77,47,12,77.58,Low,High,3.26,Above Average,00:29.6,Cyber Security
+S5022,Salman Ahmed,B005,Bilal,January,Present,0.7,5.19,2,70,40,12,45.37,Medium,Medium,2.38,Average,03:14.3,Cyber Security
+S5023,Amna Khan,B005,Bilal,January,Present,0.74,6.47,1,74,36,10,59.88,Medium,Medium,2.4,Average,23:00.1,Cyber Security
+S5024,Faisal Qureshi,B005,Bilal,January,Present,0.91,16.73,0,91,49,16,98.98,Low,High,3.6,Excellent,17:17.5,Cyber Security
+S5025,Kamran Abbas,B005,Bilal,January,Present,0.43,2.31,2,43,40,6,35.47,High,Low,1.81,Below Average,09:12.3,Cyber Security
+S5026,Nouman Haider,B005,Bilal,January,Present,0.46,1.96,4,46,38,7,36.68,High,Low,1.36,Below Average,09:45.3,Cyber Security
+S5027,Omar Farooq,B005,Bilal,January,Present,0.82,7.84,1,82,42,13,77.99,Low,High,3.28,Above Average,04:39.6,Cyber Security
+S5028,Iqra Javed,B005,Bilal,January,Late,0.52,1.28,4,52,40,8,24.05,High,Low,1.7,Below Average,13:31.4,Cyber Security
+S5029,Shazia Malik,B005,Bilal,January,Present,0.41,1.41,4,41,40,8,32.21,High,Low,1.74,Below Average,12:36.5,Cyber Security
+S5030,Hira Rasheed,B005,Bilal,January,Late,0.82,7.52,0,82,40,15,74.09,Low,High,3.11,Above Average,19:07.3,Cyber Security
+S5001,Beenish Arif,B005,Bilal,February,Late,0.5,3.72,4,50,37,6,32.37,High,Low,1.83,Below Average,07:59.2,Cyber Security
+S5002,Bilal Hussain,B005,Bilal,February,Present,0.5,1.79,4,50,31,8,32.71,High,Low,1.38,Below Average,00:58.3,Cyber Security
+S5003,Imran Akhtar,B005,Bilal,February,Present,0.92,13.56,0,92,48,15,99.82,Low,High,3.73,Excellent,23:47.2,Cyber Security
+S5004,Hassan Raza,B005,Bilal,February,Present,0.97,14.03,0,97,46,15,98.82,Low,High,3.93,Excellent,06:56.2,Cyber Security
+S5005,Sehrish Khan,B005,Bilal,February,Present,0.92,16.21,0,92,46,18,89.45,Low,High,3.99,Excellent,06:39.4,Cyber Security
+S5006,Adeel Farooq,B005,Bilal,February,Late,0.9,13.35,0,90,45,16,91.13,Low,High,3.78,Excellent,10:01.4,Cyber Security
+S5007,Aqsa Siddiqui,B005,Bilal,February,Absent,0.92,14.67,0,92,46,16,90.25,Low,High,3.88,Excellent,19:16.5,Cyber Security
+S5008,Sana Qureshi,B005,Bilal,February,Present,0.77,9.1,1,77,41,16,78.48,Low,High,2.92,Above Average,06:11.4,Cyber Security
+S5009,Shahbaz Khan,B005,Bilal,February,Present,0.96,16.04,0,96,50,20,88.1,Low,High,3.84,Excellent,16:18.2,Cyber Security
+S5010,Furqan Iqbal,B005,Bilal,February,Present,0.67,5,1,67,38,11,47.36,Medium,Medium,2.42,Average,06:36.2,Cyber Security
+S5011,Lubna Iqbal,B005,Bilal,February,Late,1,17.51,0,100,50,15,98.8,Low,High,3.58,Excellent,21:52.2,Cyber Security
+S5012,Huma Yousaf,B005,Bilal,February,Present,0.56,2.08,4,56,34,9,34.3,High,Low,1.02,Below Average,17:21.5,Cyber Security
+S5013,Kashif Raza,B005,Bilal,February,Present,0.93,15.45,0,93,45,16,97.23,Low,High,3.86,Excellent,05:42.3,Cyber Security
+S5014,Sara Malik,B005,Bilal,February,Present,0.49,3.44,2,49,31,9,20.83,High,Low,0.85,Below Average,02:24.4,Cyber Security
+S5015,Usama Khalid,B005,Bilal,February,Present,0.55,2.53,2,55,33,9,34.58,High,Low,0.74,Below Average,19:14.4,Cyber Security
+S5016,Usman Iqbal,B005,Bilal,February,Present,0.48,3.99,3,48,36,10,22.56,High,Low,1.65,Below Average,21:41.3,Cyber Security
+S5017,Nadia Saleem,B005,Bilal,February,Present,0.59,3.23,4,59,40,10,36.71,High,Low,1.61,Below Average,21:54.4,Cyber Security
+S5018,Rafia Noor,B005,Bilal,February,Late,0.92,15.47,0,92,48,19,85.81,Low,High,3.7,Excellent,10:04.2,Cyber Security
+S5019,Aliya Shah,B005,Bilal,February,Late,0.9,13.78,0,90,47,20,96.86,Low,High,3.53,Excellent,05:09.5,Cyber Security
+S5020,Anum Raza,B005,Bilal,February,Late,0.59,3.08,2,59,40,5,32.77,High,Low,0.59,Below Average,11:35.4,Cyber Security
+S5021,Rehan Ali,B005,Bilal,February,Present,0.43,3.25,4,43,37,9,37.94,High,Low,0.88,Below Average,16:22.2,Cyber Security
+S5022,Salman Ahmed,B005,Bilal,February,Late,0.95,14.75,0,95,45,17,92.76,Low,High,3.65,Excellent,15:37.1,Cyber Security
+S5023,Amna Khan,B005,Bilal,February,Late,0.58,2.73,4,58,36,9,34.37,High,Low,1.39,Below Average,01:23.5,Cyber Security
+S5024,Faisal Qureshi,B005,Bilal,February,Present,0.72,6.83,1,72,43,10,41.08,Medium,Medium,2.28,Average,04:46.1,Cyber Security
+S5025,Kamran Abbas,B005,Bilal,February,Absent,0.64,4.19,2,64,45,11,45.56,Medium,Medium,2.14,Average,10:01.4,Cyber Security
+S5026,Nouman Haider,B005,Bilal,February,Present,0.59,2.45,4,59,40,7,23.11,High,Low,0.94,Below Average,09:02.6,Cyber Security
+S5027,Omar Farooq,B005,Bilal,February,Absent,0.46,2.51,2,46,34,6,22.39,High,Low,1.86,Below Average,08:49.4,Cyber Security
+S5028,Iqra Javed,B005,Bilal,February,Present,0.5,2.36,3,50,39,8,27.78,High,Low,0.54,Below Average,08:05.4,Cyber Security
+S5029,Shazia Malik,B005,Bilal,February,Present,0.91,19.57,0,91,47,18,81.59,Low,High,3.51,Excellent,12:50.4,Cyber Security
+S5030,Hira Rasheed,B005,Bilal,February,Late,0.65,4.24,1,65,41,13,57.21,Medium,Medium,2.69,Average,16:03.4,Cyber Security
+S5001,Beenish Arif,B005,Bilal,March,Late,0.97,16.96,0,97,48,20,82.56,Low,High,3.65,Excellent,18:56.8,Cyber Security
+S5002,Bilal Hussain,B005,Bilal,March,Present,0.74,5.05,1,74,39,14,46.56,Medium,Medium,2.09,Average,20:24.6,Cyber Security
+S5003,Imran Akhtar,B005,Bilal,March,Present,0.53,3.54,4,53,36,8,38.04,High,Low,1.48,Below Average,13:49.0,Cyber Security
+S5004,Hassan Raza,B005,Bilal,March,Present,0.98,13.92,0,98,45,20,82.81,Low,High,3.75,Excellent,08:28.3,Cyber Security
+S5005,Sehrish Khan,B005,Bilal,March,Late,0.69,6.03,1,69,45,13,56.8,Medium,Medium,2.4,Average,08:39.2,Cyber Security
+S5006,Adeel Farooq,B005,Bilal,March,Present,0.57,2.36,3,57,31,7,24.71,High,Low,0.72,Below Average,07:01.3,Cyber Security
+S5007,Aqsa Siddiqui,B005,Bilal,March,Present,0.53,1.38,2,53,33,6,31.68,High,Low,1.71,Below Average,15:37.1,Cyber Security
+S5008,Sana Qureshi,B005,Bilal,March,Present,0.61,6.36,1,61,41,10,43.87,Medium,Medium,2.46,Average,03:35.3,Cyber Security
+S5009,Shahbaz Khan,B005,Bilal,March,Late,0.67,4.95,2,67,37,10,41.56,Medium,Medium,2.08,Average,11:12.4,Cyber Security
+S5010,Furqan Iqbal,B005,Bilal,March,Present,0.73,5.56,1,73,45,12,52.58,Medium,Medium,2.02,Average,16:35.3,Cyber Security
+S5011,Lubna Iqbal,B005,Bilal,March,Present,0.73,4.01,1,73,42,12,50.63,Medium,Medium,2.22,Average,19:53.4,Cyber Security
+S5012,Huma Yousaf,B005,Bilal,March,Absent,0.92,15.85,0,92,50,15,83.92,Low,High,3.56,Excellent,20:49.8,Cyber Security
+S5013,Kashif Raza,B005,Bilal,March,Late,0.97,15.42,0,97,48,16,99.01,Low,High,3.73,Excellent,02:04.3,Cyber Security
+S5014,Sara Malik,B005,Bilal,March,Present,0.92,11.02,0,92,47,19,92.71,Low,High,3.62,Excellent,05:53.6,Cyber Security
+S5015,Usama Khalid,B005,Bilal,March,Late,0.73,5.34,2,73,36,14,50.59,Medium,Medium,2.77,Average,13:13.4,Cyber Security
+S5016,Usman Iqbal,B005,Bilal,March,Late,0.43,1.62,4,43,35,10,31.65,High,Low,1.12,Below Average,16:54.2,Cyber Security
+S5017,Nadia Saleem,B005,Bilal,March,Present,0.81,6.08,1,81,49,16,75.02,Low,High,3.15,Above Average,23:56.2,Cyber Security
+S5018,Rafia Noor,B005,Bilal,March,Present,0.46,3.79,2,46,33,6,20.89,High,Low,1.4,Below Average,21:59.8,Cyber Security
+S5019,Aliya Shah,B005,Bilal,March,Present,0.49,2.72,2,49,37,8,30.73,High,Low,0.91,Below Average,03:54.4,Cyber Security
+S5020,Anum Raza,B005,Bilal,March,Present,0.77,9.32,0,77,45,16,60.47,Low,High,2.98,Above Average,18:12.3,Cyber Security
+S5021,Rehan Ali,B005,Bilal,March,Late,0.43,2.68,3,43,38,10,37.55,High,Low,1.29,Below Average,14:25.4,Cyber Security
+S5022,Salman Ahmed,B005,Bilal,March,Present,0.92,10.09,0,92,46,16,89.47,Low,High,3.83,Excellent,19:16.5,Cyber Security
+S5023,Amna Khan,B005,Bilal,March,Late,0.73,4.11,2,73,39,11,46.77,Medium,Medium,2.16,Average,15:53.5,Cyber Security
+S5024,Faisal Qureshi,B005,Bilal,March,Present,0.64,4.88,2,64,36,14,57.65,Medium,Medium,2.15,Average,02:53.4,Cyber Security
+S5025,Kamran Abbas,B005,Bilal,March,Present,0.61,4.71,2,61,44,14,47.1,Medium,Medium,2.3,Average,09:18.4,Cyber Security
+S5026,Nouman Haider,B005,Bilal,March,Present,0.63,6.91,2,63,42,11,43.17,Medium,Medium,2.61,Average,13:59.2,Cyber Security
+S5027,Omar Farooq,B005,Bilal,March,Present,0.42,2,2,42,39,6,39.34,High,Low,1.98,Below Average,09:06.7,Cyber Security
+S5028,Iqra Javed,B005,Bilal,March,Present,0.85,9.21,1,85,45,12,79.94,Low,High,3.37,Above Average,05:42.3,Cyber Security
+S5029,Shazia Malik,B005,Bilal,March,Present,0.88,8,1,88,49,13,71.82,Low,High,3.08,Above Average,10:25.4,Cyber Security
+S5030,Hira Rasheed,B005,Bilal,March,Late,0.52,3.31,3,52,38,6,38.23,High,Low,1.02,Below Average,11:26.4,Cyber Security
+S6001,Hira Khan,B006,Areeba,January,Late,0.48,3.27,3,48,38,9,36.92,High,Low,1.9,Below Average,12:38.6,DevOps
+S6002,Shahbaz Khan,B006,Areeba,January,Late,0.94,13.7,0,94,48,20,93,Low,High,3.77,Excellent,11:35.5,DevOps
+S6003,Anum Raza,B006,Areeba,January,Present,0.98,13.3,0,98,48,17,82.3,Low,High,3.91,Excellent,03:47.7,DevOps
+S6004,Waleed Arif,B006,Areeba,January,Late,0.78,9.12,0,78,41,16,79.43,Low,High,3.38,Above Average,21:12.2,DevOps
+S6005,Amna Khan,B006,Areeba,January,Present,0.45,1.84,4,45,40,7,36.64,High,Low,0.8,Below Average,22:00.4,DevOps
+S6006,Iqra Javed,B006,Areeba,January,Present,0.91,18.62,0,91,45,18,83.56,Low,High,3.84,Excellent,18:58.5,DevOps
+S6007,Rizwan Ali,B006,Areeba,January,Absent,0.92,19.96,0,92,46,16,93.45,Low,High,3.81,Excellent,19:57.3,DevOps
+S6008,Beenish Arif,B006,Areeba,January,Present,0.66,6.2,1,66,35,10,47.12,Medium,Medium,2.59,Average,09:11.5,DevOps
+S6009,Adeel Farooq,B006,Areeba,January,Absent,0.94,11.49,0,94,46,18,80.35,Low,High,3.5,Excellent,17:51.3,DevOps
+S6010,Salman Tariq,B006,Areeba,January,Late,0.48,2.83,2,48,32,5,36.89,High,Low,1.13,Below Average,05:20.5,DevOps
+S6011,Sehrish Khan,B006,Areeba,January,Present,0.76,6.26,1,76,45,15,75.29,Low,High,3.4,Above Average,00:41.1,DevOps
+S6012,Shahbaz Hussain,B006,Areeba,January,Present,0.86,7.02,1,86,50,15,60.43,Low,High,3.35,Above Average,12:25.5,DevOps
+S6013,Anum Shahid,B006,Areeba,January,Present,0.9,6.75,1,90,44,15,71.72,Low,High,2.92,Above Average,08:15.4,DevOps
+S6014,Rafia Noor,B006,Areeba,January,Present,0.72,6.36,2,72,44,14,49.64,Medium,Medium,2.37,Average,05:20.5,DevOps
+S6015,Kamran Abbas,B006,Areeba,January,Absent,0.83,8.67,1,83,42,16,62.85,Low,High,3,Above Average,18:45.6,DevOps
+S6016,Usama Khalid,B006,Areeba,January,Present,0.96,10.96,0,96,48,17,95.67,Low,High,3.71,Excellent,02:36.4,DevOps
+S6017,Shazia Malik,B006,Areeba,January,Present,0.47,1.96,2,47,32,5,25.35,High,Low,1.03,Below Average,13:59.2,DevOps
+S6018,Ayesha Siddiqui,B006,Areeba,January,Present,0.91,10.6,0,91,45,18,90.55,Low,High,3.68,Excellent,01:54.1,DevOps
+S6019,Rabia Tariq,B006,Areeba,January,Late,0.91,14.36,0,91,46,18,97.39,Low,High,3.72,Excellent,16:27.1,DevOps
+S6020,Tanveer Abbas,B006,Areeba,January,Present,0.91,14.44,0,91,49,17,89.01,Low,High,3.85,Excellent,04:38.1,DevOps
+S6021,Laiba Aslam,B006,Areeba,January,Late,0.59,2.79,2,59,36,10,37.11,High,Low,0.81,Below Average,23:47.2,DevOps
+S6022,Nouman Haider,B006,Areeba,January,Present,0.94,11.94,0,94,49,19,94.43,Low,High,3.77,Excellent,00:57.3,DevOps
+S6023,Lubna Iqbal,B006,Areeba,January,Present,0.54,2.44,2,54,39,7,38.49,High,Low,0.89,Below Average,08:08.0,DevOps
+S6024,Imran Khan,B006,Areeba,January,Present,0.8,8.06,1,80,40,16,74.54,Low,High,3.47,Above Average,17:17.5,DevOps
+S6025,Taimoor Khalid,B006,Areeba,January,Late,0.41,2.55,3,41,35,7,32.61,High,Low,1.39,Below Average,22:43.5,DevOps
+S6026,Mehwish Anwar,B006,Areeba,January,Late,0.44,1.57,4,44,32,9,22.82,High,Low,1.65,Below Average,18:13.9,DevOps
+S6027,Mariam Javed,B006,Areeba,January,Present,0.62,5.46,1,62,45,13,51.22,Medium,Medium,2.58,Average,23:38.6,DevOps
+S6028,Bilal Hussain,B006,Areeba,January,Present,0.95,18.29,0,95,49,18,89,Low,High,3.75,Excellent,02:05.1,DevOps
+S6029,Omar Farooq,B006,Areeba,January,Present,0.84,7.63,1,84,45,12,78.18,Low,High,2.9,Above Average,18:03.4,DevOps
+S6030,Noman Yousaf,B006,Areeba,January,Present,0.75,6.19,1,75,45,14,46.74,Medium,Medium,2.62,Average,08:52.2,DevOps
+S6001,Hira Khan,B006,Areeba,February,Late,0.86,8.45,0,86,45,13,62.9,Low,High,2.85,Above Average,13:51.5,DevOps
+S6002,Shahbaz Khan,B006,Areeba,February,Late,0.42,1.64,4,42,30,8,31.16,High,Low,1.82,Below Average,09:31.3,DevOps
+S6003,Anum Raza,B006,Areeba,February,Late,0.68,4.69,2,68,43,12,58.18,Medium,Medium,2.2,Average,13:59.3,DevOps
+S6004,Waleed Arif,B006,Areeba,February,Present,0.61,6.65,2,61,39,10,47.4,Medium,Medium,2.33,Average,09:35.0,DevOps
+S6005,Amna Khan,B006,Areeba,February,Present,0.82,7.49,0,82,46,16,60.52,Low,High,3.02,Above Average,17:29.2,DevOps
+S6006,Iqra Javed,B006,Areeba,February,Present,0.74,6.11,2,74,41,12,52.51,Medium,Medium,2.4,Average,10:59.3,DevOps
+S6007,Rizwan Ali,B006,Areeba,February,Present,0.4,3.66,4,40,32,7,32.4,High,Low,1.13,Below Average,16:30.4,DevOps
+S6008,Beenish Arif,B006,Areeba,February,Present,0.84,6.32,1,84,49,15,74.99,Low,High,3.17,Above Average,17:20.4,DevOps
+S6009,Adeel Farooq,B006,Areeba,February,Absent,0.42,1.45,4,42,39,7,39.88,High,Low,1.28,Below Average,16:49.4,DevOps
+S6010,Salman Tariq,B006,Areeba,February,Present,0.55,3.4,4,55,40,9,27.54,High,Low,0.85,Below Average,00:30.3,DevOps
+S6011,Sehrish Khan,B006,Areeba,February,Late,0.56,1.12,4,56,38,8,25.16,High,Low,1.18,Below Average,00:19.3,DevOps
+S6012,Shahbaz Hussain,B006,Areeba,February,Present,0.4,1.82,4,40,39,9,37.94,High,Low,1.27,Below Average,02:20.6,DevOps
+S6013,Anum Shahid,B006,Areeba,February,Present,0.8,8.44,0,80,48,16,70.61,Low,High,3.47,Above Average,19:50.4,DevOps
+S6014,Rafia Noor,B006,Areeba,February,Present,0.79,6.52,1,79,50,15,79.61,Low,High,2.96,Above Average,08:34.3,DevOps
+S6015,Kamran Abbas,B006,Areeba,February,Present,0.62,5.39,2,62,38,13,54.79,Medium,Medium,2.05,Average,06:50.8,DevOps
+S6016,Usama Khalid,B006,Areeba,February,Present,0.9,13.12,0,90,45,16,98.68,Low,High,3.55,Excellent,06:07.4,DevOps
+S6017,Shazia Malik,B006,Areeba,February,Present,0.48,1.16,2,48,33,5,36.94,High,Low,1.17,Below Average,22:57.5,DevOps
+S6018,Ayesha Siddiqui,B006,Areeba,February,Present,0.46,2.97,2,46,38,6,24.05,High,Low,0.52,Below Average,16:54.1,DevOps
+S6019,Rabia Tariq,B006,Areeba,February,Present,0.91,18.52,0,91,50,19,87.14,Low,High,3.76,Excellent,19:27.3,DevOps
+S6020,Tanveer Abbas,B006,Areeba,February,Present,0.84,9.32,1,84,43,12,68.67,Low,High,3.2,Above Average,06:52.4,DevOps
+S6021,Laiba Aslam,B006,Areeba,February,Present,0.6,2.9,4,60,35,7,36.13,High,Low,1.96,Below Average,00:47.4,DevOps
+S6022,Nouman Haider,B006,Areeba,February,Absent,0.67,5.14,1,67,42,13,53.43,Medium,Medium,2.23,Average,09:42.6,DevOps
+S6023,Lubna Iqbal,B006,Areeba,February,Present,0.7,5.9,1,70,35,12,41.63,Medium,Medium,2.15,Average,18:11.4,DevOps
+S6024,Imran Khan,B006,Areeba,February,Present,0.56,1.02,4,56,34,7,33.71,High,Low,1.48,Below Average,01:55.4,DevOps
+S6025,Taimoor Khalid,B006,Areeba,February,Absent,0.71,5.03,1,71,44,10,43.77,Medium,Medium,2.76,Average,13:59.2,DevOps
+S6026,Mehwish Anwar,B006,Areeba,February,Late,0.91,14.37,0,91,49,18,88.76,Low,High,3.72,Excellent,14:10.5,DevOps
+S6027,Mariam Javed,B006,Areeba,February,Present,0.79,7.8,1,79,47,12,75.28,Low,High,3.09,Above Average,16:54.2,DevOps
+S6028,Bilal Hussain,B006,Areeba,February,Late,0.94,16.97,0,94,50,17,86.18,Low,High,3.51,Excellent,07:31.6,DevOps
+S6029,Omar Farooq,B006,Areeba,February,Present,0.43,3.67,4,43,38,7,32.75,High,Low,0.88,Below Average,08:44.4,DevOps
+S6030,Noman Yousaf,B006,Areeba,February,Present,0.78,9.37,1,78,47,13,63.65,Low,High,3.28,Above Average,15:30.2,DevOps
+S6001,Hira Khan,B006,Areeba,March,Present,0.95,19.32,0,95,50,20,98.43,Low,High,3.5,Excellent,06:51.4,DevOps
+S6002,Shahbaz Khan,B006,Areeba,March,Late,0.83,6.66,1,83,49,16,70.6,Low,High,3.36,Above Average,12:13.9,DevOps
+S6003,Anum Raza,B006,Areeba,March,Present,0.47,2.42,3,47,33,9,25.45,High,Low,1.61,Below Average,20:40.0,DevOps
+S6004,Waleed Arif,B006,Areeba,March,Absent,0.91,15.94,0,91,48,17,82.3,Low,High,3.71,Excellent,23:23.5,DevOps
+S6005,Amna Khan,B006,Areeba,March,Present,0.43,3.35,4,43,37,7,33.56,High,Low,1.86,Below Average,13:31.8,DevOps
+S6006,Iqra Javed,B006,Areeba,March,Present,0.94,10.8,0,94,46,17,98.7,Low,High,3.6,Excellent,22:22.3,DevOps
+S6007,Rizwan Ali,B006,Areeba,March,Present,0.92,12.81,0,92,48,16,81.63,Low,High,3.8,Excellent,17:57.3,DevOps
+S6008,Beenish Arif,B006,Areeba,March,Late,0.57,3.24,4,57,35,9,38.73,High,Low,1.04,Below Average,12:37.1,DevOps
+S6009,Adeel Farooq,B006,Areeba,March,Present,0.41,2.36,4,41,39,5,33.59,High,Low,1.69,Below Average,22:28.6,DevOps
+S6010,Salman Tariq,B006,Areeba,March,Present,0.49,3.68,3,49,39,5,34.7,High,Low,0.59,Below Average,06:10.1,DevOps
+S6011,Sehrish Khan,B006,Areeba,March,Present,0.96,16.12,0,96,47,18,87.31,Low,High,3.97,Excellent,18:35.3,DevOps
+S6012,Shahbaz Hussain,B006,Areeba,March,Present,0.76,9.78,0,76,50,16,77.21,Low,High,3.12,Above Average,13:37.2,DevOps
+S6013,Anum Shahid,B006,Areeba,March,Present,0.58,3.2,4,58,38,10,24.76,High,Low,0.87,Below Average,00:00.4,DevOps
+S6014,Rafia Noor,B006,Areeba,March,Present,0.8,9.52,1,80,49,14,66.71,Low,High,3.48,Above Average,08:10.5,DevOps
+S6015,Kamran Abbas,B006,Areeba,March,Present,0.96,13.9,0,96,48,16,80.04,Low,High,3.87,Excellent,19:46.5,DevOps
+S6016,Usama Khalid,B006,Areeba,March,Absent,0.92,13.31,0,92,48,20,87.8,Low,High,3.64,Excellent,03:47.7,DevOps
+S6017,Shazia Malik,B006,Areeba,March,Absent,0.95,16.99,0,95,47,16,94.53,Low,High,3.96,Excellent,05:23.2,DevOps
+S6018,Ayesha Siddiqui,B006,Areeba,March,Present,0.97,18.23,0,97,46,16,90.6,Low,High,3.74,Excellent,17:13.4,DevOps
+S6019,Rabia Tariq,B006,Areeba,March,Absent,0.94,19.95,0,94,46,17,84,Low,High,3.93,Excellent,21:21.2,DevOps
+S6020,Tanveer Abbas,B006,Areeba,March,Late,0.48,2.81,3,48,33,8,36.8,High,Low,1.43,Below Average,03:29.4,DevOps
+S6021,Laiba Aslam,B006,Areeba,March,Present,0.78,9.38,0,78,46,12,69.53,Low,High,3.16,Above Average,22:20.3,DevOps
+S6022,Nouman Haider,B006,Areeba,March,Present,0.78,7.62,0,78,42,13,62.82,Low,High,2.84,Above Average,19:49.4,DevOps
+S6023,Lubna Iqbal,B006,Areeba,March,Absent,0.91,18.18,0,91,48,15,80.11,Low,High,3.8,Excellent,21:02.3,DevOps
+S6024,Imran Khan,B006,Areeba,March,Absent,0.96,19.79,0,96,49,20,83.3,Low,High,3.97,Excellent,03:54.4,DevOps
+S6025,Taimoor Khalid,B006,Areeba,March,Late,0.44,1.51,2,44,40,7,32.29,High,Low,1.05,Below Average,09:31.5,DevOps
+S6026,Mehwish Anwar,B006,Areeba,March,Present,0.91,18.5,0,91,45,20,89.77,Low,High,3.58,Excellent,20:23.4,DevOps
+S6027,Mariam Javed,B006,Areeba,March,Present,0.81,6.42,0,81,48,12,67.57,Low,High,2.82,Above Average,00:27.4,DevOps
+S6028,Bilal Hussain,B006,Areeba,March,Present,0.5,3.32,3,50,30,10,25.09,High,Low,0.64,Below Average,02:18.5,DevOps
+S6029,Omar Farooq,B006,Areeba,March,Present,0.97,19.31,0,97,47,18,83.09,Low,High,3.61,Excellent,09:43.5,DevOps
+S6030,Noman Yousaf,B006,Areeba,March,Late,0.98,18.7,0,98,47,15,81.33,Low,High,3.55,Excellent,13:05.3,DevOps
+S7001,Shazia Malik,B007,Anum,January,Present,0.68,4.89,2,68,41,11,57.93,Medium,Medium,2.6,Average,22:32.9,App Development
+S7002,Faisal Qureshi,B007,Anum,January,Present,0.52,2.97,2,52,40,8,36.29,High,Low,0.57,Below Average,10:14.2,App Development
+S7003,Imran Akhtar,B007,Anum,January,Present,0.43,3.35,3,43,30,6,21.4,High,Low,1.18,Below Average,23:51.3,App Development
+S7004,Junaid Khan,B007,Anum,January,Present,0.49,3.17,2,49,39,7,25.67,High,Low,1.11,Below Average,01:00.4,App Development
+S7005,Shahbaz Hussain,B007,Anum,January,Present,0.54,1.53,4,54,31,7,26.85,High,Low,1.32,Below Average,03:22.3,App Development
+S7006,Fatima Noor,B007,Anum,January,Late,0.47,3.6,3,47,30,8,25.62,High,Low,1.16,Below Average,15:08.4,App Development
+S7007,Adeel Farooq,B007,Anum,January,Present,0.8,7.04,0,80,41,15,61.51,Low,High,3.42,Above Average,18:46.6,App Development
+S7008,Mahnoor Anwar,B007,Anum,January,Absent,0.81,8.82,1,81,40,16,63.28,Low,High,3.43,Above Average,16:55.5,App Development
+S7009,Sana Qureshi,B007,Anum,January,Present,0.5,2.8,3,50,31,8,38.98,High,Low,1.68,Below Average,22:09.3,App Development
+S7010,Beenish Khalid,B007,Anum,January,Late,0.98,13.27,0,98,47,15,93.18,Low,High,3.95,Excellent,17:45.2,App Development
+S7011,Rizwan Ali,B007,Anum,January,Late,0.95,12.76,0,95,47,18,86.79,Low,High,3.98,Excellent,23:03.7,App Development
+S7012,Noman Yousaf,B007,Anum,January,Late,0.42,2.3,2,42,36,10,30.69,High,Low,1.61,Below Average,09:18.4,App Development
+S7013,Usman Iqbal,B007,Anum,January,Present,0.7,4.99,2,70,40,10,59.15,Medium,Medium,2.69,Average,00:57.4,App Development
+S7014,Sara Malik,B007,Anum,January,Late,0.74,5.14,1,74,42,13,50.99,Medium,Medium,2.55,Average,15:21.4,App Development
+S7015,Shehzad Aslam,B007,Anum,January,Present,0.6,2.38,4,60,37,10,26.67,High,Low,1.39,Below Average,12:50.1,App Development
+S7016,Beenish Arif,B007,Anum,January,Absent,0.92,10.7,0,92,48,15,93.24,Low,High,3.82,Excellent,09:07.1,App Development
+S7017,Hira Khan,B007,Anum,January,Present,0.66,4.25,2,66,39,14,54.31,Medium,Medium,2.41,Average,04:32.9,App Development
+S7018,Lubna Iqbal,B007,Anum,January,Absent,0.4,3.34,4,40,40,10,26.29,High,Low,1.23,Below Average,21:21.2,App Development
+S7019,Furqan Iqbal,B007,Anum,January,Present,0.96,17.33,0,96,47,19,92.85,Low,High,3.9,Excellent,15:05.2,App Development
+S7020,Farhan Sheikh,B007,Anum,January,Late,0.59,3.71,4,59,39,5,22.71,High,Low,1.33,Below Average,23:42.5,App Development
+S7021,Rizwan Zafar,B007,Anum,January,Present,0.54,3.69,3,54,30,5,30.97,High,Low,0.86,Below Average,00:29.6,App Development
+S7022,Rabia Tariq,B007,Anum,January,Present,0.56,2.33,3,56,40,8,27.34,High,Low,0.83,Below Average,03:14.3,App Development
+S7023,Usama Khalid,B007,Anum,January,Late,0.54,2.93,3,54,38,8,34.65,High,Low,0.67,Below Average,23:00.1,App Development
+S7024,Anum Shahid,B007,Anum,January,Late,0.44,3.29,2,44,38,7,24.45,High,Low,2,Below Average,17:17.5,App Development
+S7025,Kamran Abbas,B007,Anum,January,Present,0.75,6.97,1,75,47,14,73.78,Low,High,3.25,Above Average,09:12.3,App Development
+S7026,Zara Sheikh,B007,Anum,January,Present,0.76,6.23,0,76,49,12,76.42,Low,High,3.06,Above Average,09:45.3,App Development
+S7027,Mariam Javed,B007,Anum,January,Late,0.87,8.77,1,87,46,15,77.12,Low,High,3.03,Above Average,04:39.6,App Development
+S7028,Rafia Noor,B007,Anum,January,Present,0.99,13.37,0,99,48,15,92.7,Low,High,3.81,Excellent,13:31.4,App Development
+S7029,Laiba Aslam,B007,Anum,January,Present,0.94,13.8,0,94,49,19,95.89,Low,High,3.99,Excellent,12:36.5,App Development
+S7030,Zainab Tariq,B007,Anum,January,Present,0.92,15.87,0,92,45,17,90.36,Low,High,3.94,Excellent,19:07.3,App Development
+S7001,Shazia Malik,B007,Anum,February,Present,0.74,5.38,1,74,39,12,58.22,Medium,Medium,2.75,Average,07:59.2,App Development
+S7002,Faisal Qureshi,B007,Anum,February,Late,0.98,17.78,0,98,49,15,81.91,Low,High,3.81,Excellent,00:58.3,App Development
+S7003,Imran Akhtar,B007,Anum,February,Present,0.81,8.63,0,81,47,16,76.65,Low,High,3.02,Above Average,23:47.2,App Development
+S7004,Junaid Khan,B007,Anum,February,Present,0.58,3.29,4,58,40,5,23.57,High,Low,1.39,Below Average,06:56.2,App Development
+S7005,Shahbaz Hussain,B007,Anum,February,Present,0.45,2.3,3,45,33,6,39.51,High,Low,1.58,Below Average,06:39.4,App Development
+S7006,Fatima Noor,B007,Anum,February,Present,0.6,5.65,1,60,37,12,53.3,Medium,Medium,2.43,Average,10:01.4,App Development
+S7007,Adeel Farooq,B007,Anum,February,Present,0.53,2.77,4,53,32,9,36.74,High,Low,1.12,Below Average,19:16.5,App Development
+S7008,Mahnoor Anwar,B007,Anum,February,Present,0.47,1.95,2,47,32,7,25.18,High,Low,0.68,Below Average,06:11.4,App Development
+S7009,Sana Qureshi,B007,Anum,February,Present,0.51,2.12,3,51,39,10,25.71,High,Low,0.87,Below Average,16:18.2,App Development
+S7010,Beenish Khalid,B007,Anum,February,Present,0.88,7.92,1,88,46,16,65.31,Low,High,3.35,Above Average,06:36.2,App Development
+S7011,Rizwan Ali,B007,Anum,February,Present,0.91,11.62,0,91,47,17,81.46,Low,High,3.5,Excellent,21:52.2,App Development
+S7012,Noman Yousaf,B007,Anum,February,Present,0.93,14.4,0,93,47,18,88.51,Low,High,3.82,Excellent,17:21.5,App Development
+S7013,Usman Iqbal,B007,Anum,February,Present,0.76,8.38,0,76,45,12,79.8,Low,High,3.23,Above Average,05:42.3,App Development
+S7014,Sara Malik,B007,Anum,February,Present,0.79,8.31,0,79,49,15,75.6,Low,High,3.25,Above Average,02:24.4,App Development
+S7015,Shehzad Aslam,B007,Anum,February,Late,0.56,3.55,4,56,30,9,31.69,High,Low,0.5,Below Average,19:14.4,App Development
+S7016,Beenish Arif,B007,Anum,February,Present,0.85,6.7,0,85,47,14,72.45,Low,High,3.04,Above Average,21:41.3,App Development
+S7017,Hira Khan,B007,Anum,February,Present,0.95,12.77,0,95,45,18,83.64,Low,High,3.57,Excellent,21:54.4,App Development
+S7018,Lubna Iqbal,B007,Anum,February,Late,0.94,18.53,0,94,50,20,97.78,Low,High,3.6,Excellent,10:04.2,App Development
+S7019,Furqan Iqbal,B007,Anum,February,Present,0.88,9.86,1,88,46,14,66.4,Low,High,3.07,Above Average,05:09.5,App Development
+S7020,Farhan Sheikh,B007,Anum,February,Late,0.42,3.76,4,42,31,6,21.87,High,Low,0.81,Below Average,11:35.4,App Development
+S7021,Rizwan Zafar,B007,Anum,February,Absent,0.93,19.56,0,93,46,17,88.81,Low,High,3.93,Excellent,16:22.2,App Development
+S7022,Rabia Tariq,B007,Anum,February,Present,0.62,5.64,2,62,43,10,40.17,Medium,Medium,2.79,Average,15:37.1,App Development
+S7023,Usama Khalid,B007,Anum,February,Present,0.48,2.75,4,48,32,8,32.18,High,Low,1.42,Below Average,01:23.5,App Development
+S7024,Anum Shahid,B007,Anum,February,Present,0.84,7.62,1,84,48,13,64.21,Low,High,2.91,Above Average,04:46.1,App Development
+S7025,Kamran Abbas,B007,Anum,February,Present,0.82,8.59,1,82,40,14,67.06,Low,High,3.37,Above Average,10:01.4,App Development
+S7026,Zara Sheikh,B007,Anum,February,Present,0.68,6.97,1,68,44,13,45.94,Medium,Medium,2.75,Average,09:02.6,App Development
+S7027,Mariam Javed,B007,Anum,February,Present,0.66,6.32,2,66,45,12,44.4,Medium,Medium,2.53,Average,08:49.4,App Development
+S7028,Rafia Noor,B007,Anum,February,Absent,0.96,11.98,0,96,45,16,99.48,Low,High,3.56,Excellent,08:05.4,App Development
+S7029,Laiba Aslam,B007,Anum,February,Present,0.63,4.52,2,63,45,14,54.8,Medium,Medium,2.22,Average,12:50.4,App Development
+S7030,Zainab Tariq,B007,Anum,February,Present,0.54,2.06,2,54,40,5,28.38,High,Low,1.67,Below Average,16:03.4,App Development
+S7001,Shazia Malik,B007,Anum,March,Present,0.47,1.29,3,47,31,5,34.75,High,Low,0.56,Below Average,18:56.8,App Development
+S7002,Faisal Qureshi,B007,Anum,March,Absent,0.49,1.68,3,49,33,5,31.63,High,Low,0.59,Below Average,20:24.6,App Development
+S7003,Imran Akhtar,B007,Anum,March,Present,0.93,19.76,0,93,48,17,87.31,Low,High,3.58,Excellent,13:49.0,App Development
+S7004,Junaid Khan,B007,Anum,March,Present,0.51,2.15,3,51,34,9,24.19,High,Low,1.01,Below Average,08:28.3,App Development
+S7005,Shahbaz Hussain,B007,Anum,March,Present,0.7,5.49,2,70,44,13,53.56,Medium,Medium,2.17,Average,08:39.2,App Development
+S7006,Fatima Noor,B007,Anum,March,Present,0.96,19.12,0,96,50,17,93.63,Low,High,3.61,Excellent,07:01.3,App Development
+S7007,Adeel Farooq,B007,Anum,March,Present,0.74,5.81,1,74,36,14,43.89,Medium,Medium,2.53,Average,15:37.1,App Development
+S7008,Mahnoor Anwar,B007,Anum,March,Present,0.99,19.85,0,99,49,18,94.2,Low,High,3.68,Excellent,03:35.3,App Development
+S7009,Sana Qureshi,B007,Anum,March,Late,0.58,2.08,2,58,31,9,24.06,High,Low,0.98,Below Average,11:12.4,App Development
+S7010,Beenish Khalid,B007,Anum,March,Late,0.95,19.94,0,95,48,15,80.4,Low,High,3.96,Excellent,16:35.3,App Development
+S7011,Rizwan Ali,B007,Anum,March,Present,0.96,16.26,0,96,48,16,98.84,Low,High,3.96,Excellent,19:53.4,App Development
+S7012,Noman Yousaf,B007,Anum,March,Absent,0.94,10.55,0,94,50,19,98.2,Low,High,3.73,Excellent,20:49.8,App Development
+S7013,Usman Iqbal,B007,Anum,March,Present,0.95,16.36,0,95,50,17,90.14,Low,High,3.92,Excellent,02:04.3,App Development
+S7014,Sara Malik,B007,Anum,March,Present,0.9,7.09,1,90,43,15,70.75,Low,High,3.26,Above Average,05:53.6,App Development
+S7015,Shehzad Aslam,B007,Anum,March,Late,0.77,8.73,0,77,48,14,65.51,Low,High,2.84,Above Average,13:13.4,App Development
+S7016,Beenish Arif,B007,Anum,March,Present,0.99,12.84,0,99,47,18,81.9,Low,High,3.83,Excellent,16:54.2,App Development
+S7017,Hira Khan,B007,Anum,March,Present,0.92,12.11,0,92,45,18,83.04,Low,High,3.65,Excellent,23:56.2,App Development
+S7018,Lubna Iqbal,B007,Anum,March,Late,0.43,2.91,2,43,34,5,20.3,High,Low,1.4,Below Average,21:59.8,App Development
+S7019,Furqan Iqbal,B007,Anum,March,Present,0.98,14.66,0,98,48,15,87.85,Low,High,3.66,Excellent,03:54.4,App Development
+S7020,Farhan Sheikh,B007,Anum,March,Late,0.62,5.65,1,62,40,12,42.08,Medium,Medium,2.44,Average,18:12.3,App Development
+S7021,Rizwan Zafar,B007,Anum,March,Present,0.9,11.83,0,90,48,15,86.76,Low,High,3.65,Excellent,14:25.4,App Development
+S7022,Rabia Tariq,B007,Anum,March,Present,0.91,15.37,0,91,49,19,92.6,Low,High,3.63,Excellent,19:16.5,App Development
+S7023,Usama Khalid,B007,Anum,March,Present,0.57,1.54,3,57,32,10,36.85,High,Low,0.56,Below Average,15:53.5,App Development
+S7024,Anum Shahid,B007,Anum,March,Present,0.46,2.28,3,46,30,8,31.85,High,Low,1.9,Below Average,02:53.4,App Development
+S7025,Kamran Abbas,B007,Anum,March,Present,0.57,1.71,3,57,36,9,34.93,High,Low,1.56,Below Average,09:18.4,App Development
+S7026,Zara Sheikh,B007,Anum,March,Present,0.68,5.52,2,68,40,13,57.01,Medium,Medium,2.18,Average,13:59.2,App Development
+S7027,Mariam Javed,B007,Anum,March,Present,0.49,3.55,4,49,31,7,36.48,High,Low,0.74,Below Average,09:06.7,App Development
+S7028,Rafia Noor,B007,Anum,March,Present,0.49,1.14,2,49,35,5,22.28,High,Low,0.81,Below Average,05:42.3,App Development
+S7029,Laiba Aslam,B007,Anum,March,Present,0.84,6.93,1,84,40,15,72.67,Low,High,3.24,Above Average,10:25.4,App Development
+S7030,Zainab Tariq,B007,Anum,March,Present,0.6,2.76,3,60,37,9,34.62,High,Low,1.72,Below Average,11:26.4,App Development
+S8001,Aqsa Siddiqui,B008,Yusra,January,Late,0.42,3.02,3,42,30,9,39.04,High,Low,0.99,Below Average,12:38.6,MERN Stack
+S8002,Rizwan Ali,B008,Yusra,January,Present,0.52,1.79,3,52,33,10,33.59,High,Low,1.42,Below Average,11:35.5,MERN Stack
+S8003,Hassan Raza,B008,Yusra,January,Present,0.98,12.85,0,98,45,19,83.22,Low,High,3.89,Excellent,03:47.7,MERN Stack
+S8004,Shahbaz Khan,B008,Yusra,January,Present,0.91,12.5,0,91,48,19,89.92,Low,High,3.75,Excellent,21:12.2,MERN Stack
+S8005,Shehzad Aslam,B008,Yusra,January,Present,0.47,3.64,3,47,35,8,36.68,High,Low,1.91,Below Average,22:00.4,MERN Stack
+S8006,Waleed Arif,B008,Yusra,January,Present,0.82,9.56,1,82,44,16,62.19,Low,High,3.45,Above Average,18:58.5,MERN Stack
+S8007,Kashif Raza,B008,Yusra,January,Late,0.57,2.42,4,57,39,6,37.5,High,Low,1.77,Below Average,19:57.3,MERN Stack
+S8008,Farhan Sheikh,B008,Yusra,January,Present,0.59,2.45,3,59,38,5,36.52,High,Low,1.93,Below Average,09:11.5,MERN Stack
+S8009,Beenish Arif,B008,Yusra,January,Present,0.82,6.01,0,82,45,16,69.19,Low,High,3.41,Above Average,17:51.3,MERN Stack
+S8010,Rehan Ali,B008,Yusra,January,Present,0.91,11.97,0,91,45,17,91.73,Low,High,3.54,Excellent,05:20.5,MERN Stack
+S8011,Rafia Noor,B008,Yusra,January,Present,0.63,5.26,1,63,39,12,52.17,Medium,Medium,2.71,Average,00:41.1,MERN Stack
+S8012,Anum Shahid,B008,Yusra,January,Present,0.91,14.82,0,91,47,18,94.09,Low,High,3.8,Excellent,12:25.5,MERN Stack
+S8013,Shahbaz Hussain,B008,Yusra,January,Present,0.99,18.23,0,99,50,15,98.45,Low,High,3.56,Excellent,08:15.4,MERN Stack
+S8014,Madiha Saeed,B008,Yusra,January,Absent,0.44,2.06,3,44,36,5,33.73,High,Low,1.68,Below Average,05:20.5,MERN Stack
+S8015,Hamza Tariq,B008,Yusra,January,Present,0.44,3.21,4,44,30,9,38.17,High,Low,1.25,Below Average,18:45.6,MERN Stack
+S8016,Ayesha Siddiqui,B008,Yusra,January,Present,0.41,2.02,3,41,31,7,23.05,High,Low,1.98,Below Average,02:36.4,MERN Stack
+S8017,Sehrish Khan,B008,Yusra,January,Late,0.91,16.05,0,91,47,19,91.42,Low,High,3.79,Excellent,13:59.2,MERN Stack
+S8018,Zainab Khalid,B008,Yusra,January,Present,0.91,19.05,0,91,50,20,82.48,Low,High,3.61,Excellent,01:54.1,MERN Stack
+S8019,Nadia Saleem,B008,Yusra,January,Present,0.99,14.52,0,99,46,16,95.75,Low,High,3.57,Excellent,16:27.1,MERN Stack
+S8020,Faisal Qureshi,B008,Yusra,January,Present,0.88,8.62,0,88,43,13,62.32,Low,High,3.36,Above Average,04:38.1,MERN Stack
+S8021,Salman Tariq,B008,Yusra,January,Present,0.47,1.02,3,47,39,5,29.79,High,Low,1.36,Below Average,23:47.2,MERN Stack
+S8022,Rabia Tariq,B008,Yusra,January,Present,0.42,2.06,2,42,40,6,29.31,High,Low,0.55,Below Average,00:57.3,MERN Stack
+S8023,Furqan Iqbal,B008,Yusra,January,Absent,0.41,1.86,4,41,35,5,28.61,High,Low,1.84,Below Average,08:08.0,MERN Stack
+S8024,Salman Ahmed,B008,Yusra,January,Present,0.86,9.99,1,86,45,13,61.49,Low,High,3.3,Above Average,17:17.5,MERN Stack
+S8025,Usman Iqbal,B008,Yusra,January,Present,0.93,10.45,0,93,49,15,96.91,Low,High,3.83,Excellent,22:43.5,MERN Stack
+S8026,Zainab Tariq,B008,Yusra,January,Late,0.97,17.58,0,97,46,17,94.49,Low,High,3.99,Excellent,18:13.9,MERN Stack
+S8027,Adeel Farooq,B008,Yusra,January,Late,0.81,7.13,0,81,47,12,76.14,Low,High,3.08,Above Average,23:38.6,MERN Stack
+S8028,Mariam Javed,B008,Yusra,January,Late,0.88,7.59,0,88,50,16,78.24,Low,High,2.94,Above Average,02:05.1,MERN Stack
+S8029,Usama Khalid,B008,Yusra,January,Present,0.78,9.66,0,78,47,15,78.89,Low,High,3.33,Above Average,18:03.4,MERN Stack
+S8030,Taimoor Khalid,B008,Yusra,January,Absent,0.94,19.94,0,94,46,17,88.37,Low,High,3.72,Excellent,08:52.2,MERN Stack
+S8001,Aqsa Siddiqui,B008,Yusra,February,Present,0.94,10.86,0,94,47,15,99.08,Low,High,3.64,Excellent,13:51.5,MERN Stack
+S8002,Rizwan Ali,B008,Yusra,February,Present,0.98,18.79,0,98,50,16,89.42,Low,High,3.65,Excellent,09:31.3,MERN Stack
+S8003,Hassan Raza,B008,Yusra,February,Present,0.75,7.61,1,75,42,12,60.52,Low,High,3.08,Above Average,13:59.3,MERN Stack
+S8004,Shahbaz Khan,B008,Yusra,February,Present,0.53,2.74,2,53,33,6,29.08,High,Low,0.68,Below Average,09:35.0,MERN Stack
+S8005,Shehzad Aslam,B008,Yusra,February,Present,0.91,14.23,0,91,47,17,89.32,Low,High,3.56,Excellent,17:29.2,MERN Stack
+S8006,Waleed Arif,B008,Yusra,February,Present,0.57,2.63,4,57,36,7,39.22,High,Low,1.19,Below Average,10:59.3,MERN Stack
+S8007,Kashif Raza,B008,Yusra,February,Absent,0.98,17.5,0,98,47,20,98.12,Low,High,3.92,Excellent,16:30.4,MERN Stack
+S8008,Farhan Sheikh,B008,Yusra,February,Present,0.86,7.93,0,86,42,14,73.86,Low,High,2.96,Above Average,17:20.4,MERN Stack
+S8009,Beenish Arif,B008,Yusra,February,Present,0.91,18.22,0,91,46,17,91.1,Low,High,3.74,Excellent,16:49.4,MERN Stack
+S8010,Rehan Ali,B008,Yusra,February,Present,0.91,11.93,0,91,47,18,98.37,Low,High,3.85,Excellent,00:30.3,MERN Stack
+S8011,Rafia Noor,B008,Yusra,February,Present,0.48,3.55,4,48,33,10,27.64,High,Low,1.21,Below Average,00:19.3,MERN Stack
+S8012,Anum Shahid,B008,Yusra,February,Present,0.97,19.83,0,97,48,17,93.84,Low,High,3.8,Excellent,02:20.6,MERN Stack
+S8013,Shahbaz Hussain,B008,Yusra,February,Late,0.87,6.01,1,87,40,15,68.67,Low,High,3.39,Above Average,19:50.4,MERN Stack
+S8014,Madiha Saeed,B008,Yusra,February,Late,0.55,1.59,2,55,39,7,24.13,High,Low,1.37,Below Average,08:34.3,MERN Stack
+S8015,Hamza Tariq,B008,Yusra,February,Present,0.76,7.51,1,76,43,16,66.8,Low,High,3.16,Above Average,06:50.8,MERN Stack
+S8016,Ayesha Siddiqui,B008,Yusra,February,Present,0.87,6.37,0,87,49,12,75.53,Low,High,3.47,Above Average,06:07.4,MERN Stack
+S8017,Sehrish Khan,B008,Yusra,February,Present,0.91,18.03,0,91,45,19,99.19,Low,High,3.55,Excellent,22:57.5,MERN Stack
+S8018,Zainab Khalid,B008,Yusra,February,Absent,0.74,6.38,2,74,39,14,47.97,Medium,Medium,2.56,Average,16:54.1,MERN Stack
+S8019,Nadia Saleem,B008,Yusra,February,Late,0.51,3.53,2,51,39,10,29.93,High,Low,1.23,Below Average,19:27.3,MERN Stack
+S8020,Faisal Qureshi,B008,Yusra,February,Late,0.58,2.76,4,58,37,9,22.11,High,Low,0.89,Below Average,06:52.4,MERN Stack
+S8021,Salman Tariq,B008,Yusra,February,Present,0.91,11.47,0,91,49,16,82.95,Low,High,3.54,Excellent,00:47.4,MERN Stack
+S8022,Rabia Tariq,B008,Yusra,February,Present,0.98,19.52,0,98,49,20,85.97,Low,High,3.68,Excellent,09:42.6,MERN Stack
+S8023,Furqan Iqbal,B008,Yusra,February,Absent,0.64,5.78,1,64,43,13,47.34,Medium,Medium,2.24,Average,18:11.4,MERN Stack
+S8024,Salman Ahmed,B008,Yusra,February,Absent,0.92,17.9,0,92,45,19,81.74,Low,High,3.8,Excellent,01:55.4,MERN Stack
+S8025,Usman Iqbal,B008,Yusra,February,Present,0.73,5.95,1,73,41,14,51.02,Medium,Medium,2.49,Average,13:59.2,MERN Stack
+S8026,Zainab Tariq,B008,Yusra,February,Present,0.78,7.01,1,78,48,12,73.42,Low,High,3.43,Above Average,14:10.5,MERN Stack
+S8027,Adeel Farooq,B008,Yusra,February,Present,0.62,5.43,2,62,38,10,41.7,Medium,Medium,2.47,Average,16:54.2,MERN Stack
+S8028,Mariam Javed,B008,Yusra,February,Present,0.95,10.26,0,95,45,20,97.91,Low,High,3.54,Excellent,07:31.6,MERN Stack
+S8029,Usama Khalid,B008,Yusra,February,Late,0.93,10.78,0,93,46,20,87.94,Low,High,3.72,Excellent,08:44.4,MERN Stack
+S8030,Taimoor Khalid,B008,Yusra,February,Late,0.54,3.2,4,54,36,6,20.62,High,Low,0.59,Below Average,15:30.2,MERN Stack
+S8001,Aqsa Siddiqui,B008,Yusra,March,Present,0.44,3.68,4,44,32,10,36.95,High,Low,1.44,Below Average,06:51.4,MERN Stack
+S8002,Rizwan Ali,B008,Yusra,March,Present,0.62,4.86,2,62,36,11,51.61,Medium,Medium,2.69,Average,12:13.9,MERN Stack
+S8003,Hassan Raza,B008,Yusra,March,Present,0.6,2.63,4,60,37,6,26.73,High,Low,1.14,Below Average,20:40.0,MERN Stack
+S8004,Shahbaz Khan,B008,Yusra,March,Present,0.65,4.77,2,65,41,11,54.66,Medium,Medium,2.31,Average,23:23.5,MERN Stack
+S8005,Shehzad Aslam,B008,Yusra,March,Late,0.82,8.05,0,82,50,13,74.96,Low,High,3.04,Above Average,13:31.8,MERN Stack
+S8006,Waleed Arif,B008,Yusra,March,Present,0.74,4.67,2,74,41,14,48.37,Medium,Medium,2.45,Average,22:22.3,MERN Stack
+S8007,Kashif Raza,B008,Yusra,March,Late,0.93,16.62,0,93,46,15,80.3,Low,High,3.81,Excellent,17:57.3,MERN Stack
+S8008,Farhan Sheikh,B008,Yusra,March,Present,0.6,1.9,2,60,37,10,25.92,High,Low,1.98,Below Average,12:37.1,MERN Stack
+S8009,Beenish Arif,B008,Yusra,March,Present,0.59,2.88,3,59,31,5,38.07,High,Low,1.29,Below Average,22:28.6,MERN Stack
+S8010,Rehan Ali,B008,Yusra,March,Present,0.8,9.03,0,80,46,14,61.82,Low,High,2.82,Above Average,06:10.1,MERN Stack
+S8011,Rafia Noor,B008,Yusra,March,Present,0.49,2.05,2,49,33,7,34.68,High,Low,1.46,Below Average,18:35.3,MERN Stack
+S8012,Anum Shahid,B008,Yusra,March,Present,0.45,3.55,4,45,38,9,39.72,High,Low,0.82,Below Average,13:37.2,MERN Stack
+S8013,Shahbaz Hussain,B008,Yusra,March,Present,0.76,9.13,1,76,49,16,66.32,Low,High,2.98,Above Average,00:00.4,MERN Stack
+S8014,Madiha Saeed,B008,Yusra,March,Present,0.85,7.16,0,85,42,12,76.48,Low,High,3.25,Above Average,08:10.5,MERN Stack
+S8015,Hamza Tariq,B008,Yusra,March,Present,0.99,16.01,0,99,45,18,83.49,Low,High,3.9,Excellent,19:46.5,MERN Stack
+S8016,Ayesha Siddiqui,B008,Yusra,March,Present,0.91,18.21,0,91,47,20,89.61,Low,High,3.57,Excellent,03:47.7,MERN Stack
+S8017,Sehrish Khan,B008,Yusra,March,Late,0.64,6.22,2,64,39,13,50.5,Medium,Medium,2.55,Average,05:23.2,MERN Stack
+S8018,Zainab Khalid,B008,Yusra,March,Absent,0.97,18.72,0,97,48,18,95.1,Low,High,3.69,Excellent,17:13.4,MERN Stack
+S8019,Nadia Saleem,B008,Yusra,March,Present,0.46,2.53,2,46,30,8,39.2,High,Low,1.36,Below Average,21:21.2,MERN Stack
+S8020,Faisal Qureshi,B008,Yusra,March,Present,0.96,13.32,0,96,48,18,93.19,Low,High,3.54,Excellent,03:29.4,MERN Stack
+S8021,Salman Tariq,B008,Yusra,March,Present,0.96,19.85,0,96,47,17,82.17,Low,High,3.76,Excellent,22:20.3,MERN Stack
+S8022,Rabia Tariq,B008,Yusra,March,Late,0.53,1.39,2,53,31,10,23.12,High,Low,0.9,Below Average,19:49.4,MERN Stack
+S8023,Furqan Iqbal,B008,Yusra,March,Present,0.9,14.7,0,90,48,19,95.22,Low,High,3.88,Excellent,21:02.3,MERN Stack
+S8024,Salman Ahmed,B008,Yusra,March,Present,0.63,5.84,2,63,35,14,47.35,Medium,Medium,2.54,Average,03:54.4,MERN Stack
+S8025,Usman Iqbal,B008,Yusra,March,Present,0.99,16,0,99,47,17,95.95,Low,High,3.88,Excellent,09:31.5,MERN Stack
+S8026,Zainab Tariq,B008,Yusra,March,Late,0.93,12.62,0,93,47,18,97.58,Low,High,3.67,Excellent,20:23.4,MERN Stack
+S8027,Adeel Farooq,B008,Yusra,March,Absent,0.65,4.92,1,65,36,11,42.42,Medium,Medium,2.66,Average,00:27.4,MERN Stack
+S8028,Mariam Javed,B008,Yusra,March,Present,0.95,18.27,0,95,49,17,96.92,Low,High,3.87,Excellent,02:18.5,MERN Stack
+S8029,Usama Khalid,B008,Yusra,March,Late,0.93,14.27,0,93,49,18,83.17,Low,High,3.98,Excellent,09:43.5,MERN Stack
+S8030,Taimoor Khalid,B008,Yusra,March,Present,0.96,19.96,0,96,47,17,91.31,Low,High,3.57,Excellent,13:05.3,MERN Stack
+S9001,Farhan Sheikh,B009,Adeel,January,Present,0.48,2.67,2,48,33,6,28.97,High,Low,1.91,Below Average,22:32.9,Generative AI
+S9002,Huma Yousaf,B009,Adeel,January,Absent,0.95,11.8,0,95,45,15,83.06,Low,High,3.96,Excellent,10:14.2,Generative AI
+S9003,Adeel Farooq,B009,Adeel,January,Late,0.96,19.72,0,96,48,15,86.22,Low,High,3.84,Excellent,23:51.3,Generative AI
+S9004,Shazia Malik,B009,Adeel,January,Present,0.43,2.11,4,43,38,9,24.72,High,Low,0.95,Below Average,01:00.4,Generative AI
+S9005,Zainab Khalid,B009,Adeel,January,Absent,0.71,5.45,2,71,40,12,53.46,Medium,Medium,2.37,Average,03:22.3,Generative AI
+S9006,Faisal Qureshi,B009,Adeel,January,Late,0.55,2.83,2,55,32,5,20.34,High,Low,1.89,Below Average,15:08.4,Generative AI
+S9007,Hira Khan,B009,Adeel,January,Present,0.88,9.58,0,88,43,14,60.8,Low,High,2.91,Above Average,18:46.6,Generative AI
+S9008,Mehwish Anwar,B009,Adeel,January,Late,0.94,10.31,0,94,50,16,85.76,Low,High,3.82,Excellent,16:55.5,Generative AI
+S9009,Salman Tariq,B009,Adeel,January,Present,0.59,1.81,2,59,37,7,35.6,High,Low,1.6,Below Average,22:09.3,Generative AI
+S9010,Sana Qureshi,B009,Adeel,January,Present,0.96,11.47,0,96,49,18,97.92,Low,High,3.67,Excellent,17:45.2,Generative AI
+S9011,Usama Khalid,B009,Adeel,January,Late,0.52,3.21,4,52,34,10,23.6,High,Low,1.29,Below Average,23:03.7,Generative AI
+S9012,Waleed Arif,B009,Adeel,January,Present,0.66,4.56,2,66,38,10,57.72,Medium,Medium,2.11,Average,09:18.4,Generative AI
+S9013,Imran Akhtar,B009,Adeel,January,Present,0.97,12.98,0,97,49,16,99.81,Low,High,3.52,Excellent,00:57.4,Generative AI
+S9014,Sara Malik,B009,Adeel,January,Present,0.57,1.82,4,57,39,7,37.66,High,Low,0.81,Below Average,15:21.4,Generative AI
+S9015,Kamran Abbas,B009,Adeel,January,Late,0.73,5.56,2,73,42,11,55.87,Medium,Medium,2.23,Average,12:50.1,Generative AI
+S9016,Anum Shahid,B009,Adeel,January,Late,0.88,8.42,0,88,48,13,73.94,Low,High,3.16,Above Average,09:07.1,Generative AI
+S9017,Imran Khan,B009,Adeel,January,Present,0.95,14.05,0,95,48,15,87.61,Low,High,3.77,Excellent,04:32.9,Generative AI
+S9018,Bilal Hussain,B009,Adeel,January,Present,0.83,6.83,1,83,46,14,68.92,Low,High,2.95,Above Average,21:21.2,Generative AI
+S9019,Anum Raza,B009,Adeel,January,Late,0.99,11.02,0,99,48,15,95.26,Low,High,3.7,Excellent,15:05.2,Generative AI
+S9020,Adil Ahmed,B009,Adeel,January,Present,0.74,6.62,2,74,43,13,54.87,Medium,Medium,2.41,Average,23:42.5,Generative AI
+S9021,Shehzad Aslam,B009,Adeel,January,Present,0.52,3.66,2,52,32,9,24.48,High,Low,1.99,Below Average,00:29.6,Generative AI
+S9022,Zainab Tariq,B009,Adeel,January,Present,0.68,5.48,1,68,41,11,55.41,Medium,Medium,2.27,Average,03:14.3,Generative AI
+S9023,Junaid Khan,B009,Adeel,January,Late,0.44,1.12,2,44,37,10,27.98,High,Low,1.39,Below Average,23:00.1,Generative AI
+S9024,Hira Rasheed,B009,Adeel,January,Absent,0.59,2.81,3,59,32,9,30.78,High,Low,0.89,Below Average,17:17.5,Generative AI
+S9025,Furqan Iqbal,B009,Adeel,January,Present,0.95,19.47,0,95,50,18,97.27,Low,High,3.58,Excellent,09:12.3,Generative AI
+S9026,Ayesha Siddiqui,B009,Adeel,January,Present,0.97,13.32,0,97,50,19,94.91,Low,High,3.96,Excellent,09:45.3,Generative AI
+S9027,Rabia Tariq,B009,Adeel,January,Late,0.91,17.99,0,91,49,18,92.05,Low,High,3.92,Excellent,04:39.6,Generative AI
+S9028,Rehan Ali,B009,Adeel,January,Late,0.86,8.35,0,86,50,13,69.06,Low,High,3.5,Above Average,13:31.4,Generative AI
+S9029,Noman Yousaf,B009,Adeel,January,Present,0.99,11.38,0,99,49,17,84.96,Low,High,3.6,Excellent,12:36.5,Generative AI
+S9030,Hassan Raza,B009,Adeel,January,Present,0.94,14.22,0,94,46,19,99.5,Low,High,3.79,Excellent,19:07.3,Generative AI
+S9001,Farhan Sheikh,B009,Adeel,February,Late,0.44,3.22,3,44,30,10,24.79,High,Low,0.65,Below Average,07:59.2,Generative AI
+S9002,Huma Yousaf,B009,Adeel,February,Late,0.93,13.74,0,93,47,16,84.09,Low,High,3.78,Excellent,00:58.3,Generative AI
+S9003,Adeel Farooq,B009,Adeel,February,Present,0.99,12.85,0,99,45,19,95.89,Low,High,3.76,Excellent,23:47.2,Generative AI
+S9004,Shazia Malik,B009,Adeel,February,Late,0.9,18.23,0,90,48,19,89.36,Low,High,3.63,Excellent,06:56.2,Generative AI
+S9005,Zainab Khalid,B009,Adeel,February,Present,0.58,3.76,3,58,34,9,28.55,High,Low,0.52,Below Average,06:39.4,Generative AI
+S9006,Faisal Qureshi,B009,Adeel,February,Present,0.89,6.54,0,89,45,12,60.55,Low,High,2.95,Above Average,10:01.4,Generative AI
+S9007,Hira Khan,B009,Adeel,February,Present,0.5,2.48,3,50,34,8,31.49,High,Low,1.61,Below Average,19:16.5,Generative AI
+S9008,Mehwish Anwar,B009,Adeel,February,Present,0.56,3.25,2,56,36,9,35.12,High,Low,1.65,Below Average,06:11.4,Generative AI
+S9009,Salman Tariq,B009,Adeel,February,Present,0.54,3.42,2,54,33,5,36.93,High,Low,1.74,Below Average,16:18.2,Generative AI
+S9010,Sana Qureshi,B009,Adeel,February,Present,0.59,3.41,4,59,32,7,37.52,High,Low,1.86,Below Average,06:36.2,Generative AI
+S9011,Usama Khalid,B009,Adeel,February,Present,0.97,14.7,0,97,46,16,92.32,Low,High,3.78,Excellent,21:52.2,Generative AI
+S9012,Waleed Arif,B009,Adeel,February,Late,0.59,3.71,4,59,31,6,24.44,High,Low,1.93,Below Average,17:21.5,Generative AI
+S9013,Imran Akhtar,B009,Adeel,February,Present,0.98,15.59,0,98,45,17,98.89,Low,High,3.64,Excellent,05:42.3,Generative AI
+S9014,Sara Malik,B009,Adeel,February,Late,0.97,14.75,0,97,50,18,95.68,Low,High,3.61,Excellent,02:24.4,Generative AI
+S9015,Kamran Abbas,B009,Adeel,February,Present,0.45,3.89,2,45,31,5,34.18,High,Low,1.61,Below Average,19:14.4,Generative AI
+S9016,Anum Shahid,B009,Adeel,February,Present,0.95,12.66,0,95,47,18,88.91,Low,High,3.97,Excellent,21:41.3,Generative AI
+S9017,Imran Khan,B009,Adeel,February,Present,0.98,17.63,0,98,45,20,86.16,Low,High,3.97,Excellent,21:54.4,Generative AI
+S9018,Bilal Hussain,B009,Adeel,February,Present,0.94,16.86,0,94,49,19,99.92,Low,High,3.97,Excellent,10:04.2,Generative AI
+S9019,Anum Raza,B009,Adeel,February,Present,0.98,15.76,0,98,46,18,95.67,Low,High,3.78,Excellent,05:09.5,Generative AI
+S9020,Adil Ahmed,B009,Adeel,February,Present,0.43,1.7,4,43,39,8,21.36,High,Low,1.04,Below Average,11:35.4,Generative AI
+S9021,Shehzad Aslam,B009,Adeel,February,Present,0.93,13.4,0,93,47,15,87.93,Low,High,3.66,Excellent,16:22.2,Generative AI
+S9022,Zainab Tariq,B009,Adeel,February,Present,0.66,4.2,2,66,37,10,56.08,Medium,Medium,2.73,Average,15:37.1,Generative AI
+S9023,Junaid Khan,B009,Adeel,February,Present,0.95,17.97,0,95,49,19,85.68,Low,High,3.78,Excellent,01:23.5,Generative AI
+S9024,Hira Rasheed,B009,Adeel,February,Late,0.6,6.93,2,60,39,10,40.62,Medium,Medium,2.73,Average,04:46.1,Generative AI
+S9025,Furqan Iqbal,B009,Adeel,February,Present,0.94,11.28,0,94,50,15,98.44,Low,High,3.99,Excellent,10:01.4,Generative AI
+S9026,Ayesha Siddiqui,B009,Adeel,February,Late,0.69,4.09,1,69,44,13,47.99,Medium,Medium,2.02,Average,09:02.6,Generative AI
+S9027,Rabia Tariq,B009,Adeel,February,Present,0.84,7.59,1,84,43,12,78.58,Low,High,3.04,Above Average,08:49.4,Generative AI
+S9028,Rehan Ali,B009,Adeel,February,Present,0.42,1.67,2,42,39,7,35.69,High,Low,1.17,Below Average,08:05.4,Generative AI
+S9029,Noman Yousaf,B009,Adeel,February,Present,0.79,9.22,1,79,48,14,75.48,Low,High,3.47,Above Average,12:50.4,Generative AI
+S9030,Hassan Raza,B009,Adeel,February,Present,0.86,6.02,0,86,49,16,75.68,Low,High,3.34,Above Average,16:03.4,Generative AI
+S9001,Farhan Sheikh,B009,Adeel,March,Present,0.99,10.97,0,99,47,18,99.52,Low,High,3.78,Excellent,18:56.8,Generative AI
+S9002,Huma Yousaf,B009,Adeel,March,Present,0.89,7.06,1,89,40,16,79.37,Low,High,2.92,Above Average,20:24.6,Generative AI
+S9003,Adeel Farooq,B009,Adeel,March,Late,0.95,16.71,0,95,50,19,94.82,Low,High,3.98,Excellent,13:49.0,Generative AI
+S9004,Shazia Malik,B009,Adeel,March,Present,0.76,6.17,1,76,45,15,79.61,Low,High,2.97,Above Average,08:28.3,Generative AI
+S9005,Zainab Khalid,B009,Adeel,March,Present,0.77,7.9,1,77,47,16,73.28,Low,High,3.11,Above Average,08:39.2,Generative AI
+S9006,Faisal Qureshi,B009,Adeel,March,Present,0.74,5.08,1,74,37,12,55.38,Medium,Medium,2.32,Average,07:01.3,Generative AI
+S9007,Hira Khan,B009,Adeel,March,Present,0.98,16.05,0,98,49,18,86.71,Low,High,3.66,Excellent,15:37.1,Generative AI
+S9008,Mehwish Anwar,B009,Adeel,March,Present,0.78,7.1,1,78,42,13,62.83,Low,High,3.06,Above Average,03:35.3,Generative AI
+S9009,Salman Tariq,B009,Adeel,March,Absent,0.64,5.79,2,64,44,14,46.6,Medium,Medium,2.4,Average,11:12.4,Generative AI
+S9010,Sana Qureshi,B009,Adeel,March,Late,0.73,5.91,1,73,36,13,51.05,Medium,Medium,2.72,Average,16:35.3,Generative AI
+S9011,Usama Khalid,B009,Adeel,March,Present,0.55,2.04,3,55,34,5,30,High,Low,1.98,Below Average,19:53.4,Generative AI
+S9012,Waleed Arif,B009,Adeel,March,Present,0.43,3.21,3,43,31,5,31.56,High,Low,1.99,Below Average,20:49.8,Generative AI
+S9013,Imran Akhtar,B009,Adeel,March,Present,0.42,2.05,3,42,40,10,27.61,High,Low,0.76,Below Average,02:04.3,Generative AI
+S9014,Sara Malik,B009,Adeel,March,Present,1,18.81,0,100,49,18,84.07,Low,High,3.87,Excellent,05:53.6,Generative AI
+S9015,Kamran Abbas,B009,Adeel,March,Present,0.46,1.45,3,46,32,7,28.7,High,Low,0.83,Below Average,13:13.4,Generative AI
+S9016,Anum Shahid,B009,Adeel,March,Present,0.99,16.08,0,99,47,17,92.13,Low,High,3.98,Excellent,16:54.2,Generative AI
+S9017,Imran Khan,B009,Adeel,March,Present,0.57,3.79,2,57,30,9,32.83,High,Low,0.56,Below Average,23:56.2,Generative AI
+S9018,Bilal Hussain,B009,Adeel,March,Present,0.77,9.33,1,77,50,15,65.12,Low,High,3.1,Above Average,21:59.8,Generative AI
+S9019,Anum Raza,B009,Adeel,March,Late,0.63,5.69,2,63,40,12,52,Medium,Medium,2.2,Average,03:54.4,Generative AI
+S9020,Adil Ahmed,B009,Adeel,March,Present,0.97,12.88,0,97,45,20,87.92,Low,High,3.71,Excellent,18:12.3,Generative AI
+S9021,Shehzad Aslam,B009,Adeel,March,Present,0.89,6.51,0,89,46,14,70.28,Low,High,3.12,Above Average,14:25.4,Generative AI
+S9022,Zainab Tariq,B009,Adeel,March,Present,0.51,2.45,3,51,40,10,30.52,High,Low,0.75,Below Average,19:16.5,Generative AI
+S9023,Junaid Khan,B009,Adeel,March,Present,0.91,11.27,0,91,47,19,93.96,Low,High,3.89,Excellent,15:53.5,Generative AI
+S9024,Hira Rasheed,B009,Adeel,March,Present,0.7,4.83,2,70,40,10,43.33,Medium,Medium,2.6,Average,02:53.4,Generative AI
+S9025,Furqan Iqbal,B009,Adeel,March,Late,0.45,2.09,2,45,32,10,32.5,High,Low,0.73,Below Average,09:18.4,Generative AI
+S9026,Ayesha Siddiqui,B009,Adeel,March,Present,0.8,6.61,1,80,40,12,74.28,Low,High,2.81,Above Average,13:59.2,Generative AI
+S9027,Rabia Tariq,B009,Adeel,March,Present,0.84,6.69,0,84,46,16,64.25,Low,High,3.04,Above Average,09:06.7,Generative AI
+S9028,Rehan Ali,B009,Adeel,March,Present,0.42,1.07,3,42,40,5,30.63,High,Low,1.45,Below Average,05:42.3,Generative AI
+S9029,Noman Yousaf,B009,Adeel,March,Present,0.97,11.2,0,97,47,16,86.12,Low,High,3.63,Excellent,10:25.4,Generative AI
+S9030,Hassan Raza,B009,Adeel,March,Present,0.5,2.31,4,50,36,6,33.22,High,Low,0.72,Below Average,11:26.4,Generative AI
+S10001,Salman Ahmed,B010,Farhan,January,Present,0.5,3.8,3,50,37,5,30.63,High,Low,0.88,Below Average,12:38.6,Graphic Designing
+S10002,Nouman Haider,B010,Farhan,January,Present,0.72,4.74,2,72,41,10,48.73,Medium,Medium,2.02,Average,11:35.5,Graphic Designing
+S10003,Iqra Javed,B010,Farhan,January,Present,0.6,1.49,4,60,36,5,32.21,High,Low,1.27,Below Average,03:47.7,Graphic Designing
+S10004,Shahbaz Khan,B010,Farhan,January,Present,0.5,3.26,2,50,32,9,29.57,High,Low,1.91,Below Average,21:12.2,Graphic Designing
+S10005,Anum Shahid,B010,Farhan,January,Late,0.72,4.72,1,72,44,10,48.28,Medium,Medium,2.48,Average,22:00.4,Graphic Designing
+S10006,Sara Malik,B010,Farhan,January,Late,0.59,1.23,3,59,32,6,38.58,High,Low,1.63,Below Average,18:58.5,Graphic Designing
+S10007,Ayesha Siddiqui,B010,Farhan,January,Present,0.47,3.06,3,47,35,9,22.31,High,Low,1.61,Below Average,19:57.3,Graphic Designing
+S10008,Shahbaz Hussain,B010,Farhan,January,Present,0.71,5.01,2,71,35,12,48.65,Medium,Medium,2.04,Average,09:11.5,Graphic Designing
+S10009,Mahnoor Anwar,B010,Farhan,January,Late,0.58,3.33,4,58,33,7,24.17,High,Low,0.74,Below Average,17:51.3,Graphic Designing
+S10010,Tanveer Abbas,B010,Farhan,January,Present,0.93,14.44,0,93,45,17,83.56,Low,High,3.59,Excellent,05:20.5,Graphic Designing
+S10011,Sehrish Khan,B010,Farhan,January,Present,0.54,1.68,2,54,33,5,20.34,High,Low,1.5,Below Average,00:41.1,Graphic Designing
+S10012,Faisal Qureshi,B010,Farhan,January,Late,0.49,3.96,2,49,39,6,27.29,High,Low,1.3,Below Average,12:25.5,Graphic Designing
+S10013,Huma Yousaf,B010,Farhan,January,Present,0.84,7.5,1,84,45,16,63.92,Low,High,3.43,Above Average,08:15.4,Graphic Designing
+S10014,Usman Iqbal,B010,Farhan,January,Present,0.98,12.64,0,98,46,19,82.25,Low,High,3.84,Excellent,05:20.5,Graphic Designing
+S10015,Noman Yousaf,B010,Farhan,January,Present,0.76,7.88,0,76,50,14,64.62,Low,High,3.44,Above Average,18:45.6,Graphic Designing
+S10016,Kamran Abbas,B010,Farhan,January,Present,0.95,12.71,0,95,49,20,99.36,Low,High,3.89,Excellent,02:36.4,Graphic Designing
+S10017,Nadia Shah,B010,Farhan,January,Absent,0.95,19.62,0,95,45,20,99.71,Low,High,3.69,Excellent,13:59.2,Graphic Designing
+S10018,Kashif Raza,B010,Farhan,January,Present,0.82,8.47,0,82,42,13,64.29,Low,High,3.03,Above Average,01:54.1,Graphic Designing
+S10019,Adil Ahmed,B010,Farhan,January,Present,0.64,6.59,2,64,39,12,48.99,Medium,Medium,2.47,Average,16:27.1,Graphic Designing
+S10020,Beenish Arif,B010,Farhan,January,Late,0.78,6.69,0,78,48,12,67.69,Low,High,2.83,Above Average,04:38.1,Graphic Designing
+S10021,Lubna Iqbal,B010,Farhan,January,Present,0.93,15.59,0,93,45,16,85.95,Low,High,3.89,Excellent,23:47.2,Graphic Designing
+S10022,Zainab Tariq,B010,Farhan,January,Absent,0.95,12.16,0,95,46,19,81.08,Low,High,3.53,Excellent,00:57.3,Graphic Designing
+S10023,Junaid Khan,B010,Farhan,January,Present,0.89,8.47,0,89,49,12,65.02,Low,High,3.48,Above Average,08:08.0,Graphic Designing
+S10024,Rabia Tariq,B010,Farhan,January,Present,0.98,19.83,0,98,46,16,93.81,Low,High,3.61,Excellent,17:17.5,Graphic Designing
+S10025,Shazia Malik,B010,Farhan,January,Late,0.67,5.59,2,67,40,10,48.3,Medium,Medium,2,Average,22:43.5,Graphic Designing
+S10026,Mehwish Anwar,B010,Farhan,January,Present,0.44,3.03,2,44,34,6,21.62,High,Low,1.09,Below Average,18:13.9,Graphic Designing
+S10027,Furqan Iqbal,B010,Farhan,January,Absent,0.91,17.28,0,91,47,15,93.1,Low,High,3.99,Excellent,23:38.6,Graphic Designing
+S10028,Imran Khan,B010,Farhan,January,Late,0.66,5.32,1,66,44,14,43.21,Medium,Medium,2.2,Average,02:05.1,Graphic Designing
+S10029,Rehan Ali,B010,Farhan,January,Present,0.59,2.22,4,59,33,8,34.44,High,Low,0.7,Below Average,18:03.4,Graphic Designing
+S10030,Madiha Saeed,B010,Farhan,January,Present,0.93,18.95,0,93,50,20,86.56,Low,High,3.85,Excellent,08:52.2,Graphic Designing
+S10001,Salman Ahmed,B010,Farhan,February,Present,0.99,10.43,0,99,47,20,98.86,Low,High,3.99,Excellent,13:51.5,Graphic Designing
+S10002,Nouman Haider,B010,Farhan,February,Present,0.77,6.63,1,77,46,16,60.24,Low,High,3.22,Above Average,09:31.3,Graphic Designing
+S10003,Iqra Javed,B010,Farhan,February,Present,0.52,2.62,2,52,38,5,32.99,High,Low,0.95,Below Average,13:59.3,Graphic Designing
+S10004,Shahbaz Khan,B010,Farhan,February,Late,0.91,19.61,0,91,46,20,81.67,Low,High,3.87,Excellent,09:35.0,Graphic Designing
+S10005,Anum Shahid,B010,Farhan,February,Present,0.86,6.92,0,86,45,14,74.42,Low,High,3.01,Above Average,17:29.2,Graphic Designing
+S10006,Sara Malik,B010,Farhan,February,Late,0.69,6.29,2,69,43,13,53.77,Medium,Medium,2.19,Average,10:59.3,Graphic Designing
+S10007,Ayesha Siddiqui,B010,Farhan,February,Present,0.55,2.24,3,55,34,6,29.01,High,Low,1.18,Below Average,16:30.4,Graphic Designing
+S10008,Shahbaz Hussain,B010,Farhan,February,Present,0.82,7.87,1,82,43,15,67.18,Low,High,2.94,Above Average,17:20.4,Graphic Designing
+S10009,Mahnoor Anwar,B010,Farhan,February,Present,0.83,9.87,1,83,45,14,70.26,Low,High,2.8,Above Average,16:49.4,Graphic Designing
+S10010,Tanveer Abbas,B010,Farhan,February,Present,0.87,9.06,1,87,42,16,69.57,Low,High,3.32,Above Average,00:30.3,Graphic Designing
+S10011,Sehrish Khan,B010,Farhan,February,Present,0.46,2.19,4,46,33,6,36.3,High,Low,0.92,Below Average,00:19.3,Graphic Designing
+S10012,Faisal Qureshi,B010,Farhan,February,Present,0.88,6.94,1,88,50,12,73.31,Low,High,2.81,Above Average,02:20.6,Graphic Designing
+S10013,Huma Yousaf,B010,Farhan,February,Present,0.58,3.54,4,58,33,9,31.53,High,Low,1.2,Below Average,19:50.4,Graphic Designing
+S10014,Usman Iqbal,B010,Farhan,February,Late,0.57,3.97,2,57,39,9,37.42,High,Low,0.99,Below Average,08:34.3,Graphic Designing
+S10015,Noman Yousaf,B010,Farhan,February,Present,0.64,5.87,1,64,43,12,47.83,Medium,Medium,2.43,Average,06:50.8,Graphic Designing
+S10016,Kamran Abbas,B010,Farhan,February,Late,0.93,16.38,0,93,46,15,90.52,Low,High,4,Excellent,06:07.4,Graphic Designing
+S10017,Nadia Shah,B010,Farhan,February,Present,0.87,8.22,1,87,50,16,64.83,Low,High,3.25,Above Average,22:57.5,Graphic Designing
+S10018,Kashif Raza,B010,Farhan,February,Present,0.76,8.67,1,76,46,16,79.4,Low,High,2.97,Above Average,16:54.1,Graphic Designing
+S10019,Adil Ahmed,B010,Farhan,February,Present,0.82,9.98,0,82,41,15,65.13,Low,High,3.12,Above Average,19:27.3,Graphic Designing
+S10020,Beenish Arif,B010,Farhan,February,Present,0.75,5.3,1,75,42,10,51.75,Medium,Medium,2.39,Average,06:52.4,Graphic Designing
+S10021,Lubna Iqbal,B010,Farhan,February,Absent,0.85,6.05,0,85,48,12,66.94,Low,High,3.03,Above Average,00:47.4,Graphic Designing
+S10022,Zainab Tariq,B010,Farhan,February,Present,0.54,1.55,2,54,36,8,28.82,High,Low,0.55,Below Average,09:42.6,Graphic Designing
+S10023,Junaid Khan,B010,Farhan,February,Present,0.98,16.42,0,98,46,19,100,Low,High,3.96,Excellent,18:11.4,Graphic Designing
+S10024,Rabia Tariq,B010,Farhan,February,Present,0.92,17.89,0,92,48,16,94.55,Low,High,3.55,Excellent,01:55.4,Graphic Designing
+S10025,Shazia Malik,B010,Farhan,February,Absent,0.72,5.08,1,72,40,12,57.99,Medium,Medium,2.01,Average,13:59.2,Graphic Designing
+S10026,Mehwish Anwar,B010,Farhan,February,Present,0.82,6.84,1,82,43,14,64.35,Low,High,3.32,Above Average,14:10.5,Graphic Designing
+S10027,Furqan Iqbal,B010,Farhan,February,Late,0.54,2.48,2,54,40,5,37.23,High,Low,0.79,Below Average,16:54.2,Graphic Designing
+S10028,Imran Khan,B010,Farhan,February,Present,0.44,3.03,4,44,36,5,21.24,High,Low,0.83,Below Average,07:31.6,Graphic Designing
+S10029,Rehan Ali,B010,Farhan,February,Present,0.44,1.44,4,44,30,6,31.41,High,Low,1.54,Below Average,08:44.4,Graphic Designing
+S10030,Madiha Saeed,B010,Farhan,February,Late,0.8,8.35,0,80,40,13,71.54,Low,High,3.21,Above Average,15:30.2,Graphic Designing
+S10001,Salman Ahmed,B010,Farhan,March,Present,0.99,11.32,0,99,49,19,85.73,Low,High,3.73,Excellent,06:51.4,Graphic Designing
+S10002,Nouman Haider,B010,Farhan,March,Present,0.99,15.76,0,99,46,15,88.22,Low,High,3.74,Excellent,12:13.9,Graphic Designing
+S10003,Iqra Javed,B010,Farhan,March,Absent,0.96,14.91,0,96,45,16,94.55,Low,High,3.63,Excellent,20:40.0,Graphic Designing
+S10004,Shahbaz Khan,B010,Farhan,March,Present,0.85,8.87,0,85,45,16,68.96,Low,High,3.48,Above Average,23:23.5,Graphic Designing
+S10005,Anum Shahid,B010,Farhan,March,Present,0.42,3.28,2,42,33,6,28.68,High,Low,0.54,Below Average,13:31.8,Graphic Designing
+S10006,Sara Malik,B010,Farhan,March,Absent,0.84,8,0,84,40,14,65.58,Low,High,3.14,Above Average,22:22.3,Graphic Designing
+S10007,Ayesha Siddiqui,B010,Farhan,March,Late,0.47,3.4,3,47,36,10,20.54,High,Low,1.87,Below Average,17:57.3,Graphic Designing
+S10008,Shahbaz Hussain,B010,Farhan,March,Absent,0.97,17.84,0,97,48,17,86.97,Low,High,3.71,Excellent,12:37.1,Graphic Designing
+S10009,Mahnoor Anwar,B010,Farhan,March,Late,0.44,3.46,2,44,34,10,24.53,High,Low,0.62,Below Average,22:28.6,Graphic Designing
+S10010,Tanveer Abbas,B010,Farhan,March,Absent,0.93,13.05,0,93,46,17,93.91,Low,High,3.73,Excellent,06:10.1,Graphic Designing
+S10011,Sehrish Khan,B010,Farhan,March,Absent,0.9,11.53,0,90,48,15,95.08,Low,High,3.65,Excellent,18:35.3,Graphic Designing
+S10012,Faisal Qureshi,B010,Farhan,March,Present,0.77,9.59,0,77,41,15,60.36,Low,High,2.84,Above Average,13:37.2,Graphic Designing
+S10013,Huma Yousaf,B010,Farhan,March,Present,0.97,16.34,0,97,50,16,85.26,Low,High,4,Excellent,00:00.4,Graphic Designing
+S10014,Usman Iqbal,B010,Farhan,March,Present,0.44,2.93,2,44,38,5,37.74,High,Low,0.79,Below Average,08:10.5,Graphic Designing
+S10015,Noman Yousaf,B010,Farhan,March,Present,0.93,15.81,0,93,50,18,87.31,Low,High,3.64,Excellent,19:46.5,Graphic Designing
+S10016,Kamran Abbas,B010,Farhan,March,Present,0.42,3.32,2,42,33,10,28.56,High,Low,0.82,Below Average,03:47.7,Graphic Designing
+S10017,Nadia Shah,B010,Farhan,March,Present,0.84,6.39,0,84,47,16,67.55,Low,High,3.3,Above Average,05:23.2,Graphic Designing
+S10018,Kashif Raza,B010,Farhan,March,Present,0.48,1.31,3,48,30,5,28.89,High,Low,1.71,Below Average,17:13.4,Graphic Designing
+S10019,Adil Ahmed,B010,Farhan,March,Late,0.87,6.23,1,87,40,15,74.75,Low,High,3.37,Above Average,21:21.2,Graphic Designing
+S10020,Beenish Arif,B010,Farhan,March,Present,0.99,16.13,0,99,46,20,93.49,Low,High,3.75,Excellent,03:29.4,Graphic Designing
+S10021,Lubna Iqbal,B010,Farhan,March,Absent,0.91,13.16,0,91,45,16,91.31,Low,High,3.54,Excellent,22:20.3,Graphic Designing
+S10022,Zainab Tariq,B010,Farhan,March,Present,0.98,11.13,0,98,47,20,93.9,Low,High,3.78,Excellent,19:49.4,Graphic Designing
+S10023,Junaid Khan,B010,Farhan,March,Present,0.49,3.45,2,49,30,10,37.69,High,Low,1.61,Below Average,21:02.3,Graphic Designing
+S10024,Rabia Tariq,B010,Farhan,March,Late,0.68,5.27,1,68,42,14,49.64,Medium,Medium,2.06,Average,03:54.4,Graphic Designing
+S10025,Shazia Malik,B010,Farhan,March,Absent,0.45,1.52,2,45,36,8,35.58,High,Low,1.57,Below Average,09:31.5,Graphic Designing
+S10026,Mehwish Anwar,B010,Farhan,March,Late,0.99,16.61,0,99,48,18,97.63,Low,High,3.51,Excellent,20:23.4,Graphic Designing
+S10027,Furqan Iqbal,B010,Farhan,March,Present,0.67,4.57,2,67,40,13,48.76,Medium,Medium,2.8,Average,00:27.4,Graphic Designing
+S10028,Imran Khan,B010,Farhan,March,Late,0.9,8.91,1,90,44,14,79.9,Low,High,3.09,Above Average,02:18.5,Graphic Designing
+S10029,Rehan Ali,B010,Farhan,March,Present,0.46,3.56,3,46,30,5,24.69,High,Low,1.12,Below Average,09:43.5,Graphic Designing
+S10030,Madiha Saeed,B010,Farhan,March,Late,0.44,3.97,3,44,40,8,38.7,High,Low,1.08,Below Average,13:05.3,Graphic Designing
+S11001,Shahbaz Khan,B011,Mariam,January,Late,0.6,2.12,2,60,30,9,25.35,High,Low,0.79,Below Average,22:32.9,Digital Marketing
+S11002,Zara Sheikh,B011,Mariam,January,Present,0.87,6.91,1,87,47,13,68.61,Low,High,3.24,Above Average,10:14.2,Digital Marketing
+S11003,Mehwish Anwar,B011,Mariam,January,Late,0.95,10.69,0,95,46,15,85.11,Low,High,3.88,Excellent,23:51.3,Digital Marketing
+S11004,Taimoor Khalid,B011,Mariam,January,Late,0.61,6.19,2,61,37,13,42.53,Medium,Medium,2.62,Average,01:00.4,Digital Marketing
+S11005,Imran Akhtar,B011,Mariam,January,Present,0.56,3.84,4,56,38,7,20.23,High,Low,1.85,Below Average,03:22.3,Digital Marketing
+S11006,Nadia Saleem,B011,Mariam,January,Present,0.95,15.32,0,95,46,15,98.49,Low,High,3.75,Excellent,15:08.4,Digital Marketing
+S11007,Noman Yousaf,B011,Mariam,January,Late,0.42,3.28,3,42,36,6,29.46,High,Low,1.87,Below Average,18:46.6,Digital Marketing
+S11008,Nadia Shah,B011,Mariam,January,Present,0.75,6.26,1,75,44,10,45.71,Medium,Medium,2.05,Average,16:55.5,Digital Marketing
+S11009,Rabia Tariq,B011,Mariam,January,Absent,0.46,3.51,2,46,34,5,22.17,High,Low,0.69,Below Average,22:09.3,Digital Marketing
+S11010,Sara Malik,B011,Mariam,January,Absent,0.62,5.55,1,62,40,12,43.15,Medium,Medium,2.16,Average,17:45.2,Digital Marketing
+S11011,Junaid Khan,B011,Mariam,January,Present,0.69,6.55,2,69,39,14,54.33,Medium,Medium,2.76,Average,23:03.7,Digital Marketing
+S11012,Hassan Raza,B011,Mariam,January,Absent,0.73,6.74,2,73,45,12,45.06,Medium,Medium,2.43,Average,09:18.4,Digital Marketing
+S11013,Salman Tariq,B011,Mariam,January,Late,0.91,17.92,0,91,50,20,85.4,Low,High,3.8,Excellent,00:57.4,Digital Marketing
+S11014,Shazia Malik,B011,Mariam,January,Present,0.7,5.75,1,70,44,13,56.51,Medium,Medium,2.21,Average,15:21.4,Digital Marketing
+S11015,Rizwan Zafar,B011,Mariam,January,Late,0.47,2.24,4,47,35,6,33.07,High,Low,1.85,Below Average,12:50.1,Digital Marketing
+S11016,Aliya Shah,B011,Mariam,January,Late,0.47,2.55,2,47,32,5,25.3,High,Low,1.17,Below Average,09:07.1,Digital Marketing
+S11017,Mahnoor Anwar,B011,Mariam,January,Present,0.85,7.38,1,85,41,12,66.32,Low,High,3.14,Above Average,04:32.9,Digital Marketing
+S11018,Zainab Tariq,B011,Mariam,January,Present,0.5,3.6,2,50,32,9,22.48,High,Low,1.97,Below Average,21:21.2,Digital Marketing
+S11019,Sehrish Khan,B011,Mariam,January,Present,0.87,7.77,1,87,41,13,60.06,Low,High,3.45,Above Average,15:05.2,Digital Marketing
+S11020,Beenish Khalid,B011,Mariam,January,Late,0.51,1.09,2,51,33,6,38.94,High,Low,1.58,Below Average,23:42.5,Digital Marketing
+S11021,Bilal Hussain,B011,Mariam,January,Absent,0.44,3.95,3,44,39,5,22.73,High,Low,0.65,Below Average,00:29.6,Digital Marketing
+S11022,Amna Khan,B011,Mariam,January,Present,0.98,14.41,0,98,47,17,94.5,Low,High,3.61,Excellent,03:14.3,Digital Marketing
+S11023,Shehzad Aslam,B011,Mariam,January,Present,0.59,2.99,2,59,36,10,28.23,High,Low,0.73,Below Average,23:00.1,Digital Marketing
+S11024,Salman Ahmed,B011,Mariam,January,Late,0.77,8,0,77,42,13,76.28,Low,High,3.17,Above Average,17:17.5,Digital Marketing
+S11025,Rehan Ali,B011,Mariam,January,Present,0.81,7.7,1,81,43,14,78.81,Low,High,2.82,Above Average,09:12.3,Digital Marketing
+S11026,Huma Yousaf,B011,Mariam,January,Present,0.72,4.26,2,72,35,10,47.66,Medium,Medium,2.47,Average,09:45.3,Digital Marketing
+S11027,Kamran Abbas,B011,Mariam,January,Present,0.47,1.25,4,47,34,10,37,High,Low,1.42,Below Average,04:39.6,Digital Marketing
+S11028,Rizwan Ali,B011,Mariam,January,Present,0.56,1.57,4,56,34,5,21.04,High,Low,1.77,Below Average,13:31.4,Digital Marketing
+S11029,Iqra Javed,B011,Mariam,January,Present,0.53,3.35,2,53,38,10,23.4,High,Low,1.71,Below Average,12:36.5,Digital Marketing
+S11030,Zainab Khalid,B011,Mariam,January,Present,0.97,17.95,0,97,47,19,86.05,Low,High,3.68,Excellent,19:07.3,Digital Marketing
+S11001,Shahbaz Khan,B011,Mariam,February,Present,0.58,3.81,3,58,39,8,30.67,High,Low,1.87,Below Average,07:59.2,Digital Marketing
+S11002,Zara Sheikh,B011,Mariam,February,Late,0.95,18.13,0,95,45,19,84.11,Low,High,3.61,Excellent,00:58.3,Digital Marketing
+S11003,Mehwish Anwar,B011,Mariam,February,Present,0.92,17.87,0,92,49,20,96.66,Low,High,4,Excellent,23:47.2,Digital Marketing
+S11004,Taimoor Khalid,B011,Mariam,February,Present,0.8,7.36,0,80,46,14,69.06,Low,High,3.06,Above Average,06:56.2,Digital Marketing
+S11005,Imran Akhtar,B011,Mariam,February,Present,0.94,15.62,0,94,45,16,96.84,Low,High,3.83,Excellent,06:39.4,Digital Marketing
+S11006,Nadia Saleem,B011,Mariam,February,Late,1,15.1,0,100,50,15,85.93,Low,High,3.54,Excellent,10:01.4,Digital Marketing
+S11007,Noman Yousaf,B011,Mariam,February,Present,0.78,6.99,1,78,46,12,69.94,Low,High,2.87,Above Average,19:16.5,Digital Marketing
+S11008,Nadia Shah,B011,Mariam,February,Present,0.48,2.71,4,48,33,9,31.14,High,Low,1.72,Below Average,06:11.4,Digital Marketing
+S11009,Rabia Tariq,B011,Mariam,February,Present,0.74,4.75,2,74,43,13,58.54,Medium,Medium,2.1,Average,16:18.2,Digital Marketing
+S11010,Sara Malik,B011,Mariam,February,Present,0.97,10.36,0,97,47,18,86.46,Low,High,3.68,Excellent,06:36.2,Digital Marketing
+S11011,Junaid Khan,B011,Mariam,February,Present,0.98,16.26,0,98,47,17,99.83,Low,High,3.92,Excellent,21:52.2,Digital Marketing
+S11012,Hassan Raza,B011,Mariam,February,Absent,0.47,1.31,2,47,38,6,23.55,High,Low,1.45,Below Average,17:21.5,Digital Marketing
+S11013,Salman Tariq,B011,Mariam,February,Absent,0.71,6.34,1,71,44,10,50.09,Medium,Medium,2.78,Average,05:42.3,Digital Marketing
+S11014,Shazia Malik,B011,Mariam,February,Present,0.69,6.37,1,69,36,13,44.38,Medium,Medium,2.37,Average,02:24.4,Digital Marketing
+S11015,Rizwan Zafar,B011,Mariam,February,Late,0.91,11.02,0,91,49,20,85.33,Low,High,3.55,Excellent,19:14.4,Digital Marketing
+S11016,Aliya Shah,B011,Mariam,February,Late,0.74,4.42,2,74,45,12,48.1,Medium,Medium,2.75,Average,21:41.3,Digital Marketing
+S11017,Mahnoor Anwar,B011,Mariam,February,Absent,0.54,1.9,3,54,34,5,20.88,High,Low,1.93,Below Average,21:54.4,Digital Marketing
+S11018,Zainab Tariq,B011,Mariam,February,Present,0.59,2.78,3,59,39,7,35.47,High,Low,0.91,Below Average,10:04.2,Digital Marketing
+S11019,Sehrish Khan,B011,Mariam,February,Present,0.92,14.76,0,92,49,15,94.69,Low,High,3.61,Excellent,05:09.5,Digital Marketing
+S11020,Beenish Khalid,B011,Mariam,February,Late,0.69,5.76,1,69,39,11,53.66,Medium,Medium,2.76,Average,11:35.4,Digital Marketing
+S11021,Bilal Hussain,B011,Mariam,February,Present,0.49,2.8,2,49,31,5,28.64,High,Low,1.44,Below Average,16:22.2,Digital Marketing
+S11022,Amna Khan,B011,Mariam,February,Late,0.9,13.43,0,90,46,17,83.02,Low,High,3.65,Excellent,15:37.1,Digital Marketing
+S11023,Shehzad Aslam,B011,Mariam,February,Present,0.44,3.38,3,44,38,6,24.2,High,Low,1.72,Below Average,01:23.5,Digital Marketing
+S11024,Salman Ahmed,B011,Mariam,February,Present,0.9,11.02,0,90,48,17,90.99,Low,High,3.95,Excellent,04:46.1,Digital Marketing
+S11025,Rehan Ali,B011,Mariam,February,Late,0.95,16.66,0,95,46,19,93.77,Low,High,3.72,Excellent,10:01.4,Digital Marketing
+S11026,Huma Yousaf,B011,Mariam,February,Late,0.88,7.41,1,88,42,12,74.09,Low,High,2.98,Above Average,09:02.6,Digital Marketing
+S11027,Kamran Abbas,B011,Mariam,February,Present,0.92,10.13,0,92,45,15,85.37,Low,High,3.54,Excellent,08:49.4,Digital Marketing
+S11028,Rizwan Ali,B011,Mariam,February,Present,0.55,1.63,2,55,38,10,22.11,High,Low,0.81,Below Average,08:05.4,Digital Marketing
+S11029,Iqra Javed,B011,Mariam,February,Present,0.84,7,1,84,41,13,63.53,Low,High,2.89,Above Average,12:50.4,Digital Marketing
+S11030,Zainab Khalid,B011,Mariam,February,Present,0.43,3.1,4,43,31,9,20.46,High,Low,1.39,Below Average,16:03.4,Digital Marketing
+S11001,Shahbaz Khan,B011,Mariam,March,Absent,0.55,1.55,4,55,38,5,21.15,High,Low,1.74,Below Average,18:56.8,Digital Marketing
+S11002,Zara Sheikh,B011,Mariam,March,Present,0.95,19.24,0,95,46,19,92.54,Low,High,3.52,Excellent,20:24.6,Digital Marketing
+S11003,Mehwish Anwar,B011,Mariam,March,Absent,0.81,6.8,0,81,48,13,66.12,Low,High,3.34,Above Average,13:49.0,Digital Marketing
+S11004,Taimoor Khalid,B011,Mariam,March,Absent,0.89,6.53,1,89,50,15,78.39,Low,High,3.06,Above Average,08:28.3,Digital Marketing
+S11005,Imran Akhtar,B011,Mariam,March,Absent,0.91,19.53,0,91,50,16,95.31,Low,High,3.93,Excellent,08:39.2,Digital Marketing
+S11006,Nadia Saleem,B011,Mariam,March,Late,0.98,19.37,0,98,45,18,89.9,Low,High,3.52,Excellent,07:01.3,Digital Marketing
+S11007,Noman Yousaf,B011,Mariam,March,Present,0.7,6,2,70,42,11,55.02,Medium,Medium,2.76,Average,15:37.1,Digital Marketing
+S11008,Nadia Shah,B011,Mariam,March,Present,0.51,1.74,3,51,37,5,25.37,High,Low,1.3,Below Average,03:35.3,Digital Marketing
+S11009,Rabia Tariq,B011,Mariam,March,Present,0.46,2.98,4,46,40,9,27.42,High,Low,0.53,Below Average,11:12.4,Digital Marketing
+S11010,Sara Malik,B011,Mariam,March,Late,0.79,7.32,1,79,48,14,63.49,Low,High,3.32,Above Average,16:35.3,Digital Marketing
+S11011,Junaid Khan,B011,Mariam,March,Absent,0.92,17.85,0,92,45,18,93.59,Low,High,3.55,Excellent,19:53.4,Digital Marketing
+S11012,Hassan Raza,B011,Mariam,March,Present,0.91,17.64,0,91,48,17,80.14,Low,High,3.55,Excellent,20:49.8,Digital Marketing
+S11013,Salman Tariq,B011,Mariam,March,Absent,0.48,3.02,2,48,32,9,24.29,High,Low,1.26,Below Average,02:04.3,Digital Marketing
+S11014,Shazia Malik,B011,Mariam,March,Present,0.69,6.65,2,69,43,14,50.98,Medium,Medium,2.5,Average,05:53.6,Digital Marketing
+S11015,Rizwan Zafar,B011,Mariam,March,Present,0.93,17.41,0,93,46,15,96.35,Low,High,3.93,Excellent,13:13.4,Digital Marketing
+S11016,Aliya Shah,B011,Mariam,March,Present,0.96,13.11,0,96,50,17,85.04,Low,High,3.61,Excellent,16:54.2,Digital Marketing
+S11017,Mahnoor Anwar,B011,Mariam,March,Present,0.99,14.57,0,99,45,19,91.78,Low,High,3.83,Excellent,23:56.2,Digital Marketing
+S11018,Zainab Tariq,B011,Mariam,March,Present,0.45,2.88,2,45,32,10,35.72,High,Low,1.75,Below Average,21:59.8,Digital Marketing
+S11019,Sehrish Khan,B011,Mariam,March,Late,0.92,10.22,0,92,46,16,93.65,Low,High,3.79,Excellent,03:54.4,Digital Marketing
+S11020,Beenish Khalid,B011,Mariam,March,Present,0.87,6.86,0,87,48,16,78.15,Low,High,2.86,Above Average,18:12.3,Digital Marketing
+S11021,Bilal Hussain,B011,Mariam,March,Late,0.47,1.21,2,47,34,6,21.97,High,Low,0.9,Below Average,14:25.4,Digital Marketing
+S11022,Amna Khan,B011,Mariam,March,Present,0.76,9.79,1,76,47,13,73.15,Low,High,3.03,Above Average,19:16.5,Digital Marketing
+S11023,Shehzad Aslam,B011,Mariam,March,Late,0.54,2.06,2,54,39,5,38.94,High,Low,1.27,Below Average,15:53.5,Digital Marketing
+S11024,Salman Ahmed,B011,Mariam,March,Absent,1,14.02,0,100,48,18,80.11,Low,High,3.5,Excellent,02:53.4,Digital Marketing
+S11025,Rehan Ali,B011,Mariam,March,Present,0.4,1.2,4,40,38,5,32.13,High,Low,1.71,Below Average,09:18.4,Digital Marketing
+S11026,Huma Yousaf,B011,Mariam,March,Present,0.94,19.2,0,94,47,20,99.67,Low,High,3.67,Excellent,13:59.2,Digital Marketing
+S11027,Kamran Abbas,B011,Mariam,March,Late,0.95,10.98,0,95,48,19,86.81,Low,High,3.81,Excellent,09:06.7,Digital Marketing
+S11028,Rizwan Ali,B011,Mariam,March,Present,0.99,17.53,0,99,50,20,96.78,Low,High,3.8,Excellent,05:42.3,Digital Marketing
+S11029,Iqra Javed,B011,Mariam,March,Present,0.97,11.92,0,97,46,16,87.1,Low,High,3.51,Excellent,10:25.4,Digital Marketing
+S11030,Zainab Khalid,B011,Mariam,March,Present,0.9,14.16,0,90,48,18,83.9,Low,High,3.54,Excellent,11:26.4,Digital Marketing

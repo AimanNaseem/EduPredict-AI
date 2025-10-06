@@ -1,0 +1,22 @@
+http://localhost:3001/analyze_data
+http://localhost:3001/compare_all_models
+http://localhost:3001/available_models
+
+
+
+Non-education prompts
+
+“Write a short motivational message for someone starting a new job.”
+
+“Suggest 3 healthy meal ideas for busy people who don’t have time to cook.”
+
+“Give me creative Instagram caption ideas for a sunset photo.”
+
+
+Education-related prompts
+
+“Can you explain the difference between machine learning and deep learning in simple terms for students?”
+
+“Give me a study plan for preparing for exams in just two weeks.”
+
+“Suggest 5 engaging classroom activities to make mathematics more interesting for high school students.”

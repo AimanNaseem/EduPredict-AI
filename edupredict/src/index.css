@@ -1,0 +1,128 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* DO NOT DELETE THESE TAILWIND IMPORTS, OTHERWISE THE STYLING WILL NOT RENDER AT ALL */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+:root {
+  --primary: #4f46e5;
+  --primary-dark: #4338ca;
+  --secondary: #06b6d4;
+  --accent: #8b5cf6;
+  --background: #f9fafb;
+  --card-bg: #ffffff;
+  --text-primary: #111827;
+  --text-secondary: #4b5563;
+}
+/* Base styles */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--background);
+  color: var(--text-primary);
+}
+/* Animation keyframes */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes slideIn {
+  from { transform: translateX(-20px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+/* Component styles */
+.card {
+  background-color: var(--card-bg);
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease;
+}
+.card:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  transform: translateY(-2px);
+}
+.btn {
+  transition: all 0.2s ease;
+}
+.btn:hover {
+  transform: translateY(-1px);
+}
+.gradient-bg {
+  background: #9078e2;
+}
+.sidebar-link-active {
+  background: linear-gradient(90deg, rgba(79, 70, 229, 0.1), rgba(139, 92, 246, 0.1));
+  border-left: 3px solid var(--primary);
+  color: var(--primary);
+}
+.progress-bar {
+  overflow: hidden;
+  border-radius: 9999px;
+}
+/* Animation classes */
+.animate-fade-in {
+  animation: fadeIn 0.5s ease forwards;
+}
+.animate-slide-in {
+  animation: slideIn 0.5s ease forwards;
+}
+.animate-pulse-slow {
+  animation: pulse 2s infinite;
+}
+/* Stagger children animations */
+.stagger-children > * {
+  opacity: 0;
+  animation: fadeIn 0.5s ease forwards;
+}
+.stagger-children > *:nth-child(1) { animation-delay: 0.1s; }
+.stagger-children > *:nth-child(2) { animation-delay: 0.2s; }
+.stagger-children > *:nth-child(3) { animation-delay: 0.3s; }
+.stagger-children > *:nth-child(4) { animation-delay: 0.4s; }
+.stagger-children > *:nth-child(5) { animation-delay: 0.5s; }
+.stagger-children > *:nth-child(6) { animation-delay: 0.6s; }
+.stagger-children > *:nth-child(7) { animation-delay: 0.7s; }
+.stagger-children > *:nth-child(8) { animation-delay: 0.8s; }
+/* Responsive table */
+@media (max-width: 640px) {
+  .responsive-table {
+    display: block;
+  }
+  .responsive-table thead {
+    display: none;
+  }
+  .responsive-table tbody, .responsive-table tr {
+    display: block;
+    width: 100%;
+  }
+  .responsive-table td {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: right;
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  .responsive-table td::before {
+    content: attr(data-label);
+    font-weight: 600;
+    text-align: left;
+    padding-right: 1rem;
+  }
+}
+/* Hover effects */
+.hover-lift {
+  transition: transform 0.2s ease;
+}
+.hover-lift:hover {
+  transform: translateY(-3px);
+}
+/* Glassmorphism */
+.glass {
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}

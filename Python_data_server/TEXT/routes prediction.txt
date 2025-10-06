@@ -1,0 +1,11 @@
+perform_attendance_trend_analysis  (overveiw)(/student_attendance_trends/{student_id}/{limits})
+
+train_rf_model_and_get_dropout_summary  (Prediction summar)(/dropout_risk_by_course)
+
+calculate_dropout_risk_per_studen (indevidula) (/dropout_risk_percentage)
+
+train_rf_model_and_get_student_probabilities  (teacher me barchart)(/get_student_probabilities)
+
+train_rf_model_and_get_performance_summary  () (/performance_summary)
+
+predict_course_demand_from_df    (course_demand) (/course_demand)

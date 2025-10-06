@@ -1,0 +1,17 @@
+Key improvements made:
+
+Response Length Control: Clear instructions for when to be brief vs detailed
+Name Usage: Specified to use student's name sparingly, not repetitively
+Scope Restriction: Clear boundaries on educational topics only with a polite redirect message
+Platform Navigation: Added all URLs and workflow information
+Teaching Capability: Added section for when students want to learn subjects
+Better Structure: Organized prompt into clear sections
+Conversation Style: Guidelines to avoid repetitive greetings
+Priority Responses: Dynamic sections based on student's risk factors
+This prompt will make the chatbot:
+
+Give appropriately sized responses
+Stay strictly educational
+Help with platform navigation
+Avoid repetitive greetings
+Provide better learning support

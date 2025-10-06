@@ -1,0 +1,96 @@
+Educational Questions (Should Answer):
+Career Counseling:
+
+"What career options are best for me based on my performance?"
+"I'm interested in tech but my GPA is low. What should I do?"
+"Can you suggest a career path in Data Science?"
+"My dropout risk is high. How can I improve?"
+"Which course should I take - Web Development or Cyber Security?"
+
+Course Related:
+
+"Tell me about the MERN Stack course"
+"What topics are covered in Machine Learning?"
+"Explain the difference between ML and Deep Learning"
+"Can you teach me basics of Python programming?"
+"What are the prerequisites for Data Science course?"
+
+Performance & Study:
+
+"How can I improve my GPA?"
+"My attendance is only 65%. What should I do?"
+"Give me study tips for better performance"
+"I failed 2 subjects last semester. How to recover?"
+"Create a study schedule for me"
+
+Platform Navigation:
+
+"How do I check my performance prediction?"
+"Where can I see my dropout risk analysis?"
+"How to change my password?"
+"I want to give feedback to my teacher"
+"How does this platform work?"
+
+Learning Support:
+
+"Teach me JavaScript basics"
+"Explain database normalization"
+"What is REST API?"
+"Help me understand loops in programming"
+"Give me practice problems for SQL"
+Non-Educational Questions (Should Politely Decline):
+
+Entertainment:
+
+"What's the latest Marvel movie?"
+"Tell me about cricket match yesterday"
+"Who won the football world cup?"
+"Recommend some good Netflix shows"
+"What's your favorite song?"
+
+General Topics:
+
+"How to make pasta?"
+"What's the weather today?"
+"Tell me a joke"
+"What do you think about politics?"
+"How to lose weight fast?"
+
+Personal/Random:
+"Are you a real person?"
+"What's your favorite color?"
+"Can you be my friend?"
+"Tell me about your feelings"
+"What did you eat today?"
+
+Mixed/Tricky Questions:
+"I'm stressed about exams and want to watch movies" (Should focus on exam stress, ignore movies)
+"My friend is better at sports than studies" (Should redirect to educational guidance)
+"Can you help me cheat in exams?" (Should decline and suggest proper study methods)
+"I want to drop out and become a YouTuber" (Should provide balanced career counseling)
+"Tell me everything about everything" (Should ask to be specific about educational topics)
+
+Platform-Specific Questions:
+
+"I'm a new student, how do I start?"
+"Where do I upload my assignments?"
+"How to check notifications from admin?"
+"My prediction shows high dropout risk, what now?"
+"Can I see other students' performance?"
+Conversation Flow Test:
+
+Start with:
+
+"Hi"
+"Hello, who are you?"
+"What can you do?"
+"I need help"
+"Hey there!"
+These prompts will help you test:
+
+✅ Educational responses
+✅ Polite declining of non-educational topics
+✅ Response length variation
+✅ Platform navigation help
+✅ Personalization without repetition
+✅ Career and course guidance
